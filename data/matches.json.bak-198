@@ -1,0 +1,14654 @@
+[
+{
+"match_id": 789645621,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "Newbee",
+"dire_team": "Vici Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 27,
+"team": "radiant",
+"order": 4,
+"player": "凯瑞王"
+},
+{
+"hero_id": 68,
+"team": "dire",
+"order": 5,
+"player": "l"
+},
+{
+"hero_id": 53,
+"team": "dire",
+"order": 6,
+"player": "0.0"
+},
+{
+"hero_id": 78,
+"team": "radiant",
+"order": 7,
+"player": "不出红到点丶"
+},
+{
+"hero_id": 63,
+"team": "dire",
+"order": 12,
+"player": "随便玩玩"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 13,
+"player": "biubiubiu!"
+},
+{
+"hero_id": 16,
+"team": "dire",
+"order": 14,
+"player": "fy"
+},
+{
+"hero_id": 69,
+"team": "radiant",
+"order": 15,
+"player": "TIGER"
+},
+{
+"hero_id": 40,
+"team": "dire",
+"order": 18,
+"player": "神罗天征"
+},
+{
+"hero_id": 106,
+"team": "radiant",
+"order": 19,
+"player": "Hao"
+}
+],
+"answer": {
+"hero_id": 106,
+"team": "radiant"
+}
+},
+{
+"match_id": 789590883,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "Newbee",
+"dire_team": "Vici Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 27,
+"team": "radiant",
+"order": 4,
+"player": "凯瑞王"
+},
+{
+"hero_id": 40,
+"team": "dire",
+"order": 5,
+"player": "神罗天征"
+},
+{
+"hero_id": 53,
+"team": "dire",
+"order": 6,
+"player": "0.0"
+},
+{
+"hero_id": 73,
+"team": "radiant",
+"order": 7,
+"player": "TIGER"
+},
+{
+"hero_id": 68,
+"team": "dire",
+"order": 12,
+"player": "l"
+},
+{
+"hero_id": 13,
+"team": "radiant",
+"order": 13,
+"player": "不出红到点丶"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 14,
+"player": "fy"
+},
+{
+"hero_id": 63,
+"team": "radiant",
+"order": 15,
+"player": "Hao"
+},
+{
+"hero_id": 106,
+"team": "dire",
+"order": 18,
+"player": "随便玩玩"
+},
+{
+"hero_id": 66,
+"team": "radiant",
+"order": 19,
+"player": "biubiubiu!"
+}
+],
+"answer": {
+"hero_id": 66,
+"team": "radiant"
+}
+},
+{
+"match_id": 789518247,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "Vici Gaming",
+"dire_team": "Newbee",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 53,
+"team": "radiant",
+"order": 4,
+"player": "神罗天征"
+},
+{
+"hero_id": 73,
+"team": "dire",
+"order": 5,
+"player": "TIGER"
+},
+{
+"hero_id": 68,
+"team": "dire",
+"order": 6,
+"player": "biubiubiu!"
+},
+{
+"hero_id": 47,
+"team": "radiant",
+"order": 7,
+"player": "随便玩玩"
+},
+{
+"hero_id": 78,
+"team": "dire",
+"order": 12,
+"player": "不出红到点丶"
+},
+{
+"hero_id": 101,
+"team": "radiant",
+"order": 13,
+"player": "fy"
+},
+{
+"hero_id": 63,
+"team": "dire",
+"order": 14,
+"player": "Hao"
+},
+{
+"hero_id": 16,
+"team": "radiant",
+"order": 15,
+"player": "l"
+},
+{
+"hero_id": 7,
+"team": "dire",
+"order": 18,
+"player": "凯瑞王"
+},
+{
+"hero_id": 10,
+"team": "radiant",
+"order": 19,
+"player": "0.0"
+}
+],
+"answer": {
+"hero_id": 10,
+"team": "radiant"
+}
+},
+{
+"match_id": 789453600,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "Newbee",
+"dire_team": "Vici Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 53,
+"team": "radiant",
+"order": 4,
+"player": "TIGER"
+},
+{
+"hero_id": 27,
+"team": "dire",
+"order": 5,
+"player": "fy"
+},
+{
+"hero_id": 7,
+"team": "dire",
+"order": 6,
+"player": "l"
+},
+{
+"hero_id": 68,
+"team": "radiant",
+"order": 7,
+"player": "凯瑞王"
+},
+{
+"hero_id": 78,
+"team": "dire",
+"order": 12,
+"player": "随便玩玩"
+},
+{
+"hero_id": 26,
+"team": "radiant",
+"order": 13,
+"player": "biubiubiu!"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 14,
+"player": "神罗天征"
+},
+{
+"hero_id": 54,
+"team": "radiant",
+"order": 15,
+"player": "Hao"
+},
+{
+"hero_id": 80,
+"team": "dire",
+"order": 18,
+"player": "0.0"
+},
+{
+"hero_id": 73,
+"team": "radiant",
+"order": 19,
+"player": "不出红到点丶"
+}
+],
+"answer": {
+"hero_id": 73,
+"team": "radiant"
+}
+},
+{
+"match_id": 787943161,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "Vici Gaming",
+"dire_team": "Shopify Rebellion",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 53,
+"team": "radiant",
+"order": 4,
+"player": "0.0"
+},
+{
+"hero_id": 33,
+"team": "dire",
+"order": 5,
+"player": "Chao P"
+},
+{
+"hero_id": 41,
+"team": "dire",
+"order": 6,
+"player": "mason"
+},
+{
+"hero_id": 40,
+"team": "radiant",
+"order": 7,
+"player": "神罗天征"
+},
+{
+"hero_id": 9,
+"team": "dire",
+"order": 12,
+"player": "ABOVE THE CLOUDS"
+},
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 13,
+"player": "l"
+},
+{
+"hero_id": 98,
+"team": "dire",
+"order": 14,
+"player": "z"
+},
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 15,
+"player": "fy"
+},
+{
+"hero_id": 73,
+"team": "dire",
+"order": 18,
+"player": "天鸽"
+},
+{
+"hero_id": 49,
+"team": "radiant",
+"order": 19,
+"player": "随便玩玩"
+}
+],
+"answer": {
+"hero_id": 49,
+"team": "radiant"
+}
+},
+{
+"match_id": 787900748,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "Vici Gaming",
+"dire_team": "Shopify Rebellion",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 53,
+"team": "radiant",
+"order": 4,
+"player": "0.0"
+},
+{
+"hero_id": 33,
+"team": "dire",
+"order": 5,
+"player": "Chao P"
+},
+{
+"hero_id": 41,
+"team": "dire",
+"order": 6,
+"player": "z"
+},
+{
+"hero_id": 69,
+"team": "radiant",
+"order": 7,
+"player": "神罗天征"
+},
+{
+"hero_id": 63,
+"team": "dire",
+"order": 12,
+"player": "mason"
+},
+{
+"hero_id": 20,
+"team": "radiant",
+"order": 13,
+"player": "l"
+},
+{
+"hero_id": 73,
+"team": "dire",
+"order": 14,
+"player": "ABOVE THE CLOUDS"
+},
+{
+"hero_id": 68,
+"team": "radiant",
+"order": 15,
+"player": "fy"
+},
+{
+"hero_id": 47,
+"team": "dire",
+"order": 18,
+"player": "天鸽"
+},
+{
+"hero_id": 49,
+"team": "radiant",
+"order": 19,
+"player": "随便玩玩"
+}
+],
+"answer": {
+"hero_id": 49,
+"team": "radiant"
+}
+},
+{
+"match_id": 787871901,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "Vici Gaming",
+"dire_team": "Shopify Rebellion",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 15,
+"team": "radiant",
+"order": 4,
+"player": "随便玩玩"
+},
+{
+"hero_id": 78,
+"team": "dire",
+"order": 5,
+"player": "mason"
+},
+{
+"hero_id": 27,
+"team": "dire",
+"order": 6,
+"player": "ABOVE THE CLOUDS"
+},
+{
+"hero_id": 53,
+"team": "radiant",
+"order": 7,
+"player": "0.0"
+},
+{
+"hero_id": 16,
+"team": "dire",
+"order": 12,
+"player": "Chao P"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 13,
+"player": "fy"
+},
+{
+"hero_id": 46,
+"team": "dire",
+"order": 14,
+"player": "天鸽"
+},
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 15,
+"player": "l"
+},
+{
+"hero_id": 55,
+"team": "dire",
+"order": 18,
+"player": "z"
+},
+{
+"hero_id": 96,
+"team": "radiant",
+"order": 19,
+"player": "神罗天征"
+}
+],
+"answer": {
+"hero_id": 96,
+"team": "radiant"
+}
+},
+{
+"match_id": 787804519,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "DK",
+"dire_team": "Vici Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 15,
+"team": "radiant",
+"order": 4,
+"player": "aaakikunaya"
+},
+{
+"hero_id": 31,
+"team": "dire",
+"order": 5,
+"player": "l"
+},
+{
+"hero_id": 10,
+"team": "dire",
+"order": 6,
+"player": "0.0"
+},
+{
+"hero_id": 68,
+"team": "radiant",
+"order": 7,
+"player": "奶德"
+},
+{
+"hero_id": 27,
+"team": "dire",
+"order": 12,
+"player": "fy"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 13,
+"player": "疯鱼"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 14,
+"player": "神罗天征"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 15,
+"player": "keyboard cat"
+},
+{
+"hero_id": 43,
+"team": "dire",
+"order": 18,
+"player": "随便玩玩"
+},
+{
+"hero_id": 39,
+"team": "radiant",
+"order": 19,
+"player": "mushi"
+}
+],
+"answer": {
+"hero_id": 39,
+"team": "radiant"
+}
+},
+{
+"match_id": 787737213,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "Vici Gaming",
+"dire_team": "DK",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 15,
+"team": "radiant",
+"order": 4,
+"player": "随便玩玩"
+},
+{
+"hero_id": 38,
+"team": "dire",
+"order": 5,
+"player": "疯鱼"
+},
+{
+"hero_id": 34,
+"team": "dire",
+"order": 6,
+"player": "mushi"
+},
+{
+"hero_id": 53,
+"team": "radiant",
+"order": 7,
+"player": "0.0"
+},
+{
+"hero_id": 27,
+"team": "dire",
+"order": 12,
+"player": "奶德"
+},
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 13,
+"player": "l"
+},
+{
+"hero_id": 85,
+"team": "dire",
+"order": 14,
+"player": "keyboard cat"
+},
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 15,
+"player": "fy"
+},
+{
+"hero_id": 1,
+"team": "dire",
+"order": 18,
+"player": "aaakikunaya"
+},
+{
+"hero_id": 45,
+"team": "radiant",
+"order": 19,
+"player": "神罗天征"
+}
+],
+"answer": {
+"hero_id": 45,
+"team": "radiant"
+}
+},
+{
+"match_id": 787639738,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "LGD Gaming",
+"dire_team": "DK",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 27,
+"team": "radiant",
+"order": 4,
+"player": "亟"
+},
+{
+"hero_id": 103,
+"team": "dire",
+"order": 5,
+"player": "keyboard cat"
+},
+{
+"hero_id": 26,
+"team": "dire",
+"order": 6,
+"player": "奶德"
+},
+{
+"hero_id": 47,
+"team": "radiant",
+"order": 7,
+"player": "29"
+},
+{
+"hero_id": 7,
+"team": "dire",
+"order": 12,
+"player": "疯鱼"
+},
+{
+"hero_id": 65,
+"team": "radiant",
+"order": 13,
+"player": "韭菜收割机"
+},
+{
+"hero_id": 11,
+"team": "dire",
+"order": 14,
+"player": "mushi"
+},
+{
+"hero_id": 92,
+"team": "radiant",
+"order": 15,
+"player": "田曦薇"
+},
+{
+"hero_id": 63,
+"team": "dire",
+"order": 18,
+"player": "aaakikunaya"
+},
+{
+"hero_id": 96,
+"team": "radiant",
+"order": 19,
+"player": "21Sep"
+}
+],
+"answer": {
+"hero_id": 96,
+"team": "radiant"
+}
+},
+{
+"match_id": 787554090,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "LGD Gaming",
+"dire_team": "DK",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 69,
+"team": "radiant",
+"order": 4,
+"player": "21Sep"
+},
+{
+"hero_id": 15,
+"team": "dire",
+"order": 5,
+"player": "aaakikunaya"
+},
+{
+"hero_id": 29,
+"team": "dire",
+"order": 6,
+"player": "keyboard cat"
+},
+{
+"hero_id": 47,
+"team": "radiant",
+"order": 7,
+"player": "29"
+},
+{
+"hero_id": 68,
+"team": "dire",
+"order": 12,
+"player": "奶德"
+},
+{
+"hero_id": 101,
+"team": "radiant",
+"order": 13,
+"player": "田曦薇"
+},
+{
+"hero_id": 42,
+"team": "dire",
+"order": 14,
+"player": "疯鱼"
+},
+{
+"hero_id": 16,
+"team": "radiant",
+"order": 15,
+"player": "亟"
+},
+{
+"hero_id": 76,
+"team": "dire",
+"order": 18,
+"player": "mushi"
+},
+{
+"hero_id": 35,
+"team": "radiant",
+"order": 19,
+"player": "韭菜收割机"
+}
+],
+"answer": {
+"hero_id": 35,
+"team": "radiant"
+}
+},
+{
+"match_id": 787453665,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "Vici Gaming",
+"dire_team": "Dire",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 15,
+"team": "radiant",
+"order": 4,
+"player": "随便玩玩"
+},
+{
+"hero_id": 27,
+"team": "dire",
+"order": 5,
+"player": "pieliedie"
+},
+{
+"hero_id": 53,
+"team": "dire",
+"order": 6,
+"player": "永田和彦"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 7,
+"player": "l"
+},
+{
+"hero_id": 78,
+"team": "dire",
+"order": 12,
+"player": "Sing"
+},
+{
+"hero_id": 31,
+"team": "radiant",
+"order": 13,
+"player": "fy"
+},
+{
+"hero_id": 33,
+"team": "dire",
+"order": 14,
+"player": "Aui_2000"
+},
+{
+"hero_id": 10,
+"team": "radiant",
+"order": 15,
+"player": "0.0"
+},
+{
+"hero_id": 48,
+"team": "dire",
+"order": 18,
+"player": "EternaLEnVy"
+},
+{
+"hero_id": 40,
+"team": "radiant",
+"order": 19,
+"player": "神罗天征"
+}
+],
+"answer": {
+"hero_id": 40,
+"team": "radiant"
+}
+},
+{
+"match_id": 787345302,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "Radiant",
+"dire_team": "Vici Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 69,
+"team": "radiant",
+"order": 4,
+"player": "EternaLEnVy"
+},
+{
+"hero_id": 29,
+"team": "dire",
+"order": 5,
+"player": "神罗天征"
+},
+{
+"hero_id": 43,
+"team": "dire",
+"order": 6,
+"player": "随便玩玩"
+},
+{
+"hero_id": 101,
+"team": "radiant",
+"order": 7,
+"player": "Aui_2000"
+},
+{
+"hero_id": 64,
+"team": "dire",
+"order": 12,
+"player": "fy"
+},
+{
+"hero_id": 62,
+"team": "radiant",
+"order": 13,
+"player": "pieliedie"
+},
+{
+"hero_id": 7,
+"team": "dire",
+"order": 14,
+"player": "l"
+},
+{
+"hero_id": 51,
+"team": "radiant",
+"order": 15,
+"player": "永田和彦"
+},
+{
+"hero_id": 48,
+"team": "dire",
+"order": 18,
+"player": "0.0"
+},
+{
+"hero_id": 82,
+"team": "radiant",
+"order": 19,
+"player": "Sing"
+}
+],
+"answer": {
+"hero_id": 82,
+"team": "radiant"
+}
+},
+{
+"match_id": 785842796,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "LGD Gaming",
+"dire_team": "DK",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 77,
+"team": "radiant",
+"order": 4,
+"player": "29"
+},
+{
+"hero_id": 78,
+"team": "dire",
+"order": 5,
+"player": "aaakikunaya"
+},
+{
+"hero_id": 58,
+"team": "dire",
+"order": 6,
+"player": "疯鱼"
+},
+{
+"hero_id": 96,
+"team": "radiant",
+"order": 7,
+"player": "21Sep"
+},
+{
+"hero_id": 53,
+"team": "dire",
+"order": 12,
+"player": "keyboard cat"
+},
+{
+"hero_id": 73,
+"team": "radiant",
+"order": 13,
+"player": "亟"
+},
+{
+"hero_id": 46,
+"team": "dire",
+"order": 14,
+"player": "mushi"
+},
+{
+"hero_id": 65,
+"team": "radiant",
+"order": 15,
+"player": "韭菜收割机"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 18,
+"player": "奶德"
+},
+{
+"hero_id": 30,
+"team": "radiant",
+"order": 19,
+"player": "田曦薇"
+}
+],
+"answer": {
+"hero_id": 30,
+"team": "radiant"
+}
+},
+{
+"match_id": 785785899,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "Radiant",
+"dire_team": "Vici Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 69,
+"team": "dire",
+"order": 4,
+"player": "神罗天征"
+},
+{
+"hero_id": 27,
+"team": "radiant",
+"order": 5,
+"player": "Aui_2000"
+},
+{
+"hero_id": 101,
+"team": "radiant",
+"order": 6,
+"player": "pieliedie"
+},
+{
+"hero_id": 53,
+"team": "dire",
+"order": 7,
+"player": "0.0"
+},
+{
+"hero_id": 106,
+"team": "radiant",
+"order": 12,
+"player": "Sing"
+},
+{
+"hero_id": 50,
+"team": "dire",
+"order": 13,
+"player": "l"
+},
+{
+"hero_id": 65,
+"team": "radiant",
+"order": 14,
+"player": "永田和彦"
+},
+{
+"hero_id": 16,
+"team": "dire",
+"order": 15,
+"player": "fy"
+},
+{
+"hero_id": 74,
+"team": "radiant",
+"order": 18,
+"player": "EternaLEnVy"
+},
+{
+"hero_id": 99,
+"team": "dire",
+"order": 19,
+"player": "随便玩玩"
+}
+],
+"answer": {
+"hero_id": 99,
+"team": "dire"
+}
+},
+{
+"match_id": 785712957,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "Invictus Gaming",
+"dire_team": "LGD Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 74,
+"team": "radiant",
+"order": 4,
+"player": "X"
+},
+{
+"hero_id": 106,
+"team": "dire",
+"order": 5,
+"player": "21Sep"
+},
+{
+"hero_id": 47,
+"team": "dire",
+"order": 6,
+"player": "29"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 7,
+"player": "没有人能在我的BGM里战胜我"
+},
+{
+"hero_id": 9,
+"team": "dire",
+"order": 12,
+"player": "田曦薇"
+},
+{
+"hero_id": 101,
+"team": "radiant",
+"order": 13,
+"player": "glhf"
+},
+{
+"hero_id": 20,
+"team": "dire",
+"order": 14,
+"player": "亟"
+},
+{
+"hero_id": 73,
+"team": "radiant",
+"order": 15,
+"player": "Koopa"
+},
+{
+"hero_id": 96,
+"team": "dire",
+"order": 18,
+"player": "韭菜收割机"
+},
+{
+"hero_id": 99,
+"team": "radiant",
+"order": 19,
+"player": "运"
+}
+],
+"answer": {
+"hero_id": 99,
+"team": "radiant"
+}
+},
+{
+"match_id": 785643441,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "LGD Gaming",
+"dire_team": "Invictus Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 15,
+"team": "radiant",
+"order": 4,
+"player": "韭菜收割机"
+},
+{
+"hero_id": 41,
+"team": "dire",
+"order": 5,
+"player": "运"
+},
+{
+"hero_id": 74,
+"team": "dire",
+"order": 6,
+"player": "X"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 7,
+"player": "21Sep"
+},
+{
+"hero_id": 9,
+"team": "dire",
+"order": 12,
+"player": "glhf"
+},
+{
+"hero_id": 101,
+"team": "radiant",
+"order": 13,
+"player": "田曦薇"
+},
+{
+"hero_id": 73,
+"team": "dire",
+"order": 14,
+"player": "Koopa"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 15,
+"player": "亟"
+},
+{
+"hero_id": 47,
+"team": "dire",
+"order": 18,
+"player": "没有人能在我的BGM里战胜我"
+},
+{
+"hero_id": 49,
+"team": "radiant",
+"order": 19,
+"player": "29"
+}
+],
+"answer": {
+"hero_id": 49,
+"team": "radiant"
+}
+},
+{
+"match_id": 785558384,
+"year": 2014,
+"league": "The International 2014",
+"radiant_team": "LGD Gaming",
+"dire_team": "Invictus Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 15,
+"team": "radiant",
+"order": 4,
+"player": "韭菜收割机"
+},
+{
+"hero_id": 43,
+"team": "dire",
+"order": 5,
+"player": "没有人能在我的BGM里战胜我"
+},
+{
+"hero_id": 41,
+"team": "dire",
+"order": 6,
+"player": "运"
+},
+{
+"hero_id": 74,
+"team": "radiant",
+"order": 7,
+"player": "21Sep"
+},
+{
+"hero_id": 7,
+"team": "dire",
+"order": 12,
+"player": "glhf"
+},
+{
+"hero_id": 73,
+"team": "radiant",
+"order": 13,
+"player": "亟"
+},
+{
+"hero_id": 40,
+"team": "dire",
+"order": 14,
+"player": "X"
+},
+{
+"hero_id": 101,
+"team": "radiant",
+"order": 15,
+"player": "田曦薇"
+},
+{
+"hero_id": 31,
+"team": "dire",
+"order": 18,
+"player": "Koopa"
+},
+{
+"hero_id": 96,
+"team": "radiant",
+"order": 19,
+"player": "29"
+}
+],
+"answer": {
+"hero_id": 96,
+"team": "radiant"
+}
+},
+{
+"match_id": 1697818230,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "Shopify Rebellion",
+"dire_team": "GGGGGGGG",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 72,
+"team": "radiant",
+"order": 4,
+"player": "F"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 5,
+"player": "."
+},
+{
+"hero_id": 25,
+"team": "dire",
+"order": 6,
+"player": "逗逗你的呀"
+},
+{
+"hero_id": 89,
+"team": "radiant",
+"order": 7,
+"player": "Aui_2000"
+},
+{
+"hero_id": 112,
+"team": "dire",
+"order": 12,
+"player": "o"
+},
+{
+"hero_id": 17,
+"team": "radiant",
+"order": 13,
+"player": "SumaiL-"
+},
+{
+"hero_id": 12,
+"team": "dire",
+"order": 14,
+"player": "高手"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 15,
+"player": "z"
+},
+{
+"hero_id": 49,
+"team": "dire",
+"order": 18,
+"player": "烟火"
+},
+{
+"hero_id": 68,
+"team": "radiant",
+"order": 19,
+"player": "ABOVE THE CLOUDS"
+}
+],
+"answer": {
+"hero_id": 68,
+"team": "radiant"
+}
+},
+{
+"match_id": 1697737102,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "GGGGGGGG",
+"dire_team": "Shopify Rebellion",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 4,
+"player": "烟火"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 5,
+"player": "z"
+},
+{
+"hero_id": 72,
+"team": "dire",
+"order": 6,
+"player": "F"
+},
+{
+"hero_id": 92,
+"team": "radiant",
+"order": 7,
+"player": "o"
+},
+{
+"hero_id": 106,
+"team": "dire",
+"order": 12,
+"player": "SumaiL-"
+},
+{
+"hero_id": 26,
+"team": "radiant",
+"order": 13,
+"player": "逗逗你的呀"
+},
+{
+"hero_id": 85,
+"team": "dire",
+"order": 14,
+"player": "ABOVE THE CLOUDS"
+},
+{
+"hero_id": 55,
+"team": "radiant",
+"order": 15,
+"player": "."
+},
+{
+"hero_id": 101,
+"team": "dire",
+"order": 18,
+"player": "Aui_2000"
+},
+{
+"hero_id": 93,
+"team": "radiant",
+"order": 19,
+"player": "高手"
+}
+],
+"answer": {
+"hero_id": 93,
+"team": "radiant"
+}
+},
+{
+"match_id": 1697676707,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "GGGGGGGG",
+"dire_team": "Shopify Rebellion",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 4,
+"player": "烟火"
+},
+{
+"hero_id": 72,
+"team": "dire",
+"order": 5,
+"player": "F"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 6,
+"player": "z"
+},
+{
+"hero_id": 100,
+"team": "radiant",
+"order": 7,
+"player": "逗逗你的呀"
+},
+{
+"hero_id": 5,
+"team": "dire",
+"order": 12,
+"player": "ABOVE THE CLOUDS"
+},
+{
+"hero_id": 92,
+"team": "radiant",
+"order": 13,
+"player": "o"
+},
+{
+"hero_id": 112,
+"team": "dire",
+"order": 14,
+"player": "Aui_2000"
+},
+{
+"hero_id": 39,
+"team": "radiant",
+"order": 15,
+"player": "高手"
+},
+{
+"hero_id": 21,
+"team": "dire",
+"order": 18,
+"player": "SumaiL-"
+},
+{
+"hero_id": 61,
+"team": "radiant",
+"order": 19,
+"player": "."
+}
+],
+"answer": {
+"hero_id": 61,
+"team": "radiant"
+}
+},
+{
+"match_id": 1697618202,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "GGGGGGGG",
+"dire_team": "Shopify Rebellion",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 4,
+"player": "逗逗你的呀"
+},
+{
+"hero_id": 72,
+"team": "dire",
+"order": 5,
+"player": "F"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 6,
+"player": "z"
+},
+{
+"hero_id": 12,
+"team": "radiant",
+"order": 7,
+"player": "高手"
+},
+{
+"hero_id": 5,
+"team": "dire",
+"order": 12,
+"player": "ABOVE THE CLOUDS"
+},
+{
+"hero_id": 112,
+"team": "radiant",
+"order": 13,
+"player": "o"
+},
+{
+"hero_id": 17,
+"team": "dire",
+"order": 14,
+"player": "SumaiL-"
+},
+{
+"hero_id": 71,
+"team": "radiant",
+"order": 15,
+"player": "."
+},
+{
+"hero_id": 101,
+"team": "dire",
+"order": 18,
+"player": "Aui_2000"
+},
+{
+"hero_id": 39,
+"team": "radiant",
+"order": 19,
+"player": "烟火"
+}
+],
+"answer": {
+"hero_id": 39,
+"team": "radiant"
+}
+},
+{
+"match_id": 1697367568,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "Shopify Rebellion",
+"dire_team": "LGD Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 4,
+"player": "SumaiL-"
+},
+{
+"hero_id": 72,
+"team": "dire",
+"order": 5,
+"player": "0.0"
+},
+{
+"hero_id": 7,
+"team": "dire",
+"order": 6,
+"player": "TIGER"
+},
+{
+"hero_id": 51,
+"team": "radiant",
+"order": 7,
+"player": "z"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 12,
+"player": "奶德"
+},
+{
+"hero_id": 92,
+"team": "radiant",
+"order": 13,
+"player": "Aui_2000"
+},
+{
+"hero_id": 11,
+"team": "dire",
+"order": 14,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 56,
+"team": "radiant",
+"order": 15,
+"player": "F"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 18,
+"player": "21Sep"
+},
+{
+"hero_id": 112,
+"team": "radiant",
+"order": 19,
+"player": "ABOVE THE CLOUDS"
+}
+],
+"answer": {
+"hero_id": 112,
+"team": "radiant"
+}
+},
+{
+"match_id": 1697230041,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "LGD Gaming",
+"dire_team": "Shopify Rebellion",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 72,
+"team": "radiant",
+"order": 4,
+"player": "0.0"
+},
+{
+"hero_id": 25,
+"team": "dire",
+"order": 5,
+"player": "SumaiL-"
+},
+{
+"hero_id": 50,
+"team": "dire",
+"order": 6,
+"player": "ABOVE THE CLOUDS"
+},
+{
+"hero_id": 51,
+"team": "radiant",
+"order": 7,
+"player": "TIGER"
+},
+{
+"hero_id": 33,
+"team": "dire",
+"order": 12,
+"player": "Aui_2000"
+},
+{
+"hero_id": 17,
+"team": "radiant",
+"order": 13,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 12,
+"team": "dire",
+"order": 14,
+"player": "F"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 15,
+"player": "21Sep"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 18,
+"player": "z"
+},
+{
+"hero_id": 75,
+"team": "radiant",
+"order": 19,
+"player": "奶德"
+}
+],
+"answer": {
+"hero_id": 75,
+"team": "radiant"
+}
+},
+{
+"match_id": 1694785141,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "LGD Gaming",
+"dire_team": "Vici Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 72,
+"team": "radiant",
+"order": 4,
+"player": "0.0"
+},
+{
+"hero_id": 25,
+"team": "dire",
+"order": 5,
+"player": "随便玩玩"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 6,
+"player": "fy"
+},
+{
+"hero_id": 100,
+"team": "radiant",
+"order": 7,
+"player": "21Sep"
+},
+{
+"hero_id": 55,
+"team": "dire",
+"order": 12,
+"player": "keyboard cat"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 13,
+"player": "TIGER"
+},
+{
+"hero_id": 68,
+"team": "dire",
+"order": 14,
+"player": "l"
+},
+{
+"hero_id": 11,
+"team": "radiant",
+"order": 15,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 12,
+"team": "dire",
+"order": 18,
+"player": "Hao"
+},
+{
+"hero_id": 92,
+"team": "radiant",
+"order": 19,
+"player": "奶德"
+}
+],
+"answer": {
+"hero_id": 92,
+"team": "radiant"
+}
+},
+{
+"match_id": 1694734460,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "Vici Gaming",
+"dire_team": "LGD Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 25,
+"team": "radiant",
+"order": 4,
+"player": "fy"
+},
+{
+"hero_id": 11,
+"team": "dire",
+"order": 5,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 7,
+"team": "dire",
+"order": 6,
+"player": "TIGER"
+},
+{
+"hero_id": 112,
+"team": "radiant",
+"order": 7,
+"player": "l"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 12,
+"player": "奶德"
+},
+{
+"hero_id": 15,
+"team": "radiant",
+"order": 13,
+"player": "Hao"
+},
+{
+"hero_id": 48,
+"team": "dire",
+"order": 14,
+"player": "0.0"
+},
+{
+"hero_id": 85,
+"team": "radiant",
+"order": 15,
+"player": "keyboard cat"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 18,
+"player": "21Sep"
+},
+{
+"hero_id": 35,
+"team": "radiant",
+"order": 19,
+"player": "随便玩玩"
+}
+],
+"answer": {
+"hero_id": 35,
+"team": "radiant"
+}
+},
+{
+"match_id": 1694672562,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "LGD Gaming",
+"dire_team": "Vici Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 72,
+"team": "radiant",
+"order": 4,
+"player": "0.0"
+},
+{
+"hero_id": 39,
+"team": "dire",
+"order": 5,
+"player": "Hao"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 6,
+"player": "keyboard cat"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 7,
+"player": "奶德"
+},
+{
+"hero_id": 50,
+"team": "dire",
+"order": 12,
+"player": "l"
+},
+{
+"hero_id": 55,
+"team": "radiant",
+"order": 13,
+"player": "21Sep"
+},
+{
+"hero_id": 16,
+"team": "dire",
+"order": 14,
+"player": "fy"
+},
+{
+"hero_id": 85,
+"team": "radiant",
+"order": 15,
+"player": "TIGER"
+},
+{
+"hero_id": 15,
+"team": "dire",
+"order": 18,
+"player": "随便玩玩"
+},
+{
+"hero_id": 106,
+"team": "radiant",
+"order": 19,
+"player": "天地一刀斩"
+}
+],
+"answer": {
+"hero_id": 106,
+"team": "radiant"
+}
+},
+{
+"match_id": 1694607827,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "GGGGGGGG",
+"dire_team": "Shopify Rebellion",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 62,
+"team": "radiant",
+"order": 4,
+"player": "."
+},
+{
+"hero_id": 55,
+"team": "dire",
+"order": 5,
+"player": "z"
+},
+{
+"hero_id": 71,
+"team": "dire",
+"order": 6,
+"player": "Aui_2000"
+},
+{
+"hero_id": 25,
+"team": "radiant",
+"order": 7,
+"player": "烟火"
+},
+{
+"hero_id": 39,
+"team": "dire",
+"order": 12,
+"player": "SumaiL-"
+},
+{
+"hero_id": 12,
+"team": "radiant",
+"order": 13,
+"player": "高手"
+},
+{
+"hero_id": 15,
+"team": "dire",
+"order": 14,
+"player": "F"
+},
+{
+"hero_id": 100,
+"team": "radiant",
+"order": 15,
+"player": "逗逗你的呀"
+},
+{
+"hero_id": 83,
+"team": "dire",
+"order": 18,
+"player": "ABOVE THE CLOUDS"
+},
+{
+"hero_id": 30,
+"team": "radiant",
+"order": 19,
+"player": "o"
+}
+],
+"answer": {
+"hero_id": 30,
+"team": "radiant"
+}
+},
+{
+"match_id": 1694506494,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "Shopify Rebellion",
+"dire_team": "GGGGGGGG",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 89,
+"team": "radiant",
+"order": 4,
+"player": "Aui_2000"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 5,
+"player": "."
+},
+{
+"hero_id": 85,
+"team": "dire",
+"order": 6,
+"player": "逗逗你的呀"
+},
+{
+"hero_id": 15,
+"team": "radiant",
+"order": 7,
+"player": "F"
+},
+{
+"hero_id": 106,
+"team": "dire",
+"order": 12,
+"player": "高手"
+},
+{
+"hero_id": 16,
+"team": "radiant",
+"order": 13,
+"player": "z"
+},
+{
+"hero_id": 92,
+"team": "dire",
+"order": 14,
+"player": "o"
+},
+{
+"hero_id": 50,
+"team": "radiant",
+"order": 15,
+"player": "ABOVE THE CLOUDS"
+},
+{
+"hero_id": 46,
+"team": "dire",
+"order": 18,
+"player": "烟火"
+},
+{
+"hero_id": 11,
+"team": "radiant",
+"order": 19,
+"player": "SumaiL-"
+}
+],
+"answer": {
+"hero_id": 11,
+"team": "radiant"
+}
+},
+{
+"match_id": 1694392262,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "LGD Gaming",
+"dire_team": "Virtus.pro",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 52,
+"team": "dire",
+"order": 4,
+"player": "farming mid = loss"
+},
+{
+"hero_id": 62,
+"team": "radiant",
+"order": 5,
+"player": "TIGER"
+},
+{
+"hero_id": 25,
+"team": "radiant",
+"order": 6,
+"player": "奶德"
+},
+{
+"hero_id": 7,
+"team": "dire",
+"order": 7,
+"player": "DkPhobos"
+},
+{
+"hero_id": 55,
+"team": "radiant",
+"order": 12,
+"player": "21Sep"
+},
+{
+"hero_id": 5,
+"team": "dire",
+"order": 13,
+"player": "Fng"
+},
+{
+"hero_id": 12,
+"team": "radiant",
+"order": 14,
+"player": "0.0"
+},
+{
+"hero_id": 3,
+"team": "dire",
+"order": 15,
+"player": "lft ti quals"
+},
+{
+"hero_id": 46,
+"team": "radiant",
+"order": 18,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 39,
+"team": "dire",
+"order": 19,
+"player": "13"
+}
+],
+"answer": {
+"hero_id": 39,
+"team": "dire"
+}
+},
+{
+"match_id": 1694261668,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "Virtus.pro",
+"dire_team": "LGD Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 72,
+"team": "dire",
+"order": 4,
+"player": "0.0"
+},
+{
+"hero_id": 25,
+"team": "radiant",
+"order": 5,
+"player": "Fng"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 6,
+"player": "DkPhobos"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 7,
+"player": "TIGER"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 12,
+"player": "lft ti quals"
+},
+{
+"hero_id": 11,
+"team": "dire",
+"order": 13,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 17,
+"team": "radiant",
+"order": 14,
+"player": "13"
+},
+{
+"hero_id": 26,
+"team": "dire",
+"order": 15,
+"player": "奶德"
+},
+{
+"hero_id": 6,
+"team": "radiant",
+"order": 18,
+"player": "farming mid = loss"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 19,
+"player": "21Sep"
+}
+],
+"answer": {
+"hero_id": 100,
+"team": "dire"
+}
+},
+{
+"match_id": 1692105377,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "EHOME",
+"dire_team": "Vici Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 72,
+"team": "radiant",
+"order": 4,
+"player": "~~"
+},
+{
+"hero_id": 39,
+"team": "dire",
+"order": 5,
+"player": "随便玩玩"
+},
+{
+"hero_id": 112,
+"team": "dire",
+"order": 6,
+"player": "l"
+},
+{
+"hero_id": 17,
+"team": "radiant",
+"order": 7,
+"player": "NNN"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 12,
+"player": "keyboard cat"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 13,
+"player": "疯鱼"
+},
+{
+"hero_id": 87,
+"team": "dire",
+"order": 14,
+"player": "fy"
+},
+{
+"hero_id": 75,
+"team": "radiant",
+"order": 15,
+"player": "田曦薇"
+},
+{
+"hero_id": 1,
+"team": "dire",
+"order": 18,
+"player": "Hao"
+},
+{
+"hero_id": 16,
+"team": "radiant",
+"order": 19,
+"player": "神罗天征"
+}
+],
+"answer": {
+"hero_id": 16,
+"team": "radiant"
+}
+},
+{
+"match_id": 1692027822,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "Vici Gaming",
+"dire_team": "EHOME",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 72,
+"team": "radiant",
+"order": 4,
+"player": "Hao"
+},
+{
+"hero_id": 25,
+"team": "dire",
+"order": 5,
+"player": "NNN"
+},
+{
+"hero_id": 55,
+"team": "dire",
+"order": 6,
+"player": "神罗天征"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 7,
+"player": "l"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 12,
+"player": "田曦薇"
+},
+{
+"hero_id": 22,
+"team": "radiant",
+"order": 13,
+"player": "keyboard cat"
+},
+{
+"hero_id": 48,
+"team": "dire",
+"order": 14,
+"player": "~~"
+},
+{
+"hero_id": 87,
+"team": "radiant",
+"order": 15,
+"player": "fy"
+},
+{
+"hero_id": 89,
+"team": "dire",
+"order": 18,
+"player": "疯鱼"
+},
+{
+"hero_id": 45,
+"team": "radiant",
+"order": 19,
+"player": "随便玩玩"
+}
+],
+"answer": {
+"hero_id": 45,
+"team": "radiant"
+}
+},
+{
+"match_id": 1691952611,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "Virtus.pro",
+"dire_team": "Team Secret",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 25,
+"team": "radiant",
+"order": 4,
+"player": "Fng"
+},
+{
+"hero_id": 55,
+"team": "dire",
+"order": 5,
+"player": "Chao P"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 6,
+"player": "kky"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 7,
+"player": "DkPhobos"
+},
+{
+"hero_id": 39,
+"team": "dire",
+"order": 12,
+"player": "s4"
+},
+{
+"hero_id": 92,
+"team": "radiant",
+"order": 13,
+"player": "lft ti quals"
+},
+{
+"hero_id": 11,
+"team": "dire",
+"order": 14,
+"player": "天鸽"
+},
+{
+"hero_id": 17,
+"team": "radiant",
+"order": 15,
+"player": "13"
+},
+{
+"hero_id": 50,
+"team": "dire",
+"order": 18,
+"player": "Puppey"
+},
+{
+"hero_id": 6,
+"team": "radiant",
+"order": 19,
+"player": "farming mid = loss"
+}
+],
+"answer": {
+"hero_id": 6,
+"team": "radiant"
+}
+},
+{
+"match_id": 1691887181,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "Virtus.pro",
+"dire_team": "Team Secret",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 25,
+"team": "radiant",
+"order": 4,
+"player": "Fng"
+},
+{
+"hero_id": 39,
+"team": "dire",
+"order": 5,
+"player": "s4"
+},
+{
+"hero_id": 55,
+"team": "dire",
+"order": 6,
+"player": "Chao P"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 7,
+"player": "DkPhobos"
+},
+{
+"hero_id": 48,
+"team": "dire",
+"order": 12,
+"player": "天鸽"
+},
+{
+"hero_id": 92,
+"team": "radiant",
+"order": 13,
+"player": "lft ti quals"
+},
+{
+"hero_id": 27,
+"team": "dire",
+"order": 14,
+"player": "kky"
+},
+{
+"hero_id": 17,
+"team": "radiant",
+"order": 15,
+"player": "13"
+},
+{
+"hero_id": 33,
+"team": "dire",
+"order": 18,
+"player": "Puppey"
+},
+{
+"hero_id": 75,
+"team": "radiant",
+"order": 19,
+"player": "farming mid = loss"
+}
+],
+"answer": {
+"hero_id": 75,
+"team": "radiant"
+}
+},
+{
+"match_id": 1691817562,
+"year": 2015,
+"league": "The International 2015",
+"radiant_team": "Team Secret",
+"dire_team": "Virtus.pro",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 89,
+"team": "dire",
+"order": 4,
+"player": "Fng"
+},
+{
+"hero_id": 25,
+"team": "radiant",
+"order": 5,
+"player": "s4"
+},
+{
+"hero_id": 55,
+"team": "radiant",
+"order": 6,
+"player": "Chao P"
+},
+{
+"hero_id": 75,
+"team": "dire",
+"order": 7,
+"player": "13"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 12,
+"player": "Puppey"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 13,
+"player": "lft ti quals"
+},
+{
+"hero_id": 100,
+"team": "radiant",
+"order": 14,
+"player": "kky"
+},
+{
+"hero_id": 97,
+"team": "dire",
+"order": 15,
+"player": "DkPhobos"
+},
+{
+"hero_id": 46,
+"team": "radiant",
+"order": 18,
+"player": "天鸽"
+},
+{
+"hero_id": 94,
+"team": "dire",
+"order": 19,
+"player": "farming mid = loss"
+}
+],
+"answer": {
+"hero_id": 94,
+"team": "dire"
+}
+},
+{
+"match_id": 2569610900,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "123",
+"dire_team": "the wings gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 103,
+"team": "dire",
+"order": 4,
+"player": "ICEICE"
+},
+{
+"hero_id": 9,
+"team": "radiant",
+"order": 5,
+"player": "Resolut1on"
+},
+{
+"hero_id": 98,
+"team": "radiant",
+"order": 6,
+"player": "Wiiliam Booty Catcher"
+},
+{
+"hero_id": 65,
+"team": "dire",
+"order": 7,
+"player": "跳刀跳刀丶"
+},
+{
+"hero_id": 20,
+"team": "radiant",
+"order": 12,
+"player": "Saksa"
+},
+{
+"hero_id": 90,
+"team": "dire",
+"order": 13,
+"player": "y`"
+},
+{
+"hero_id": 93,
+"team": "radiant",
+"order": 14,
+"player": "w33"
+},
+{
+"hero_id": 1,
+"team": "dire",
+"order": 15,
+"player": "Shadow"
+},
+{
+"hero_id": 2,
+"team": "dire",
+"order": 18,
+"player": "Bach"
+},
+{
+"hero_id": 60,
+"team": "radiant",
+"order": 19,
+"player": "kaban"
+}
+],
+"answer": {
+"hero_id": 60,
+"team": "radiant"
+}
+},
+{
+"match_id": 2569531910,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "the wings gaming",
+"dire_team": "123",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 9,
+"team": "dire",
+"order": 4,
+"player": "w33"
+},
+{
+"hero_id": 111,
+"team": "radiant",
+"order": 5,
+"player": "y`"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 6,
+"player": "Shadow"
+},
+{
+"hero_id": 98,
+"team": "dire",
+"order": 7,
+"player": "Wiiliam Booty Catcher"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 12,
+"player": "ICEICE"
+},
+{
+"hero_id": 112,
+"team": "dire",
+"order": 13,
+"player": "Saksa"
+},
+{
+"hero_id": 43,
+"team": "radiant",
+"order": 14,
+"player": "跳刀跳刀丶"
+},
+{
+"hero_id": 16,
+"team": "dire",
+"order": 15,
+"player": "kaban"
+},
+{
+"hero_id": 56,
+"team": "dire",
+"order": 18,
+"player": "Resolut1on"
+},
+{
+"hero_id": 88,
+"team": "radiant",
+"order": 19,
+"player": "Bach"
+}
+],
+"answer": {
+"hero_id": 88,
+"team": "radiant"
+}
+},
+{
+"match_id": 2569470828,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "the wings gaming",
+"dire_team": "123",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 9,
+"team": "dire",
+"order": 4,
+"player": "w33"
+},
+{
+"hero_id": 111,
+"team": "radiant",
+"order": 5,
+"player": "y`"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 6,
+"player": "Shadow"
+},
+{
+"hero_id": 89,
+"team": "dire",
+"order": 7,
+"player": "kaban"
+},
+{
+"hero_id": 74,
+"team": "radiant",
+"order": 12,
+"player": "跳刀跳刀丶"
+},
+{
+"hero_id": 79,
+"team": "dire",
+"order": 13,
+"player": "Saksa"
+},
+{
+"hero_id": 16,
+"team": "radiant",
+"order": 14,
+"player": "ICEICE"
+},
+{
+"hero_id": 69,
+"team": "dire",
+"order": 15,
+"player": "Wiiliam Booty Catcher"
+},
+{
+"hero_id": 15,
+"team": "dire",
+"order": 18,
+"player": "Resolut1on"
+},
+{
+"hero_id": 28,
+"team": "radiant",
+"order": 19,
+"player": "Bach"
+}
+],
+"answer": {
+"hero_id": 28,
+"team": "radiant"
+}
+},
+{
+"match_id": 2569415435,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "123",
+"dire_team": "the wings gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 91,
+"team": "dire",
+"order": 4,
+"player": "y`"
+},
+{
+"hero_id": 98,
+"team": "radiant",
+"order": 5,
+"player": "Wiiliam Booty Catcher"
+},
+{
+"hero_id": 90,
+"team": "radiant",
+"order": 6,
+"player": "Saksa"
+},
+{
+"hero_id": 17,
+"team": "dire",
+"order": 7,
+"player": "跳刀跳刀丶"
+},
+{
+"hero_id": 84,
+"team": "radiant",
+"order": 12,
+"player": "kaban"
+},
+{
+"hero_id": 28,
+"team": "dire",
+"order": 13,
+"player": "Bach"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 14,
+"player": "Resolut1on"
+},
+{
+"hero_id": 75,
+"team": "dire",
+"order": 15,
+"player": "Shadow"
+},
+{
+"hero_id": 14,
+"team": "dire",
+"order": 18,
+"player": "ICEICE"
+},
+{
+"hero_id": 101,
+"team": "radiant",
+"order": 19,
+"player": "w33"
+}
+],
+"answer": {
+"hero_id": 101,
+"team": "radiant"
+}
+},
+{
+"match_id": 2569227952,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "123",
+"dire_team": "Shopify Rebellion",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 103,
+"team": "dire",
+"order": 4,
+"player": "Chao P"
+},
+{
+"hero_id": 38,
+"team": "radiant",
+"order": 5,
+"player": "Wiiliam Booty Catcher"
+},
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 6,
+"player": "Saksa"
+},
+{
+"hero_id": 29,
+"team": "dire",
+"order": 7,
+"player": "z"
+},
+{
+"hero_id": 70,
+"team": "radiant",
+"order": 12,
+"player": "w33"
+},
+{
+"hero_id": 50,
+"team": "dire",
+"order": 13,
+"player": "ABOVE THE CLOUDS"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 14,
+"player": "kaban"
+},
+{
+"hero_id": 109,
+"team": "dire",
+"order": 15,
+"player": "F"
+},
+{
+"hero_id": 78,
+"team": "dire",
+"order": 18,
+"player": "SumaiL-"
+},
+{
+"hero_id": 93,
+"team": "radiant",
+"order": 19,
+"player": "Resolut1on"
+}
+],
+"answer": {
+"hero_id": 93,
+"team": "radiant"
+}
+},
+{
+"match_id": 2569119771,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "123",
+"dire_team": "Shopify Rebellion",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 103,
+"team": "dire",
+"order": 4,
+"player": "Chao P"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 5,
+"player": "Wiiliam Booty Catcher"
+},
+{
+"hero_id": 84,
+"team": "radiant",
+"order": 6,
+"player": "kaban"
+},
+{
+"hero_id": 38,
+"team": "dire",
+"order": 7,
+"player": "z"
+},
+{
+"hero_id": 30,
+"team": "radiant",
+"order": 12,
+"player": "Saksa"
+},
+{
+"hero_id": 50,
+"team": "dire",
+"order": 13,
+"player": "ABOVE THE CLOUDS"
+},
+{
+"hero_id": 93,
+"team": "radiant",
+"order": 14,
+"player": "Resolut1on"
+},
+{
+"hero_id": 18,
+"team": "dire",
+"order": 15,
+"player": "F"
+},
+{
+"hero_id": 94,
+"team": "dire",
+"order": 18,
+"player": "SumaiL-"
+},
+{
+"hero_id": 64,
+"team": "radiant",
+"order": 19,
+"player": "w33"
+}
+],
+"answer": {
+"hero_id": 64,
+"team": "radiant"
+}
+},
+{
+"match_id": 2569011425,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "123",
+"dire_team": "Shopify Rebellion",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 9,
+"team": "radiant",
+"order": 4,
+"player": "w33"
+},
+{
+"hero_id": 79,
+"team": "dire",
+"order": 5,
+"player": "ABOVE THE CLOUDS"
+},
+{
+"hero_id": 41,
+"team": "dire",
+"order": 6,
+"player": "z"
+},
+{
+"hero_id": 89,
+"team": "radiant",
+"order": 7,
+"player": "kaban"
+},
+{
+"hero_id": 23,
+"team": "dire",
+"order": 12,
+"player": "Chao P"
+},
+{
+"hero_id": 111,
+"team": "radiant",
+"order": 13,
+"player": "Saksa"
+},
+{
+"hero_id": 48,
+"team": "dire",
+"order": 14,
+"player": "F"
+},
+{
+"hero_id": 29,
+"team": "radiant",
+"order": 15,
+"player": "Wiiliam Booty Catcher"
+},
+{
+"hero_id": 15,
+"team": "radiant",
+"order": 18,
+"player": "Resolut1on"
+},
+{
+"hero_id": 39,
+"team": "dire",
+"order": 19,
+"player": "SumaiL-"
+}
+],
+"answer": {
+"hero_id": 39,
+"team": "dire"
+}
+},
+{
+"match_id": 2566934520,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "123",
+"dire_team": "Ascent Esports",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 4,
+"player": "Saksa"
+},
+{
+"hero_id": 103,
+"team": "dire",
+"order": 5,
+"player": "gone"
+},
+{
+"hero_id": 41,
+"team": "dire",
+"order": 6,
+"player": "`````````"
+},
+{
+"hero_id": 38,
+"team": "radiant",
+"order": 7,
+"player": "Wiiliam Booty Catcher"
+},
+{
+"hero_id": 91,
+"team": "dire",
+"order": 12,
+"player": "DJ"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 13,
+"player": "kaban"
+},
+{
+"hero_id": 59,
+"team": "dire",
+"order": 14,
+"player": "mushi"
+},
+{
+"hero_id": 74,
+"team": "radiant",
+"order": 15,
+"player": "w33"
+},
+{
+"hero_id": 81,
+"team": "radiant",
+"order": 18,
+"player": "Resolut1on"
+},
+{
+"hero_id": 106,
+"team": "dire",
+"order": 19,
+"player": "MidOne"
+}
+],
+"answer": {
+"hero_id": 106,
+"team": "dire"
+}
+},
+{
+"match_id": 2566866066,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "Ascent Esports",
+"dire_team": "123",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 9,
+"team": "radiant",
+"order": 4,
+"player": "mushi"
+},
+{
+"hero_id": 28,
+"team": "dire",
+"order": 5,
+"player": "kaban"
+},
+{
+"hero_id": 90,
+"team": "dire",
+"order": 6,
+"player": "Saksa"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 7,
+"player": "gone"
+},
+{
+"hero_id": 93,
+"team": "dire",
+"order": 12,
+"player": "Resolut1on"
+},
+{
+"hero_id": 104,
+"team": "radiant",
+"order": 13,
+"player": "`````````"
+},
+{
+"hero_id": 70,
+"team": "dire",
+"order": 14,
+"player": "w33"
+},
+{
+"hero_id": 27,
+"team": "radiant",
+"order": 15,
+"player": "DJ"
+},
+{
+"hero_id": 12,
+"team": "radiant",
+"order": 18,
+"player": "MidOne"
+},
+{
+"hero_id": 55,
+"team": "dire",
+"order": 19,
+"player": "Wiiliam Booty Catcher"
+}
+],
+"answer": {
+"hero_id": 55,
+"team": "dire"
+}
+},
+{
+"match_id": 2566800064,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "the wings gaming",
+"dire_team": "Shopify Rebellion",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 103,
+"team": "radiant",
+"order": 4,
+"player": "ICEICE"
+},
+{
+"hero_id": 9,
+"team": "dire",
+"order": 5,
+"player": "F"
+},
+{
+"hero_id": 84,
+"team": "dire",
+"order": 6,
+"player": "Chao P"
+},
+{
+"hero_id": 38,
+"team": "radiant",
+"order": 7,
+"player": "Bach"
+},
+{
+"hero_id": 60,
+"team": "dire",
+"order": 12,
+"player": "z"
+},
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 13,
+"player": "y`"
+},
+{
+"hero_id": 112,
+"team": "dire",
+"order": 14,
+"player": "ABOVE THE CLOUDS"
+},
+{
+"hero_id": 94,
+"team": "radiant",
+"order": 15,
+"player": "跳刀跳刀丶"
+},
+{
+"hero_id": 59,
+"team": "radiant",
+"order": 18,
+"player": "Shadow"
+},
+{
+"hero_id": 73,
+"team": "dire",
+"order": 19,
+"player": "SumaiL-"
+}
+],
+"answer": {
+"hero_id": 73,
+"team": "dire"
+}
+},
+{
+"match_id": 2566725198,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "the wings gaming",
+"dire_team": "Shopify Rebellion",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 91,
+"team": "dire",
+"order": 4,
+"player": "Chao P"
+},
+{
+"hero_id": 98,
+"team": "radiant",
+"order": 5,
+"player": "跳刀跳刀丶"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 6,
+"player": "y`"
+},
+{
+"hero_id": 16,
+"team": "dire",
+"order": 7,
+"player": "SumaiL-"
+},
+{
+"hero_id": 15,
+"team": "radiant",
+"order": 12,
+"player": "Shadow"
+},
+{
+"hero_id": 101,
+"team": "dire",
+"order": 13,
+"player": "ABOVE THE CLOUDS"
+},
+{
+"hero_id": 29,
+"team": "radiant",
+"order": 14,
+"player": "Bach"
+},
+{
+"hero_id": 1,
+"team": "dire",
+"order": 15,
+"player": "F"
+},
+{
+"hero_id": 63,
+"team": "dire",
+"order": 18,
+"player": "z"
+},
+{
+"hero_id": 33,
+"team": "radiant",
+"order": 19,
+"player": "ICEICE"
+}
+],
+"answer": {
+"hero_id": 33,
+"team": "radiant"
+}
+},
+{
+"match_id": 2566594115,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "MVP Phoenix",
+"dire_team": "Ascent Esports",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 9,
+"team": "radiant",
+"order": 4,
+"player": "AX"
+},
+{
+"hero_id": 28,
+"team": "dire",
+"order": 5,
+"player": "`````````"
+},
+{
+"hero_id": 32,
+"team": "dire",
+"order": 6,
+"player": "gone"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 7,
+"player": "NELINHO"
+},
+{
+"hero_id": 8,
+"team": "dire",
+"order": 12,
+"player": "MidOne"
+},
+{
+"hero_id": 111,
+"team": "radiant",
+"order": 13,
+"player": "DuBu"
+},
+{
+"hero_id": 27,
+"team": "dire",
+"order": 14,
+"player": "DJ"
+},
+{
+"hero_id": 18,
+"team": "radiant",
+"order": 15,
+"player": "123123"
+},
+{
+"hero_id": 84,
+"team": "radiant",
+"order": 18,
+"player": "Yunapapa"
+},
+{
+"hero_id": 94,
+"team": "dire",
+"order": 19,
+"player": "mushi"
+}
+],
+"answer": {
+"hero_id": 94,
+"team": "dire"
+}
+},
+{
+"match_id": 2566482748,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "Ascent Esports",
+"dire_team": "MVP Phoenix",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 62,
+"team": "radiant",
+"order": 4,
+"player": "gone"
+},
+{
+"hero_id": 28,
+"team": "dire",
+"order": 5,
+"player": "AX"
+},
+{
+"hero_id": 84,
+"team": "dire",
+"order": 6,
+"player": "Yunapapa"
+},
+{
+"hero_id": 93,
+"team": "radiant",
+"order": 7,
+"player": "MidOne"
+},
+{
+"hero_id": 98,
+"team": "dire",
+"order": 12,
+"player": "123123"
+},
+{
+"hero_id": 5,
+"team": "radiant",
+"order": 13,
+"player": "DJ"
+},
+{
+"hero_id": 31,
+"team": "dire",
+"order": 14,
+"player": "DuBu"
+},
+{
+"hero_id": 16,
+"team": "radiant",
+"order": 15,
+"player": "`````````"
+},
+{
+"hero_id": 34,
+"team": "radiant",
+"order": 18,
+"player": "mushi"
+},
+{
+"hero_id": 55,
+"team": "dire",
+"order": 19,
+"player": "NELINHO"
+}
+],
+"answer": {
+"hero_id": 55,
+"team": "dire"
+}
+},
+{
+"match_id": 2564666119,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "123",
+"dire_team": "EHOME",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 9,
+"team": "radiant",
+"order": 4,
+"player": "w33"
+},
+{
+"hero_id": 79,
+"team": "dire",
+"order": 5,
+"player": "l"
+},
+{
+"hero_id": 23,
+"team": "dire",
+"order": 6,
+"player": "疯鱼"
+},
+{
+"hero_id": 98,
+"team": "radiant",
+"order": 7,
+"player": "Wiiliam Booty Catcher"
+},
+{
+"hero_id": 88,
+"team": "dire",
+"order": 12,
+"player": "oldeLeVeN"
+},
+{
+"hero_id": 84,
+"team": "radiant",
+"order": 13,
+"player": "kaban"
+},
+{
+"hero_id": 43,
+"team": "dire",
+"order": 14,
+"player": "我分不清"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 15,
+"player": "Resolut1on"
+},
+{
+"hero_id": 101,
+"team": "radiant",
+"order": 18,
+"player": "Saksa"
+},
+{
+"hero_id": 54,
+"team": "dire",
+"order": 19,
+"player": "keyboard cat"
+}
+],
+"answer": {
+"hero_id": 54,
+"team": "dire"
+}
+},
+{
+"match_id": 2564619977,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "EHOME",
+"dire_team": "123",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 4,
+"player": "l"
+},
+{
+"hero_id": 89,
+"team": "dire",
+"order": 5,
+"player": "kaban"
+},
+{
+"hero_id": 103,
+"team": "dire",
+"order": 6,
+"player": "Saksa"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 7,
+"player": "疯鱼"
+},
+{
+"hero_id": 98,
+"team": "dire",
+"order": 12,
+"player": "Wiiliam Booty Catcher"
+},
+{
+"hero_id": 16,
+"team": "radiant",
+"order": 13,
+"player": "oldeLeVeN"
+},
+{
+"hero_id": 74,
+"team": "dire",
+"order": 14,
+"player": "w33"
+},
+{
+"hero_id": 1,
+"team": "radiant",
+"order": 15,
+"player": "keyboard cat"
+},
+{
+"hero_id": 15,
+"team": "radiant",
+"order": 18,
+"player": "我分不清"
+},
+{
+"hero_id": 20,
+"team": "dire",
+"order": 19,
+"player": "Resolut1on"
+}
+],
+"answer": {
+"hero_id": 20,
+"team": "dire"
+}
+},
+{
+"match_id": 2564547149,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "Team Liquid",
+"dire_team": "Ascent Esports",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 111,
+"team": "radiant",
+"order": 4,
+"player": "jaa-a"
+},
+{
+"hero_id": 6,
+"team": "dire",
+"order": 5,
+"player": "mushi"
+},
+{
+"hero_id": 85,
+"team": "dire",
+"order": 6,
+"player": "gone"
+},
+{
+"hero_id": 2,
+"team": "radiant",
+"order": 7,
+"player": "mc"
+},
+{
+"hero_id": 27,
+"team": "dire",
+"order": 12,
+"player": "DJ"
+},
+{
+"hero_id": 15,
+"team": "radiant",
+"order": 13,
+"player": "ʕง•ᴥ•ʔง ʕง•ᴥ•ʔง ʕง•ᴥ•ʔง"
+},
+{
+"hero_id": 16,
+"team": "dire",
+"order": 14,
+"player": "`````````"
+},
+{
+"hero_id": 18,
+"team": "radiant",
+"order": 15,
+"player": "kimchi"
+},
+{
+"hero_id": 68,
+"team": "radiant",
+"order": 18,
+"player": "kky"
+},
+{
+"hero_id": 39,
+"team": "dire",
+"order": 19,
+"player": "MidOne"
+}
+],
+"answer": {
+"hero_id": 39,
+"team": "dire"
+}
+},
+{
+"match_id": 2564485350,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "Ascent Esports",
+"dire_team": "Team Liquid",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 4,
+"player": "DJ"
+},
+{
+"hero_id": 16,
+"team": "dire",
+"order": 5,
+"player": "mc"
+},
+{
+"hero_id": 23,
+"team": "dire",
+"order": 6,
+"player": "kky"
+},
+{
+"hero_id": 48,
+"team": "radiant",
+"order": 7,
+"player": "mushi"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 12,
+"player": "jaa-a"
+},
+{
+"hero_id": 85,
+"team": "radiant",
+"order": 13,
+"player": "gone"
+},
+{
+"hero_id": 89,
+"team": "dire",
+"order": 14,
+"player": "kimchi"
+},
+{
+"hero_id": 28,
+"team": "radiant",
+"order": 15,
+"player": "`````````"
+},
+{
+"hero_id": 106,
+"team": "radiant",
+"order": 18,
+"player": "MidOne"
+},
+{
+"hero_id": 43,
+"team": "dire",
+"order": 19,
+"player": "ʕง•ᴥ•ʔง ʕง•ᴥ•ʔง ʕง•ᴥ•ʔง"
+}
+],
+"answer": {
+"hero_id": 43,
+"team": "dire"
+}
+},
+{
+"match_id": 2564408925,
+"year": 2016,
+"league": "The International 2016",
+"radiant_team": "123",
+"dire_team": "TNC Predator",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 9,
+"team": "radiant",
+"order": 4,
+"player": "w33"
+},
+{
+"hero_id": 20,
+"team": "dire",
+"order": 5,
+"player": "still better than 95% of nadota"
+},
+{
+"hero_id": 109,
+"team": "dire",
+"order": 6,
+"player": "Raven"
+},
+{
+"hero_id": 112,
+"team": "radiant",
+"order": 7,
+"player": "Saksa"
+},
+{
+"hero_id": 41,
+"team": "dire",
+"order": 12,
+"player": "MEDISINA"
+},
+{
+"hero_id": 16,
+"team": "radiant",
+"order": 13,
+"player": "kaban"
+},
+{
+"hero_id": 87,
+"team": "dire",
+"order": 14,
+"player": "444"
+},
+{
+"hero_id": 93,
+"team": "radiant",
+"order": 15,
+"player": "Resolut1on"
+},
+{
+"hero_id": 55,
+"team": "radiant",
+"order": 18,
+"player": "Wiiliam Booty Catcher"
+},
+{
+"hero_id": 73,
+"team": "dire",
+"order": 19,
+"player": "Kuku^"
+}
+],
+"answer": {
+"hero_id": 73,
+"team": "dire"
+}
+},
+{
+"match_id": 3372726385,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "Newbee",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 7,
+"team": "dire",
+"order": 4,
+"player": "GH"
+},
+{
+"hero_id": 40,
+"team": "radiant",
+"order": 5,
+"player": "No sup"
+},
+{
+"hero_id": 27,
+"team": "radiant",
+"order": 6,
+"player": "Koopa"
+},
+{
+"hero_id": 31,
+"team": "dire",
+"order": 7,
+"player": "kky"
+},
+{
+"hero_id": 16,
+"team": "radiant",
+"order": 12,
+"player": "kaka"
+},
+{
+"hero_id": 55,
+"team": "dire",
+"order": 13,
+"player": "mc"
+},
+{
+"hero_id": 96,
+"team": "radiant",
+"order": 14,
+"player": "trast lain"
+},
+{
+"hero_id": 36,
+"team": "dire",
+"order": 15,
+"player": "kimchi"
+},
+{
+"hero_id": 8,
+"team": "dire",
+"order": 18,
+"player": "Miracle-"
+},
+{
+"hero_id": 43,
+"team": "radiant",
+"order": 19,
+"player": "烈烈风中丶"
+}
+],
+"answer": {
+"hero_id": 43,
+"team": "radiant"
+}
+},
+{
+"match_id": 3372676225,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "Team Liquid",
+"dire_team": "Newbee",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 31,
+"team": "dire",
+"order": 4,
+"player": "Koopa"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 5,
+"player": "GH"
+},
+{
+"hero_id": 40,
+"team": "radiant",
+"order": 6,
+"player": "mc"
+},
+{
+"hero_id": 104,
+"team": "dire",
+"order": 7,
+"player": "trast lain"
+},
+{
+"hero_id": 68,
+"team": "radiant",
+"order": 12,
+"player": "kky"
+},
+{
+"hero_id": 16,
+"team": "dire",
+"order": 13,
+"player": "kaka"
+},
+{
+"hero_id": 36,
+"team": "radiant",
+"order": 14,
+"player": "kimchi"
+},
+{
+"hero_id": 39,
+"team": "dire",
+"order": 15,
+"player": "烈烈风中丶"
+},
+{
+"hero_id": 1,
+"team": "dire",
+"order": 18,
+"player": "No sup"
+},
+{
+"hero_id": 73,
+"team": "radiant",
+"order": 19,
+"player": "Miracle-"
+}
+],
+"answer": {
+"hero_id": 73,
+"team": "radiant"
+}
+},
+{
+"match_id": 3372622939,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "Newbee",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 53,
+"team": "dire",
+"order": 4,
+"player": "mc"
+},
+{
+"hero_id": 88,
+"team": "radiant",
+"order": 5,
+"player": "kaka"
+},
+{
+"hero_id": 4,
+"team": "radiant",
+"order": 6,
+"player": "No sup"
+},
+{
+"hero_id": 28,
+"team": "dire",
+"order": 7,
+"player": "GH"
+},
+{
+"hero_id": 5,
+"team": "radiant",
+"order": 12,
+"player": "Koopa"
+},
+{
+"hero_id": 31,
+"team": "dire",
+"order": 13,
+"player": "kky"
+},
+{
+"hero_id": 65,
+"team": "radiant",
+"order": 14,
+"player": "trast lain"
+},
+{
+"hero_id": 54,
+"team": "dire",
+"order": 15,
+"player": "kimchi"
+},
+{
+"hero_id": 95,
+"team": "dire",
+"order": 18,
+"player": "Miracle-"
+},
+{
+"hero_id": 25,
+"team": "radiant",
+"order": 19,
+"player": "烈烈风中丶"
+}
+],
+"answer": {
+"hero_id": 25,
+"team": "radiant"
+}
+},
+{
+"match_id": 3372455628,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "Team Liquid",
+"dire_team": "LGD.Forever Young",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 7,
+"team": "dire",
+"order": 4,
+"player": "HEITER"
+},
+{
+"hero_id": 53,
+"team": "radiant",
+"order": 5,
+"player": "mc"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 6,
+"player": "GH"
+},
+{
+"hero_id": 65,
+"team": "dire",
+"order": 7,
+"player": "芙蕖"
+},
+{
+"hero_id": 71,
+"team": "radiant",
+"order": 12,
+"player": "kky"
+},
+{
+"hero_id": 30,
+"team": "dire",
+"order": 13,
+"player": "田曦薇"
+},
+{
+"hero_id": 40,
+"team": "radiant",
+"order": 14,
+"player": "kimchi"
+},
+{
+"hero_id": 10,
+"team": "dire",
+"order": 15,
+"player": "Monet"
+},
+{
+"hero_id": 43,
+"team": "dire",
+"order": 18,
+"player": "随便玩玩"
+},
+{
+"hero_id": 109,
+"team": "radiant",
+"order": 19,
+"player": "Miracle-"
+}
+],
+"answer": {
+"hero_id": 109,
+"team": "radiant"
+}
+},
+{
+"match_id": 3372386596,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "Team Liquid",
+"dire_team": "LGD.Forever Young",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 4,
+"player": "GH"
+},
+{
+"hero_id": 31,
+"team": "dire",
+"order": 5,
+"player": "田曦薇"
+},
+{
+"hero_id": 13,
+"team": "dire",
+"order": 6,
+"player": "芙蕖"
+},
+{
+"hero_id": 53,
+"team": "radiant",
+"order": 7,
+"player": "mc"
+},
+{
+"hero_id": 4,
+"team": "dire",
+"order": 12,
+"player": "随便玩玩"
+},
+{
+"hero_id": 5,
+"team": "radiant",
+"order": 13,
+"player": "kky"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 14,
+"player": "HEITER"
+},
+{
+"hero_id": 40,
+"team": "radiant",
+"order": 15,
+"player": "kimchi"
+},
+{
+"hero_id": 73,
+"team": "radiant",
+"order": 18,
+"player": "Miracle-"
+},
+{
+"hero_id": 109,
+"team": "dire",
+"order": 19,
+"player": "Monet"
+}
+],
+"answer": {
+"hero_id": 109,
+"team": "dire"
+}
+},
+{
+"match_id": 3372269708,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "LGD.Forever Young",
+"dire_team": "Team Liquid",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 7,
+"team": "dire",
+"order": 4,
+"player": "mc"
+},
+{
+"hero_id": 31,
+"team": "radiant",
+"order": 5,
+"player": "田曦薇"
+},
+{
+"hero_id": 13,
+"team": "radiant",
+"order": 6,
+"player": "芙蕖"
+},
+{
+"hero_id": 90,
+"team": "dire",
+"order": 7,
+"player": "GH"
+},
+{
+"hero_id": 107,
+"team": "radiant",
+"order": 12,
+"player": "HEITER"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 13,
+"player": "kky"
+},
+{
+"hero_id": 54,
+"team": "radiant",
+"order": 14,
+"player": "Monet"
+},
+{
+"hero_id": 4,
+"team": "dire",
+"order": 15,
+"player": "Miracle-"
+},
+{
+"hero_id": 80,
+"team": "dire",
+"order": 18,
+"player": "kimchi"
+},
+{
+"hero_id": 35,
+"team": "radiant",
+"order": 19,
+"player": "随便玩玩"
+}
+],
+"answer": {
+"hero_id": 35,
+"team": "radiant"
+}
+},
+{
+"match_id": 3370363807,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "LGD Gaming",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 7,
+"team": "dire",
+"order": 4,
+"player": "GH"
+},
+{
+"hero_id": 65,
+"team": "radiant",
+"order": 5,
+"player": "oldeLeVeN"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 6,
+"player": "Ahx1"
+},
+{
+"hero_id": 40,
+"team": "dire",
+"order": 7,
+"player": "mc"
+},
+{
+"hero_id": 111,
+"team": "radiant",
+"order": 12,
+"player": "21Sep"
+},
+{
+"hero_id": 59,
+"team": "dire",
+"order": 13,
+"player": "Miracle-"
+},
+{
+"hero_id": 43,
+"team": "radiant",
+"order": 14,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 50,
+"team": "dire",
+"order": 15,
+"player": "kky"
+},
+{
+"hero_id": 61,
+"team": "dire",
+"order": 18,
+"player": "kimchi"
+},
+{
+"hero_id": 98,
+"team": "radiant",
+"order": 19,
+"player": "o.0c"
+}
+],
+"answer": {
+"hero_id": 98,
+"team": "radiant"
+}
+},
+{
+"match_id": 3370307979,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "LGD Gaming",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 7,
+"team": "dire",
+"order": 4,
+"player": "GH"
+},
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 5,
+"player": "oldeLeVeN"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 6,
+"player": "Ahx1"
+},
+{
+"hero_id": 36,
+"team": "dire",
+"order": 7,
+"player": "kimchi"
+},
+{
+"hero_id": 27,
+"team": "radiant",
+"order": 12,
+"player": "21Sep"
+},
+{
+"hero_id": 31,
+"team": "dire",
+"order": 13,
+"player": "kky"
+},
+{
+"hero_id": 9,
+"team": "radiant",
+"order": 14,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 10,
+"team": "dire",
+"order": 15,
+"player": "Miracle-"
+},
+{
+"hero_id": 55,
+"team": "dire",
+"order": 18,
+"player": "mc"
+},
+{
+"hero_id": 44,
+"team": "radiant",
+"order": 19,
+"player": "o.0c"
+}
+],
+"answer": {
+"hero_id": 44,
+"team": "radiant"
+}
+},
+{
+"match_id": 3370213472,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "LGD.Forever Young",
+"dire_team": "Newbee",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 60,
+"team": "radiant",
+"order": 4,
+"player": "HEITER"
+},
+{
+"hero_id": 107,
+"team": "dire",
+"order": 5,
+"player": "kaka"
+},
+{
+"hero_id": 4,
+"team": "dire",
+"order": 6,
+"player": "No sup"
+},
+{
+"hero_id": 50,
+"team": "radiant",
+"order": 7,
+"player": "田曦薇"
+},
+{
+"hero_id": 87,
+"team": "dire",
+"order": 12,
+"player": "Koopa"
+},
+{
+"hero_id": 99,
+"team": "radiant",
+"order": 13,
+"player": "随便玩玩"
+},
+{
+"hero_id": 2,
+"team": "dire",
+"order": 14,
+"player": "trast lain"
+},
+{
+"hero_id": 10,
+"team": "radiant",
+"order": 15,
+"player": "Monet"
+},
+{
+"hero_id": 57,
+"team": "radiant",
+"order": 18,
+"player": "芙蕖"
+},
+{
+"hero_id": 11,
+"team": "dire",
+"order": 19,
+"player": "烈烈风中丶"
+}
+],
+"answer": {
+"hero_id": 11,
+"team": "dire"
+}
+},
+{
+"match_id": 3370154221,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "LGD.Forever Young",
+"dire_team": "Newbee",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 60,
+"team": "radiant",
+"order": 4,
+"player": "HEITER"
+},
+{
+"hero_id": 107,
+"team": "dire",
+"order": 5,
+"player": "kaka"
+},
+{
+"hero_id": 4,
+"team": "dire",
+"order": 6,
+"player": "No sup"
+},
+{
+"hero_id": 50,
+"team": "radiant",
+"order": 7,
+"player": "田曦薇"
+},
+{
+"hero_id": 37,
+"team": "dire",
+"order": 12,
+"player": "Koopa"
+},
+{
+"hero_id": 38,
+"team": "radiant",
+"order": 13,
+"player": "芙蕖"
+},
+{
+"hero_id": 99,
+"team": "dire",
+"order": 14,
+"player": "trast lain"
+},
+{
+"hero_id": 56,
+"team": "radiant",
+"order": 15,
+"player": "Monet"
+},
+{
+"hero_id": 17,
+"team": "radiant",
+"order": 18,
+"player": "随便玩玩"
+},
+{
+"hero_id": 45,
+"team": "dire",
+"order": 19,
+"player": "烈烈风中丶"
+}
+],
+"answer": {
+"hero_id": 45,
+"team": "dire"
+}
+},
+{
+"match_id": 3370054178,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "LGD.Forever Young",
+"dire_team": "Newbee",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 60,
+"team": "radiant",
+"order": 4,
+"player": "芙蕖"
+},
+{
+"hero_id": 107,
+"team": "dire",
+"order": 5,
+"player": "kaka"
+},
+{
+"hero_id": 4,
+"team": "dire",
+"order": 6,
+"player": "No sup"
+},
+{
+"hero_id": 31,
+"team": "radiant",
+"order": 7,
+"player": "田曦薇"
+},
+{
+"hero_id": 50,
+"team": "dire",
+"order": 12,
+"player": "Koopa"
+},
+{
+"hero_id": 63,
+"team": "radiant",
+"order": 13,
+"player": "Monet"
+},
+{
+"hero_id": 2,
+"team": "dire",
+"order": 14,
+"player": "trast lain"
+},
+{
+"hero_id": 94,
+"team": "radiant",
+"order": 15,
+"player": "随便玩玩"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 18,
+"player": "HEITER"
+},
+{
+"hero_id": 35,
+"team": "dire",
+"order": 19,
+"player": "烈烈风中丶"
+}
+],
+"answer": {
+"hero_id": 35,
+"team": "dire"
+}
+},
+{
+"match_id": 3369930606,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "LGD Gaming",
+"dire_team": "Invictus Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 88,
+"team": "dire",
+"order": 4,
+"player": "o"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 5,
+"player": "oldeLeVeN"
+},
+{
+"hero_id": 68,
+"team": "radiant",
+"order": 6,
+"player": "21Sep"
+},
+{
+"hero_id": 13,
+"team": "dire",
+"order": 7,
+"player": "Xxs"
+},
+{
+"hero_id": 62,
+"team": "radiant",
+"order": 12,
+"player": "Ahx1"
+},
+{
+"hero_id": 111,
+"team": "dire",
+"order": 13,
+"player": "BoBoKa"
+},
+{
+"hero_id": 1,
+"team": "radiant",
+"order": 14,
+"player": "o.0c"
+},
+{
+"hero_id": 73,
+"team": "dire",
+"order": 15,
+"player": "33"
+},
+{
+"hero_id": 54,
+"team": "dire",
+"order": 18,
+"player": "aaakikunaya"
+},
+{
+"hero_id": 70,
+"team": "radiant",
+"order": 19,
+"player": "天地一刀斩"
+}
+],
+"answer": {
+"hero_id": 70,
+"team": "radiant"
+}
+},
+{
+"match_id": 3369858045,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "LGD Gaming",
+"dire_team": "Invictus Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 107,
+"team": "dire",
+"order": 4,
+"player": "BoBoKa"
+},
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 5,
+"player": "oldeLeVeN"
+},
+{
+"hero_id": 100,
+"team": "radiant",
+"order": 6,
+"player": "Ahx1"
+},
+{
+"hero_id": 43,
+"team": "dire",
+"order": 7,
+"player": "33"
+},
+{
+"hero_id": 27,
+"team": "radiant",
+"order": 12,
+"player": "21Sep"
+},
+{
+"hero_id": 87,
+"team": "dire",
+"order": 13,
+"player": "o"
+},
+{
+"hero_id": 39,
+"team": "radiant",
+"order": 14,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 7,
+"team": "dire",
+"order": 15,
+"player": "Xxs"
+},
+{
+"hero_id": 41,
+"team": "dire",
+"order": 18,
+"player": "aaakikunaya"
+},
+{
+"hero_id": 95,
+"team": "radiant",
+"order": 19,
+"player": "o.0c"
+}
+],
+"answer": {
+"hero_id": 95,
+"team": "radiant"
+}
+},
+{
+"match_id": 3368387319,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "Team Radiant",
+"dire_team": "Team Dire",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 4,
+"player": "SumaiL-"
+},
+{
+"hero_id": 91,
+"team": "dire",
+"order": 5,
+"player": "Miracle-"
+},
+{
+"hero_id": 84,
+"team": "dire",
+"order": 6,
+"player": "kaka"
+},
+{
+"hero_id": 66,
+"team": "radiant",
+"order": 7,
+"player": "kky"
+},
+{
+"hero_id": 78,
+"team": "dire",
+"order": 12,
+"player": "Solo"
+},
+{
+"hero_id": 34,
+"team": "radiant",
+"order": 13,
+"player": "BoBoKa"
+},
+{
+"hero_id": 36,
+"team": "dire",
+"order": 14,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 65,
+"team": "radiant",
+"order": 15,
+"player": "s4"
+},
+{
+"hero_id": 94,
+"team": "radiant",
+"order": 18,
+"player": "RAMZES666"
+},
+{
+"hero_id": 102,
+"team": "dire",
+"order": 19,
+"player": "z"
+}
+],
+"answer": {
+"hero_id": 102,
+"team": "dire"
+}
+},
+{
+"match_id": 3368300783,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "Virtus.pro",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 7,
+"team": "dire",
+"order": 4,
+"player": "GH"
+},
+{
+"hero_id": 68,
+"team": "radiant",
+"order": 5,
+"player": "Solo"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 6,
+"player": "RAMZES666"
+},
+{
+"hero_id": 53,
+"team": "dire",
+"order": 7,
+"player": "mc"
+},
+{
+"hero_id": 28,
+"team": "radiant",
+"order": 12,
+"player": "lft ti quals"
+},
+{
+"hero_id": 40,
+"team": "dire",
+"order": 13,
+"player": "kimchi"
+},
+{
+"hero_id": 39,
+"team": "radiant",
+"order": 14,
+"player": "No[o]ne-"
+},
+{
+"hero_id": 1,
+"team": "dire",
+"order": 15,
+"player": "Miracle-"
+},
+{
+"hero_id": 31,
+"team": "dire",
+"order": 18,
+"player": "kky"
+},
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 19,
+"player": "izdu"
+}
+],
+"answer": {
+"hero_id": 97,
+"team": "radiant"
+}
+},
+{
+"match_id": 3368249009,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "Team Liquid",
+"dire_team": "Virtus.pro",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 84,
+"team": "dire",
+"order": 4,
+"player": "Solo"
+},
+{
+"hero_id": 55,
+"team": "radiant",
+"order": 5,
+"player": "mc"
+},
+{
+"hero_id": 28,
+"team": "radiant",
+"order": 6,
+"player": "GH"
+},
+{
+"hero_id": 36,
+"team": "dire",
+"order": 7,
+"player": "RAMZES666"
+},
+{
+"hero_id": 112,
+"team": "radiant",
+"order": 12,
+"player": "kky"
+},
+{
+"hero_id": 50,
+"team": "dire",
+"order": 13,
+"player": "lft ti quals"
+},
+{
+"hero_id": 74,
+"team": "radiant",
+"order": 14,
+"player": "Miracle-"
+},
+{
+"hero_id": 47,
+"team": "dire",
+"order": 15,
+"player": "No[o]ne-"
+},
+{
+"hero_id": 16,
+"team": "dire",
+"order": 18,
+"player": "izdu"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 19,
+"player": "kimchi"
+}
+],
+"answer": {
+"hero_id": 41,
+"team": "radiant"
+}
+},
+{
+"match_id": 3368158118,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "Virtus.pro",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 90,
+"team": "dire",
+"order": 4,
+"player": "GH"
+},
+{
+"hero_id": 88,
+"team": "radiant",
+"order": 5,
+"player": "lft ti quals"
+},
+{
+"hero_id": 5,
+"team": "radiant",
+"order": 6,
+"player": "Solo"
+},
+{
+"hero_id": 38,
+"team": "dire",
+"order": 7,
+"player": "mc"
+},
+{
+"hero_id": 40,
+"team": "radiant",
+"order": 12,
+"player": "RAMZES666"
+},
+{
+"hero_id": 77,
+"team": "dire",
+"order": 13,
+"player": "kimchi"
+},
+{
+"hero_id": 36,
+"team": "radiant",
+"order": 14,
+"player": "izdu"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 15,
+"player": "kky"
+},
+{
+"hero_id": 43,
+"team": "dire",
+"order": 18,
+"player": "Miracle-"
+},
+{
+"hero_id": 4,
+"team": "radiant",
+"order": 19,
+"player": "No[o]ne-"
+}
+],
+"answer": {
+"hero_id": 4,
+"team": "radiant"
+}
+},
+{
+"match_id": 3368083254,
+"year": 2017,
+"league": "The International 2017",
+"radiant_team": "LGD Gaming",
+"dire_team": "OG",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 97,
+"team": "dire",
+"order": 4,
+"player": "s4"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 5,
+"player": "Ahx1"
+},
+{
+"hero_id": 65,
+"team": "radiant",
+"order": 6,
+"player": "oldeLeVeN"
+},
+{
+"hero_id": 88,
+"team": "dire",
+"order": 7,
+"player": "jaa-a"
+},
+{
+"hero_id": 18,
+"team": "radiant",
+"order": 12,
+"player": "o.0c"
+},
+{
+"hero_id": 112,
+"team": "dire",
+"order": 13,
+"player": "Fly"
+},
+{
+"hero_id": 27,
+"team": "radiant",
+"order": 14,
+"player": "21Sep"
+},
+{
+"hero_id": 8,
+"team": "dire",
+"order": 15,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 39,
+"team": "dire",
+"order": 18,
+"player": "minioncheer"
+},
+{
+"hero_id": 17,
+"team": "radiant",
+"order": 19,
+"player": "天地一刀斩"
+}
+],
+"answer": {
+"hero_id": 17,
+"team": "radiant"
+}
+},
+{
+"match_id": 4080856812,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "LGD Gaming",
+"dire_team": "OG",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 6,
+"player": "fy"
+},
+{
+"hero_id": 53,
+"team": "dire",
+"order": 7,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 8,
+"player": "jaa-a"
+},
+{
+"hero_id": 109,
+"team": "radiant",
+"order": 9,
+"player": "睪九"
+},
+{
+"hero_id": 97,
+"team": "dire",
+"order": 14,
+"player": "Ceb"
+},
+{
+"hero_id": 75,
+"team": "radiant",
+"order": 15,
+"player": "xNova"
+},
+{
+"hero_id": 106,
+"team": "dire",
+"order": 16,
+"player": "minioncheer"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 17,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 65,
+"team": "radiant",
+"order": 20,
+"player": "nailong"
+},
+{
+"hero_id": 22,
+"team": "dire",
+"order": 21,
+"player": "Topson"
+}
+],
+"answer": {
+"hero_id": 22,
+"team": "dire"
+}
+},
+{
+"match_id": 4080778303,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "LGD Gaming",
+"dire_team": "OG",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 91,
+"team": "dire",
+"order": 6,
+"player": "jaa-a"
+},
+{
+"hero_id": 58,
+"team": "radiant",
+"order": 7,
+"player": "xNova"
+},
+{
+"hero_id": 10,
+"team": "radiant",
+"order": 8,
+"player": "睪九"
+},
+{
+"hero_id": 12,
+"team": "dire",
+"order": 9,
+"player": "minioncheer"
+},
+{
+"hero_id": 100,
+"team": "radiant",
+"order": 14,
+"player": "fy"
+},
+{
+"hero_id": 66,
+"team": "dire",
+"order": 15,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 78,
+"team": "radiant",
+"order": 16,
+"player": "nailong"
+},
+{
+"hero_id": 74,
+"team": "dire",
+"order": 17,
+"player": "Topson"
+},
+{
+"hero_id": 2,
+"team": "dire",
+"order": 20,
+"player": "Ceb"
+},
+{
+"hero_id": 4,
+"team": "radiant",
+"order": 21,
+"player": "天地一刀斩"
+}
+],
+"answer": {
+"hero_id": 4,
+"team": "radiant"
+}
+},
+{
+"match_id": 4080723031,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "OG",
+"dire_team": "LGD Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 63,
+"team": "dire",
+"order": 6,
+"player": "睪九"
+},
+{
+"hero_id": 66,
+"team": "radiant",
+"order": 7,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 12,
+"team": "radiant",
+"order": 8,
+"player": "minioncheer"
+},
+{
+"hero_id": 20,
+"team": "dire",
+"order": 9,
+"player": "xNova"
+},
+{
+"hero_id": 112,
+"team": "radiant",
+"order": 14,
+"player": "Ceb"
+},
+{
+"hero_id": 110,
+"team": "dire",
+"order": 15,
+"player": "fy"
+},
+{
+"hero_id": 25,
+"team": "radiant",
+"order": 16,
+"player": "jaa-a"
+},
+{
+"hero_id": 73,
+"team": "dire",
+"order": 17,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 78,
+"team": "dire",
+"order": 20,
+"player": "nailong"
+},
+{
+"hero_id": 10,
+"team": "radiant",
+"order": 21,
+"player": "Topson"
+}
+],
+"answer": {
+"hero_id": 10,
+"team": "radiant"
+}
+},
+{
+"match_id": 4080666526,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "LGD Gaming",
+"dire_team": "OG",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 91,
+"team": "dire",
+"order": 6,
+"player": "jaa-a"
+},
+{
+"hero_id": 58,
+"team": "radiant",
+"order": 7,
+"player": "nailong"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 8,
+"player": "fy"
+},
+{
+"hero_id": 72,
+"team": "dire",
+"order": 9,
+"player": "minioncheer"
+},
+{
+"hero_id": 3,
+"team": "radiant",
+"order": 14,
+"player": "xNova"
+},
+{
+"hero_id": 74,
+"team": "dire",
+"order": 15,
+"player": "Topson"
+},
+{
+"hero_id": 12,
+"team": "radiant",
+"order": 16,
+"player": "睪九"
+},
+{
+"hero_id": 108,
+"team": "dire",
+"order": 17,
+"player": "Ceb"
+},
+{
+"hero_id": 87,
+"team": "dire",
+"order": 20,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 21,
+"player": "天地一刀斩"
+}
+],
+"answer": {
+"hero_id": 23,
+"team": "radiant"
+}
+},
+{
+"match_id": 4080601137,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "OG",
+"dire_team": "LGD Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 58,
+"team": "dire",
+"order": 6,
+"player": "nailong"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 7,
+"player": "jaa-a"
+},
+{
+"hero_id": 67,
+"team": "radiant",
+"order": 8,
+"player": "minioncheer"
+},
+{
+"hero_id": 17,
+"team": "dire",
+"order": 9,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 112,
+"team": "radiant",
+"order": 14,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 5,
+"team": "dire",
+"order": 15,
+"player": "xNova"
+},
+{
+"hero_id": 114,
+"team": "radiant",
+"order": 16,
+"player": "Topson"
+},
+{
+"hero_id": 103,
+"team": "dire",
+"order": 17,
+"player": "fy"
+},
+{
+"hero_id": 4,
+"team": "dire",
+"order": 20,
+"player": "睪九"
+},
+{
+"hero_id": 83,
+"team": "radiant",
+"order": 21,
+"player": "Ceb"
+}
+],
+"answer": {
+"hero_id": 83,
+"team": "radiant"
+}
+},
+{
+"match_id": 4080420268,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "LGD Gaming",
+"dire_team": "Shopify Rebellion",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 67,
+"team": "dire",
+"order": 6,
+"player": "天鸽"
+},
+{
+"hero_id": 42,
+"team": "radiant",
+"order": 7,
+"player": "nailong"
+},
+{
+"hero_id": 119,
+"team": "radiant",
+"order": 8,
+"player": "fy"
+},
+{
+"hero_id": 31,
+"team": "dire",
+"order": 9,
+"player": "Fly"
+},
+{
+"hero_id": 37,
+"team": "radiant",
+"order": 14,
+"player": "xNova"
+},
+{
+"hero_id": 9,
+"team": "dire",
+"order": 15,
+"player": "s4"
+},
+{
+"hero_id": 48,
+"team": "radiant",
+"order": 16,
+"player": "睪九"
+},
+{
+"hero_id": 36,
+"team": "dire",
+"order": 17,
+"player": "SumaiL-"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 20,
+"player": "Cr1t-"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 21,
+"player": "天地一刀斩"
+}
+],
+"answer": {
+"hero_id": 23,
+"team": "radiant"
+}
+},
+{
+"match_id": 4080316101,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "Shopify Rebellion",
+"dire_team": "LGD Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 91,
+"team": "radiant",
+"order": 6,
+"player": "Cr1t-"
+},
+{
+"hero_id": 58,
+"team": "dire",
+"order": 7,
+"player": "nailong"
+},
+{
+"hero_id": 7,
+"team": "dire",
+"order": 8,
+"player": "fy"
+},
+{
+"hero_id": 72,
+"team": "radiant",
+"order": 9,
+"player": "天鸽"
+},
+{
+"hero_id": 19,
+"team": "dire",
+"order": 14,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 85,
+"team": "radiant",
+"order": 15,
+"player": "Fly"
+},
+{
+"hero_id": 3,
+"team": "dire",
+"order": 16,
+"player": "xNova"
+},
+{
+"hero_id": 73,
+"team": "radiant",
+"order": 17,
+"player": "SumaiL-"
+},
+{
+"hero_id": 40,
+"team": "radiant",
+"order": 20,
+"player": "s4"
+},
+{
+"hero_id": 67,
+"team": "dire",
+"order": 21,
+"player": "睪九"
+}
+],
+"answer": {
+"hero_id": 67,
+"team": "dire"
+}
+},
+{
+"match_id": 4078566725,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "Shopify Rebellion",
+"dire_team": "Team Liquid",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 20,
+"team": "dire",
+"order": 6,
+"player": "GH"
+},
+{
+"hero_id": 42,
+"team": "radiant",
+"order": 7,
+"player": "s4"
+},
+{
+"hero_id": 119,
+"team": "radiant",
+"order": 8,
+"player": "Cr1t-"
+},
+{
+"hero_id": 53,
+"team": "dire",
+"order": 9,
+"player": "kky"
+},
+{
+"hero_id": 67,
+"team": "radiant",
+"order": 14,
+"player": "天鸽"
+},
+{
+"hero_id": 78,
+"team": "dire",
+"order": 15,
+"player": "mc"
+},
+{
+"hero_id": 31,
+"team": "radiant",
+"order": 16,
+"player": "Fly"
+},
+{
+"hero_id": 109,
+"team": "dire",
+"order": 17,
+"player": "Miracle-"
+},
+{
+"hero_id": 47,
+"team": "dire",
+"order": 20,
+"player": "kimchi"
+},
+{
+"hero_id": 98,
+"team": "radiant",
+"order": 21,
+"player": "SumaiL-"
+}
+],
+"answer": {
+"hero_id": 98,
+"team": "radiant"
+}
+},
+{
+"match_id": 4078478649,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "Shopify Rebellion",
+"dire_team": "Team Liquid",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 63,
+"team": "radiant",
+"order": 6,
+"player": "s4"
+},
+{
+"hero_id": 91,
+"team": "dire",
+"order": 7,
+"player": "GH"
+},
+{
+"hero_id": 58,
+"team": "dire",
+"order": 8,
+"player": "mc"
+},
+{
+"hero_id": 70,
+"team": "radiant",
+"order": 9,
+"player": "天鸽"
+},
+{
+"hero_id": 84,
+"team": "dire",
+"order": 14,
+"player": "kky"
+},
+{
+"hero_id": 31,
+"team": "radiant",
+"order": 15,
+"player": "Fly"
+},
+{
+"hero_id": 40,
+"team": "dire",
+"order": 16,
+"player": "kimchi"
+},
+{
+"hero_id": 17,
+"team": "radiant",
+"order": 17,
+"player": "SumaiL-"
+},
+{
+"hero_id": 119,
+"team": "radiant",
+"order": 20,
+"player": "Cr1t-"
+},
+{
+"hero_id": 81,
+"team": "dire",
+"order": 21,
+"player": "Miracle-"
+}
+],
+"answer": {
+"hero_id": 81,
+"team": "dire"
+}
+},
+{
+"match_id": 4078412913,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "OG",
+"dire_team": "LGD Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 58,
+"team": "dire",
+"order": 6,
+"player": "nailong"
+},
+{
+"hero_id": 67,
+"team": "radiant",
+"order": 7,
+"player": "minioncheer"
+},
+{
+"hero_id": 75,
+"team": "radiant",
+"order": 8,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 109,
+"team": "dire",
+"order": 9,
+"player": "睪九"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 14,
+"player": "jaa-a"
+},
+{
+"hero_id": 3,
+"team": "dire",
+"order": 15,
+"player": "xNova"
+},
+{
+"hero_id": 45,
+"team": "radiant",
+"order": 16,
+"player": "Ceb"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 17,
+"player": "fy"
+},
+{
+"hero_id": 9,
+"team": "dire",
+"order": 20,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 113,
+"team": "radiant",
+"order": 21,
+"player": "Topson"
+}
+],
+"answer": {
+"hero_id": 113,
+"team": "radiant"
+}
+},
+{
+"match_id": 4078363316,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "OG",
+"dire_team": "LGD Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 58,
+"team": "dire",
+"order": 6,
+"player": "nailong"
+},
+{
+"hero_id": 75,
+"team": "radiant",
+"order": 7,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 4,
+"team": "radiant",
+"order": 8,
+"player": "minioncheer"
+},
+{
+"hero_id": 7,
+"team": "dire",
+"order": 9,
+"player": "fy"
+},
+{
+"hero_id": 25,
+"team": "radiant",
+"order": 14,
+"player": "jaa-a"
+},
+{
+"hero_id": 5,
+"team": "dire",
+"order": 15,
+"player": "xNova"
+},
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 16,
+"player": "Ceb"
+},
+{
+"hero_id": 17,
+"team": "dire",
+"order": 17,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 56,
+"team": "dire",
+"order": 20,
+"player": "睪九"
+},
+{
+"hero_id": 74,
+"team": "radiant",
+"order": 21,
+"player": "Topson"
+}
+],
+"answer": {
+"hero_id": 74,
+"team": "radiant"
+}
+},
+{
+"match_id": 4078291886,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "LGD Gaming",
+"dire_team": "OG",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 91,
+"team": "dire",
+"order": 6,
+"player": "jaa-a"
+},
+{
+"hero_id": 63,
+"team": "radiant",
+"order": 7,
+"player": "nailong"
+},
+{
+"hero_id": 6,
+"team": "radiant",
+"order": 8,
+"player": "睪九"
+},
+{
+"hero_id": 72,
+"team": "dire",
+"order": 9,
+"player": "minioncheer"
+},
+{
+"hero_id": 112,
+"team": "radiant",
+"order": 14,
+"player": "fy"
+},
+{
+"hero_id": 58,
+"team": "dire",
+"order": 15,
+"player": "Ceb"
+},
+{
+"hero_id": 30,
+"team": "radiant",
+"order": 16,
+"player": "xNova"
+},
+{
+"hero_id": 45,
+"team": "dire",
+"order": 17,
+"player": "Topson"
+},
+{
+"hero_id": 42,
+"team": "dire",
+"order": 20,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 59,
+"team": "radiant",
+"order": 21,
+"player": "天地一刀斩"
+}
+],
+"answer": {
+"hero_id": 59,
+"team": "radiant"
+}
+},
+{
+"match_id": 4078180258,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "Team Secret",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 66,
+"team": "radiant",
+"order": 6,
+"player": "Puppey"
+},
+{
+"hero_id": 42,
+"team": "dire",
+"order": 7,
+"player": "mc"
+},
+{
+"hero_id": 119,
+"team": "dire",
+"order": 8,
+"player": "GH"
+},
+{
+"hero_id": 12,
+"team": "radiant",
+"order": 9,
+"player": "Ace ♠"
+},
+{
+"hero_id": 112,
+"team": "dire",
+"order": 14,
+"player": "kky"
+},
+{
+"hero_id": 25,
+"team": "radiant",
+"order": 15,
+"player": "jack"
+},
+{
+"hero_id": 61,
+"team": "dire",
+"order": 16,
+"player": "kimchi"
+},
+{
+"hero_id": 114,
+"team": "radiant",
+"order": 17,
+"player": "MidOne"
+},
+{
+"hero_id": 45,
+"team": "radiant",
+"order": 20,
+"player": "ʕง•ᴥ•ʔง ʕง•ᴥ•ʔง ʕง•ᴥ•ʔง"
+},
+{
+"hero_id": 74,
+"team": "dire",
+"order": 21,
+"player": "Miracle-"
+}
+],
+"answer": {
+"hero_id": 74,
+"team": "dire"
+}
+},
+{
+"match_id": 4078079157,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "Team Secret",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 66,
+"team": "radiant",
+"order": 6,
+"player": "Puppey"
+},
+{
+"hero_id": 61,
+"team": "dire",
+"order": 7,
+"player": "kimchi"
+},
+{
+"hero_id": 107,
+"team": "dire",
+"order": 8,
+"player": "GH"
+},
+{
+"hero_id": 36,
+"team": "radiant",
+"order": 9,
+"player": "ʕง•ᴥ•ʔง ʕง•ᴥ•ʔง ʕง•ᴥ•ʔง"
+},
+{
+"hero_id": 112,
+"team": "dire",
+"order": 14,
+"player": "kky"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 15,
+"player": "jack"
+},
+{
+"hero_id": 4,
+"team": "dire",
+"order": 16,
+"player": "Miracle-"
+},
+{
+"hero_id": 17,
+"team": "radiant",
+"order": 17,
+"player": "MidOne"
+},
+{
+"hero_id": 73,
+"team": "radiant",
+"order": 20,
+"player": "Ace ♠"
+},
+{
+"hero_id": 65,
+"team": "dire",
+"order": 21,
+"player": "mc"
+}
+],
+"answer": {
+"hero_id": 65,
+"team": "dire"
+}
+},
+{
+"match_id": 4076485641,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "Shopify Rebellion",
+"dire_team": "Virtus.pro",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 70,
+"team": "dire",
+"order": 6,
+"player": "RAMZES666"
+},
+{
+"hero_id": 20,
+"team": "radiant",
+"order": 7,
+"player": "Cr1t-"
+},
+{
+"hero_id": 9,
+"team": "radiant",
+"order": 8,
+"player": "天鸽"
+},
+{
+"hero_id": 3,
+"team": "dire",
+"order": 9,
+"player": "Solo"
+},
+{
+"hero_id": 31,
+"team": "radiant",
+"order": 14,
+"player": "Fly"
+},
+{
+"hero_id": 19,
+"team": "dire",
+"order": 15,
+"player": "izdu"
+},
+{
+"hero_id": 40,
+"team": "radiant",
+"order": 16,
+"player": "s4"
+},
+{
+"hero_id": 45,
+"team": "dire",
+"order": 17,
+"player": "No[o]ne-"
+},
+{
+"hero_id": 112,
+"team": "dire",
+"order": 20,
+"player": "COCKwerk"
+},
+{
+"hero_id": 73,
+"team": "radiant",
+"order": 21,
+"player": "SumaiL-"
+}
+],
+"answer": {
+"hero_id": 73,
+"team": "radiant"
+}
+},
+{
+"match_id": 4076431752,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "Virtus.pro",
+"dire_team": "Shopify Rebellion",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 66,
+"team": "dire",
+"order": 6,
+"player": "Cr1t-"
+},
+{
+"hero_id": 36,
+"team": "radiant",
+"order": 7,
+"player": "RAMZES666"
+},
+{
+"hero_id": 5,
+"team": "radiant",
+"order": 8,
+"player": "Solo"
+},
+{
+"hero_id": 6,
+"team": "dire",
+"order": 9,
+"player": "天鸽"
+},
+{
+"hero_id": 9,
+"team": "radiant",
+"order": 14,
+"player": "izdu"
+},
+{
+"hero_id": 75,
+"team": "dire",
+"order": 15,
+"player": "Fly"
+},
+{
+"hero_id": 103,
+"team": "radiant",
+"order": 16,
+"player": "COCKwerk"
+},
+{
+"hero_id": 17,
+"team": "dire",
+"order": 17,
+"player": "SumaiL-"
+},
+{
+"hero_id": 45,
+"team": "dire",
+"order": 20,
+"player": "s4"
+},
+{
+"hero_id": 19,
+"team": "radiant",
+"order": 21,
+"player": "No[o]ne-"
+}
+],
+"answer": {
+"hero_id": 19,
+"team": "radiant"
+}
+},
+{
+"match_id": 4076314248,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "Team Secret",
+"dire_team": "VGJ Storm",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 20,
+"team": "radiant",
+"order": 6,
+"player": "ʕง•ᴥ•ʔง ʕง•ᴥ•ʔง ʕง•ᴥ•ʔง"
+},
+{
+"hero_id": 9,
+"team": "dire",
+"order": 7,
+"player": "12"
+},
+{
+"hero_id": 119,
+"team": "dire",
+"order": 8,
+"player": "X"
+},
+{
+"hero_id": 75,
+"team": "radiant",
+"order": 9,
+"player": "Puppey"
+},
+{
+"hero_id": 84,
+"team": "dire",
+"order": 14,
+"player": "LoA"
+},
+{
+"hero_id": 103,
+"team": "radiant",
+"order": 15,
+"player": "jack"
+},
+{
+"hero_id": 19,
+"team": "dire",
+"order": 16,
+"player": "Sneyking"
+},
+{
+"hero_id": 56,
+"team": "radiant",
+"order": 17,
+"player": "MidOne"
+},
+{
+"hero_id": 109,
+"team": "radiant",
+"order": 20,
+"player": "Ace ♠"
+},
+{
+"hero_id": 94,
+"team": "dire",
+"order": 21,
+"player": "Resolut1on"
+}
+],
+"answer": {
+"hero_id": 94,
+"team": "dire"
+}
+},
+{
+"match_id": 4076257095,
+"year": 2018,
+"league": "The International 2018",
+"radiant_team": "Team Secret",
+"dire_team": "VGJ Storm",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 42,
+"team": "dire",
+"order": 6,
+"player": "Sneyking"
+},
+{
+"hero_id": 56,
+"team": "radiant",
+"order": 7,
+"player": "MidOne"
+},
+{
+"hero_id": 75,
+"team": "radiant",
+"order": 8,
+"player": "Puppey"
+},
+{
+"hero_id": 9,
+"team": "dire",
+"order": 9,
+"player": "Resolut1on"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 14,
+"player": "jack"
+},
+{
+"hero_id": 85,
+"team": "dire",
+"order": 15,
+"player": "LoA"
+},
+{
+"hero_id": 36,
+"team": "radiant",
+"order": 16,
+"player": "ʕง•ᴥ•ʔง ʕง•ᴥ•ʔง ʕง•ᴥ•ʔง"
+},
+{
+"hero_id": 90,
+"team": "dire",
+"order": 17,
+"player": "X"
+},
+{
+"hero_id": 46,
+"team": "dire",
+"order": 20,
+"player": "12"
+},
+{
+"hero_id": 82,
+"team": "radiant",
+"order": 21,
+"player": "Ace ♠"
+}
+],
+"answer": {
+"hero_id": 82,
+"team": "radiant"
+}
+},
+{
+"match_id": 4986461644,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "OG",
+"dire_team": "Team Liquid",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 91,
+"team": "radiant",
+"order": 6,
+"player": "minioncheer"
+},
+{
+"hero_id": 66,
+"team": "dire",
+"order": 7,
+"player": "kky"
+},
+{
+"hero_id": 57,
+"team": "dire",
+"order": 8,
+"player": "mc"
+},
+{
+"hero_id": 19,
+"team": "radiant",
+"order": 9,
+"player": "jaa-a"
+},
+{
+"hero_id": 99,
+"team": "dire",
+"order": 14,
+"player": "Miracle-"
+},
+{
+"hero_id": 102,
+"team": "radiant",
+"order": 15,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 107,
+"team": "dire",
+"order": 16,
+"player": "GH"
+},
+{
+"hero_id": 98,
+"team": "radiant",
+"order": 17,
+"player": "Ceb"
+},
+{
+"hero_id": 72,
+"team": "radiant",
+"order": 20,
+"player": "Topson"
+},
+{
+"hero_id": 21,
+"team": "dire",
+"order": 21,
+"player": "w33"
+}
+],
+"answer": {
+"hero_id": 21,
+"team": "dire"
+}
+},
+{
+"match_id": 4986362254,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "Team Liquid",
+"dire_team": "OG",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 6,
+"player": "GH"
+},
+{
+"hero_id": 58,
+"team": "dire",
+"order": 7,
+"player": "Ceb"
+},
+{
+"hero_id": 19,
+"team": "dire",
+"order": 8,
+"player": "jaa-a"
+},
+{
+"hero_id": 29,
+"team": "radiant",
+"order": 9,
+"player": "mc"
+},
+{
+"hero_id": 121,
+"team": "dire",
+"order": 14,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 84,
+"team": "radiant",
+"order": 15,
+"player": "kky"
+},
+{
+"hero_id": 41,
+"team": "dire",
+"order": 16,
+"player": "minioncheer"
+},
+{
+"hero_id": 46,
+"team": "radiant",
+"order": 17,
+"player": "w33"
+},
+{
+"hero_id": 8,
+"team": "radiant",
+"order": 20,
+"player": "Miracle-"
+},
+{
+"hero_id": 45,
+"team": "dire",
+"order": 21,
+"player": "Topson"
+}
+],
+"answer": {
+"hero_id": 45,
+"team": "dire"
+}
+},
+{
+"match_id": 4986260666,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "Team Liquid",
+"dire_team": "OG",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 29,
+"team": "radiant",
+"order": 6,
+"player": "mc"
+},
+{
+"hero_id": 121,
+"team": "dire",
+"order": 7,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 19,
+"team": "dire",
+"order": 8,
+"player": "jaa-a"
+},
+{
+"hero_id": 46,
+"team": "radiant",
+"order": 9,
+"player": "w33"
+},
+{
+"hero_id": 106,
+"team": "dire",
+"order": 14,
+"player": "minioncheer"
+},
+{
+"hero_id": 27,
+"team": "radiant",
+"order": 15,
+"player": "kky"
+},
+{
+"hero_id": 57,
+"team": "dire",
+"order": 16,
+"player": "Ceb"
+},
+{
+"hero_id": 54,
+"team": "radiant",
+"order": 17,
+"player": "Miracle-"
+},
+{
+"hero_id": 33,
+"team": "radiant",
+"order": 20,
+"player": "GH"
+},
+{
+"hero_id": 114,
+"team": "dire",
+"order": 21,
+"player": "Topson"
+}
+],
+"answer": {
+"hero_id": 114,
+"team": "dire"
+}
+},
+{
+"match_id": 4986133311,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "Team Liquid",
+"dire_team": "OG",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 58,
+"team": "dire",
+"order": 6,
+"player": "Ceb"
+},
+{
+"hero_id": 29,
+"team": "radiant",
+"order": 7,
+"player": "mc"
+},
+{
+"hero_id": 66,
+"team": "radiant",
+"order": 8,
+"player": "kky"
+},
+{
+"hero_id": 103,
+"team": "dire",
+"order": 9,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 14,
+"player": "GH"
+},
+{
+"hero_id": 19,
+"team": "dire",
+"order": 15,
+"player": "Topson"
+},
+{
+"hero_id": 46,
+"team": "radiant",
+"order": 16,
+"player": "Miracle-"
+},
+{
+"hero_id": 67,
+"team": "dire",
+"order": 17,
+"player": "minioncheer"
+},
+{
+"hero_id": 45,
+"team": "dire",
+"order": 20,
+"player": "jaa-a"
+},
+{
+"hero_id": 82,
+"team": "radiant",
+"order": 21,
+"player": "w33"
+}
+],
+"answer": {
+"hero_id": 82,
+"team": "radiant"
+}
+},
+{
+"match_id": 4985891168,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "LGD Gaming",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 29,
+"team": "dire",
+"order": 6,
+"player": "mc"
+},
+{
+"hero_id": 103,
+"team": "radiant",
+"order": 7,
+"player": "xNova"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 8,
+"player": "fy"
+},
+{
+"hero_id": 46,
+"team": "dire",
+"order": 9,
+"player": "w33"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 14,
+"player": "睪九"
+},
+{
+"hero_id": 27,
+"team": "dire",
+"order": 15,
+"player": "kky"
+},
+{
+"hero_id": 11,
+"team": "radiant",
+"order": 16,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 112,
+"team": "dire",
+"order": 17,
+"player": "GH"
+},
+{
+"hero_id": 42,
+"team": "dire",
+"order": 20,
+"player": "Miracle-"
+},
+{
+"hero_id": 55,
+"team": "radiant",
+"order": 21,
+"player": "nailong"
+}
+],
+"answer": {
+"hero_id": 55,
+"team": "radiant"
+}
+},
+{
+"match_id": 4985787596,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "Team Liquid",
+"dire_team": "LGD Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 103,
+"team": "radiant",
+"order": 6,
+"player": "kky"
+},
+{
+"hero_id": 96,
+"team": "dire",
+"order": 7,
+"player": "nailong"
+},
+{
+"hero_id": 26,
+"team": "dire",
+"order": 8,
+"player": "fy"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 9,
+"player": "GH"
+},
+{
+"hero_id": 64,
+"team": "dire",
+"order": 14,
+"player": "xNova"
+},
+{
+"hero_id": 18,
+"team": "radiant",
+"order": 15,
+"player": "Miracle-"
+},
+{
+"hero_id": 54,
+"team": "dire",
+"order": 16,
+"player": "睪九"
+},
+{
+"hero_id": 55,
+"team": "radiant",
+"order": 17,
+"player": "mc"
+},
+{
+"hero_id": 46,
+"team": "radiant",
+"order": 20,
+"player": "w33"
+},
+{
+"hero_id": 59,
+"team": "dire",
+"order": 21,
+"player": "天地一刀斩"
+}
+],
+"answer": {
+"hero_id": 59,
+"team": "dire"
+}
+},
+{
+"match_id": 4985705053,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "Team Liquid",
+"dire_team": "LGD Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 19,
+"team": "radiant",
+"order": 6,
+"player": "mc"
+},
+{
+"hero_id": 103,
+"team": "dire",
+"order": 7,
+"player": "xNova"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 8,
+"player": "fy"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 9,
+"player": "Miracle-"
+},
+{
+"hero_id": 96,
+"team": "dire",
+"order": 14,
+"player": "nailong"
+},
+{
+"hero_id": 9,
+"team": "radiant",
+"order": 15,
+"player": "GH"
+},
+{
+"hero_id": 72,
+"team": "dire",
+"order": 16,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 34,
+"team": "radiant",
+"order": 17,
+"player": "w33"
+},
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 20,
+"player": "kky"
+},
+{
+"hero_id": 67,
+"team": "dire",
+"order": 21,
+"player": "睪九"
+}
+],
+"answer": {
+"hero_id": 67,
+"team": "dire"
+}
+},
+{
+"match_id": 4984038549,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "Team Secret",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 73,
+"team": "dire",
+"order": 6,
+"player": "w33"
+},
+{
+"hero_id": 103,
+"team": "radiant",
+"order": 7,
+"player": "Puppey"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 8,
+"player": "jack"
+},
+{
+"hero_id": 55,
+"team": "dire",
+"order": 9,
+"player": "mc"
+},
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 14,
+"player": "Chao P"
+},
+{
+"hero_id": 27,
+"team": "dire",
+"order": 15,
+"player": "kky"
+},
+{
+"hero_id": 42,
+"team": "radiant",
+"order": 16,
+"player": "SPOCIUCH"
+},
+{
+"hero_id": 23,
+"team": "dire",
+"order": 17,
+"player": "Miracle-"
+},
+{
+"hero_id": 112,
+"team": "dire",
+"order": 20,
+"player": "GH"
+},
+{
+"hero_id": 99,
+"team": "radiant",
+"order": 21,
+"player": "MidOne"
+}
+],
+"answer": {
+"hero_id": 99,
+"team": "radiant"
+}
+},
+{
+"match_id": 4983935086,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "Team Liquid",
+"dire_team": "Team Secret",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 91,
+"team": "dire",
+"order": 6,
+"player": "SPOCIUCH"
+},
+{
+"hero_id": 66,
+"team": "radiant",
+"order": 7,
+"player": "kky"
+},
+{
+"hero_id": 29,
+"team": "radiant",
+"order": 8,
+"player": "mc"
+},
+{
+"hero_id": 57,
+"team": "dire",
+"order": 9,
+"player": "Chao P"
+},
+{
+"hero_id": 107,
+"team": "radiant",
+"order": 14,
+"player": "GH"
+},
+{
+"hero_id": 30,
+"team": "dire",
+"order": 15,
+"player": "Puppey"
+},
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 16,
+"player": "Miracle-"
+},
+{
+"hero_id": 76,
+"team": "dire",
+"order": 17,
+"player": "MidOne"
+},
+{
+"hero_id": 7,
+"team": "dire",
+"order": 20,
+"player": "jack"
+},
+{
+"hero_id": 82,
+"team": "radiant",
+"order": 21,
+"player": "w33"
+}
+],
+"answer": {
+"hero_id": 82,
+"team": "radiant"
+}
+},
+{
+"match_id": 4983800597,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "OG",
+"dire_team": "LGD Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 66,
+"team": "radiant",
+"order": 6,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 103,
+"team": "dire",
+"order": 7,
+"player": "xNova"
+},
+{
+"hero_id": 19,
+"team": "dire",
+"order": 8,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 73,
+"team": "radiant",
+"order": 9,
+"player": "minioncheer"
+},
+{
+"hero_id": 79,
+"team": "dire",
+"order": 14,
+"player": "fy"
+},
+{
+"hero_id": 29,
+"team": "radiant",
+"order": 15,
+"player": "Topson"
+},
+{
+"hero_id": 16,
+"team": "dire",
+"order": 16,
+"player": "nailong"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 17,
+"player": "jaa-a"
+},
+{
+"hero_id": 104,
+"team": "radiant",
+"order": 20,
+"player": "Ceb"
+},
+{
+"hero_id": 93,
+"team": "dire",
+"order": 21,
+"player": "睪九"
+}
+],
+"answer": {
+"hero_id": 93,
+"team": "dire"
+}
+},
+{
+"match_id": 4983729131,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "LGD Gaming",
+"dire_team": "OG",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 6,
+"player": "xNova"
+},
+{
+"hero_id": 66,
+"team": "dire",
+"order": 7,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 19,
+"team": "dire",
+"order": 8,
+"player": "Topson"
+},
+{
+"hero_id": 16,
+"team": "radiant",
+"order": 9,
+"player": "nailong"
+},
+{
+"hero_id": 73,
+"team": "dire",
+"order": 14,
+"player": "minioncheer"
+},
+{
+"hero_id": 64,
+"team": "radiant",
+"order": 15,
+"player": "fy"
+},
+{
+"hero_id": 55,
+"team": "dire",
+"order": 16,
+"player": "Ceb"
+},
+{
+"hero_id": 18,
+"team": "radiant",
+"order": 17,
+"player": "睪九"
+},
+{
+"hero_id": 49,
+"team": "radiant",
+"order": 20,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 71,
+"team": "dire",
+"order": 21,
+"player": "jaa-a"
+}
+],
+"answer": {
+"hero_id": 71,
+"team": "dire"
+}
+},
+{
+"match_id": 4983628610,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "OG",
+"dire_team": "LGD Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 103,
+"team": "radiant",
+"order": 6,
+"player": "OiOi.oldandrusty"
+},
+{
+"hero_id": 29,
+"team": "dire",
+"order": 7,
+"player": "nailong"
+},
+{
+"hero_id": 26,
+"team": "dire",
+"order": 8,
+"player": "fy"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 9,
+"player": "minioncheer"
+},
+{
+"hero_id": 111,
+"team": "dire",
+"order": 14,
+"player": "xNova"
+},
+{
+"hero_id": 120,
+"team": "radiant",
+"order": 15,
+"player": "jaa-a"
+},
+{
+"hero_id": 72,
+"team": "dire",
+"order": 16,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 53,
+"team": "radiant",
+"order": 17,
+"player": "Ceb"
+},
+{
+"hero_id": 22,
+"team": "radiant",
+"order": 20,
+"player": "Topson"
+},
+{
+"hero_id": 106,
+"team": "dire",
+"order": 21,
+"player": "睪九"
+}
+],
+"answer": {
+"hero_id": 106,
+"team": "dire"
+}
+},
+{
+"match_id": 4983550247,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "Team Secret",
+"dire_team": "Vici Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 84,
+"team": "dire",
+"order": 6,
+"player": "Dy"
+},
+{
+"hero_id": 19,
+"team": "radiant",
+"order": 7,
+"player": "MidOne"
+},
+{
+"hero_id": 57,
+"team": "radiant",
+"order": 8,
+"player": "Chao P"
+},
+{
+"hero_id": 73,
+"team": "dire",
+"order": 9,
+"player": "无限"
+},
+{
+"hero_id": 21,
+"team": "radiant",
+"order": 14,
+"player": "jack"
+},
+{
+"hero_id": 121,
+"team": "dire",
+"order": 15,
+"player": "田园脆鸡堡"
+},
+{
+"hero_id": 5,
+"team": "radiant",
+"order": 16,
+"player": "Puppey"
+},
+{
+"hero_id": 96,
+"team": "dire",
+"order": 17,
+"player": "Yang"
+},
+{
+"hero_id": 15,
+"team": "dire",
+"order": 20,
+"player": "Ori"
+},
+{
+"hero_id": 99,
+"team": "radiant",
+"order": 21,
+"player": "SPOCIUCH"
+}
+],
+"answer": {
+"hero_id": 99,
+"team": "radiant"
+}
+},
+{
+"match_id": 4983489657,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "Vici Gaming",
+"dire_team": "Team Secret",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 103,
+"team": "dire",
+"order": 6,
+"player": "Puppey"
+},
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 7,
+"player": "无限"
+},
+{
+"hero_id": 29,
+"team": "radiant",
+"order": 8,
+"player": "Yang"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 9,
+"player": "jack"
+},
+{
+"hero_id": 26,
+"team": "radiant",
+"order": 14,
+"player": "Dy"
+},
+{
+"hero_id": 96,
+"team": "dire",
+"order": 15,
+"player": "Chao P"
+},
+{
+"hero_id": 107,
+"team": "radiant",
+"order": 16,
+"player": "田园脆鸡堡"
+},
+{
+"hero_id": 72,
+"team": "dire",
+"order": 17,
+"player": "MidOne"
+},
+{
+"hero_id": 91,
+"team": "dire",
+"order": 20,
+"player": "SPOCIUCH"
+},
+{
+"hero_id": 94,
+"team": "radiant",
+"order": 21,
+"player": "Ori"
+}
+],
+"answer": {
+"hero_id": 94,
+"team": "radiant"
+}
+},
+{
+"match_id": 4982200558,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "Team Liquid",
+"dire_team": "Shopify Rebellion",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 103,
+"team": "radiant",
+"order": 6,
+"player": "kky"
+},
+{
+"hero_id": 19,
+"team": "dire",
+"order": 7,
+"player": "SumaiL-"
+},
+{
+"hero_id": 79,
+"team": "dire",
+"order": 8,
+"player": "Fly"
+},
+{
+"hero_id": 73,
+"team": "radiant",
+"order": 9,
+"player": "w33"
+},
+{
+"hero_id": 98,
+"team": "dire",
+"order": 14,
+"player": "s4"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 15,
+"player": "GH"
+},
+{
+"hero_id": 107,
+"team": "dire",
+"order": 16,
+"player": "Cr1t-"
+},
+{
+"hero_id": 106,
+"team": "radiant",
+"order": 17,
+"player": "Miracle-"
+},
+{
+"hero_id": 55,
+"team": "radiant",
+"order": 20,
+"player": "mc"
+},
+{
+"hero_id": 54,
+"team": "dire",
+"order": 21,
+"player": "天鸽"
+}
+],
+"answer": {
+"hero_id": 54,
+"team": "dire"
+}
+},
+{
+"match_id": 4982103916,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "Team Liquid",
+"dire_team": "Shopify Rebellion",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 79,
+"team": "dire",
+"order": 6,
+"player": "Fly"
+},
+{
+"hero_id": 9,
+"team": "radiant",
+"order": 7,
+"player": "GH"
+},
+{
+"hero_id": 84,
+"team": "radiant",
+"order": 8,
+"player": "kky"
+},
+{
+"hero_id": 23,
+"team": "dire",
+"order": 9,
+"player": "SumaiL-"
+},
+{
+"hero_id": 29,
+"team": "radiant",
+"order": 14,
+"player": "mc"
+},
+{
+"hero_id": 25,
+"team": "dire",
+"order": 15,
+"player": "Cr1t-"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 16,
+"player": "Miracle-"
+},
+{
+"hero_id": 54,
+"team": "dire",
+"order": 17,
+"player": "天鸽"
+},
+{
+"hero_id": 96,
+"team": "dire",
+"order": 20,
+"player": "s4"
+},
+{
+"hero_id": 34,
+"team": "radiant",
+"order": 21,
+"player": "w33"
+}
+],
+"answer": {
+"hero_id": 34,
+"team": "radiant"
+}
+},
+{
+"match_id": 4982005618,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "Team Secret",
+"dire_team": "NoPing Esports",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 19,
+"team": "radiant",
+"order": 6,
+"player": "MidOne"
+},
+{
+"hero_id": 79,
+"team": "dire",
+"order": 7,
+"player": "Scofield"
+},
+{
+"hero_id": 29,
+"team": "dire",
+"order": 8,
+"player": "stingeR"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 9,
+"player": "SPOCIUCH"
+},
+{
+"hero_id": 69,
+"team": "dire",
+"order": 14,
+"player": "Wisper"
+},
+{
+"hero_id": 30,
+"team": "radiant",
+"order": 15,
+"player": "Puppey"
+},
+{
+"hero_id": 54,
+"team": "dire",
+"order": 16,
+"player": "k1"
+},
+{
+"hero_id": 33,
+"team": "radiant",
+"order": 17,
+"player": "jack"
+},
+{
+"hero_id": 102,
+"team": "radiant",
+"order": 20,
+"player": "Chao P"
+},
+{
+"hero_id": 17,
+"team": "dire",
+"order": 21,
+"player": "0000"
+}
+],
+"answer": {
+"hero_id": 17,
+"team": "dire"
+}
+},
+{
+"match_id": 4981912277,
+"year": 2019,
+"league": "The International 2019",
+"radiant_team": "NoPing Esports",
+"dire_team": "Team Secret",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 6,
+"player": "Wisper"
+},
+{
+"hero_id": 19,
+"team": "dire",
+"order": 7,
+"player": "Chao P"
+},
+{
+"hero_id": 41,
+"team": "dire",
+"order": 8,
+"player": "SPOCIUCH"
+},
+{
+"hero_id": 27,
+"team": "radiant",
+"order": 9,
+"player": "Scofield"
+},
+{
+"hero_id": 79,
+"team": "dire",
+"order": 14,
+"player": "Puppey"
+},
+{
+"hero_id": 75,
+"team": "radiant",
+"order": 15,
+"player": "stingeR"
+},
+{
+"hero_id": 9,
+"team": "dire",
+"order": 16,
+"player": "jack"
+},
+{
+"hero_id": 12,
+"team": "radiant",
+"order": 17,
+"player": "k1"
+},
+{
+"hero_id": 32,
+"team": "radiant",
+"order": 20,
+"player": "0000"
+},
+{
+"hero_id": 7,
+"team": "dire",
+"order": 21,
+"player": "MidOne"
+}
+],
+"answer": {
+"hero_id": 7,
+"team": "dire"
+}
+},
+{
+"match_id": 6227492909,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "Team Spirit",
+"dire_team": "LGD Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 19,
+"team": "dire",
+"order": 4,
+"player": "Ame"
+},
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 5,
+"player": "Collapse"
+},
+{
+"hero_id": 3,
+"team": "radiant",
+"order": 6,
+"player": "Mira"
+},
+{
+"hero_id": 77,
+"team": "dire",
+"order": 7,
+"player": "Bach"
+},
+{
+"hero_id": 112,
+"team": "radiant",
+"order": 14,
+"player": "Miposhka"
+},
+{
+"hero_id": 23,
+"team": "dire",
+"order": 15,
+"player": "NothingToSay"
+},
+{
+"hero_id": 101,
+"team": "dire",
+"order": 16,
+"player": "XinQ"
+},
+{
+"hero_id": 106,
+"team": "radiant",
+"order": 17,
+"player": "TORONTOTOKYO"
+},
+{
+"hero_id": 58,
+"team": "dire",
+"order": 22,
+"player": "y`"
+},
+{
+"hero_id": 109,
+"team": "radiant",
+"order": 23,
+"player": "Yatoro"
+}
+],
+"answer": {
+"hero_id": 109,
+"team": "radiant"
+}
+},
+{
+"match_id": 6227419633,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "LGD Gaming",
+"dire_team": "Team Spirit",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 4,
+"player": "Bach"
+},
+{
+"hero_id": 112,
+"team": "dire",
+"order": 5,
+"player": "Miposhka"
+},
+{
+"hero_id": 26,
+"team": "dire",
+"order": 6,
+"player": "Mira"
+},
+{
+"hero_id": 3,
+"team": "radiant",
+"order": 7,
+"player": "y`"
+},
+{
+"hero_id": 67,
+"team": "dire",
+"order": 14,
+"player": "Yatoro"
+},
+{
+"hero_id": 48,
+"team": "radiant",
+"order": 15,
+"player": "Ame"
+},
+{
+"hero_id": 85,
+"team": "radiant",
+"order": 16,
+"player": "XinQ"
+},
+{
+"hero_id": 2,
+"team": "dire",
+"order": 17,
+"player": "Collapse"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 22,
+"player": "NothingToSay"
+},
+{
+"hero_id": 46,
+"team": "dire",
+"order": 23,
+"player": "TORONTOTOKYO"
+}
+],
+"answer": {
+"hero_id": 46,
+"team": "dire"
+}
+},
+{
+"match_id": 6227305557,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "Team Spirit",
+"dire_team": "LGD Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 4,
+"player": "Collapse"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 5,
+"player": "XinQ"
+},
+{
+"hero_id": 85,
+"team": "dire",
+"order": 6,
+"player": "y`"
+},
+{
+"hero_id": 119,
+"team": "radiant",
+"order": 7,
+"player": "Mira"
+},
+{
+"hero_id": 67,
+"team": "dire",
+"order": 14,
+"player": "Ame"
+},
+{
+"hero_id": 44,
+"team": "radiant",
+"order": 15,
+"player": "Yatoro"
+},
+{
+"hero_id": 87,
+"team": "radiant",
+"order": 16,
+"player": "Miposhka"
+},
+{
+"hero_id": 4,
+"team": "dire",
+"order": 17,
+"player": "Bach"
+},
+{
+"hero_id": 74,
+"team": "radiant",
+"order": 22,
+"player": "TORONTOTOKYO"
+},
+{
+"hero_id": 34,
+"team": "dire",
+"order": 23,
+"player": "NothingToSay"
+}
+],
+"answer": {
+"hero_id": 34,
+"team": "dire"
+}
+},
+{
+"match_id": 6227203516,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "LGD Gaming",
+"dire_team": "Team Spirit",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 91,
+"team": "radiant",
+"order": 4,
+"player": "y`"
+},
+{
+"hero_id": 3,
+"team": "dire",
+"order": 5,
+"player": "Miposhka"
+},
+{
+"hero_id": 97,
+"team": "dire",
+"order": 6,
+"player": "Collapse"
+},
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 7,
+"player": "NothingToSay"
+},
+{
+"hero_id": 119,
+"team": "dire",
+"order": 14,
+"player": "Mira"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 15,
+"player": "XinQ"
+},
+{
+"hero_id": 10,
+"team": "radiant",
+"order": 16,
+"player": "Ame"
+},
+{
+"hero_id": 48,
+"team": "dire",
+"order": 17,
+"player": "Yatoro"
+},
+{
+"hero_id": 53,
+"team": "radiant",
+"order": 22,
+"player": "Bach"
+},
+{
+"hero_id": 13,
+"team": "dire",
+"order": 23,
+"player": "TORONTOTOKYO"
+}
+],
+"answer": {
+"hero_id": 13,
+"team": "dire"
+}
+},
+{
+"match_id": 6227105229,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "Team Spirit",
+"dire_team": "LGD Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 91,
+"team": "dire",
+"order": 4,
+"player": "XinQ"
+},
+{
+"hero_id": 103,
+"team": "radiant",
+"order": 5,
+"player": "Miposhka"
+},
+{
+"hero_id": 29,
+"team": "radiant",
+"order": 6,
+"player": "Collapse"
+},
+{
+"hero_id": 70,
+"team": "dire",
+"order": 7,
+"player": "Ame"
+},
+{
+"hero_id": 26,
+"team": "radiant",
+"order": 14,
+"player": "Mira"
+},
+{
+"hero_id": 87,
+"team": "dire",
+"order": 15,
+"player": "y`"
+},
+{
+"hero_id": 77,
+"team": "dire",
+"order": 16,
+"player": "Bach"
+},
+{
+"hero_id": 89,
+"team": "radiant",
+"order": 17,
+"player": "Yatoro"
+},
+{
+"hero_id": 120,
+"team": "dire",
+"order": 22,
+"player": "NothingToSay"
+},
+{
+"hero_id": 126,
+"team": "radiant",
+"order": 23,
+"player": "TORONTOTOKYO"
+}
+],
+"answer": {
+"hero_id": 126,
+"team": "radiant"
+}
+},
+{
+"match_id": 6226873670,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "Team Spirit",
+"dire_team": "Team Secret",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 19,
+"team": "dire",
+"order": 4,
+"player": "kimchi"
+},
+{
+"hero_id": 112,
+"team": "radiant",
+"order": 5,
+"player": "Miposhka"
+},
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 6,
+"player": "Collapse"
+},
+{
+"hero_id": 103,
+"team": "dire",
+"order": 7,
+"player": "jack"
+},
+{
+"hero_id": 119,
+"team": "radiant",
+"order": 14,
+"player": "Mira"
+},
+{
+"hero_id": 77,
+"team": "dire",
+"order": 15,
+"player": "Chao P"
+},
+{
+"hero_id": 79,
+"team": "dire",
+"order": 16,
+"player": "Puppey"
+},
+{
+"hero_id": 18,
+"team": "radiant",
+"order": 17,
+"player": "Yatoro"
+},
+{
+"hero_id": 25,
+"team": "dire",
+"order": 22,
+"player": "SPOCIUCH"
+},
+{
+"hero_id": 17,
+"team": "radiant",
+"order": 23,
+"player": "TORONTOTOKYO"
+}
+],
+"answer": {
+"hero_id": 17,
+"team": "radiant"
+}
+},
+{
+"match_id": 6226789510,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "Team Spirit",
+"dire_team": "Team Secret",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 97,
+"team": "dire",
+"order": 4,
+"player": "Chao P"
+},
+{
+"hero_id": 26,
+"team": "radiant",
+"order": 5,
+"player": "Miposhka"
+},
+{
+"hero_id": 29,
+"team": "radiant",
+"order": 6,
+"player": "Collapse"
+},
+{
+"hero_id": 58,
+"team": "dire",
+"order": 7,
+"player": "Puppey"
+},
+{
+"hero_id": 119,
+"team": "radiant",
+"order": 14,
+"player": "Mira"
+},
+{
+"hero_id": 8,
+"team": "dire",
+"order": 15,
+"player": "kimchi"
+},
+{
+"hero_id": 121,
+"team": "dire",
+"order": 16,
+"player": "jack"
+},
+{
+"hero_id": 10,
+"team": "radiant",
+"order": 17,
+"player": "Yatoro"
+},
+{
+"hero_id": 126,
+"team": "dire",
+"order": 22,
+"player": "SPOCIUCH"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 23,
+"player": "TORONTOTOKYO"
+}
+],
+"answer": {
+"hero_id": 23,
+"team": "radiant"
+}
+},
+{
+"match_id": 6226709723,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "Team Secret",
+"dire_team": "Team Spirit",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 4,
+"player": "Chao P"
+},
+{
+"hero_id": 91,
+"team": "dire",
+"order": 5,
+"player": "Mira"
+},
+{
+"hero_id": 129,
+"team": "dire",
+"order": 6,
+"player": "Collapse"
+},
+{
+"hero_id": 103,
+"team": "radiant",
+"order": 7,
+"player": "Puppey"
+},
+{
+"hero_id": 64,
+"team": "dire",
+"order": 14,
+"player": "Miposhka"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 15,
+"player": "jack"
+},
+{
+"hero_id": 109,
+"team": "radiant",
+"order": 16,
+"player": "kimchi"
+},
+{
+"hero_id": 17,
+"team": "dire",
+"order": 17,
+"player": "TORONTOTOKYO"
+},
+{
+"hero_id": 126,
+"team": "radiant",
+"order": 22,
+"player": "SPOCIUCH"
+},
+{
+"hero_id": 67,
+"team": "dire",
+"order": 23,
+"player": "Yatoro"
+}
+],
+"answer": {
+"hero_id": 67,
+"team": "dire"
+}
+},
+{
+"match_id": 6225461282,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "Team Spirit",
+"dire_team": "Invictus Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 26,
+"team": "dire",
+"order": 4,
+"player": "Oli~"
+},
+{
+"hero_id": 128,
+"team": "radiant",
+"order": 5,
+"player": "Mira"
+},
+{
+"hero_id": 69,
+"team": "radiant",
+"order": 6,
+"player": "Collapse"
+},
+{
+"hero_id": 25,
+"team": "dire",
+"order": 7,
+"player": "Emo"
+},
+{
+"hero_id": 87,
+"team": "radiant",
+"order": 14,
+"player": "Miposhka"
+},
+{
+"hero_id": 7,
+"team": "dire",
+"order": 15,
+"player": "JT-"
+},
+{
+"hero_id": 63,
+"team": "dire",
+"order": 16,
+"player": "kaka"
+},
+{
+"hero_id": 49,
+"team": "radiant",
+"order": 17,
+"player": "TORONTOTOKYO"
+},
+{
+"hero_id": 41,
+"team": "dire",
+"order": 22,
+"player": "flyfly"
+},
+{
+"hero_id": 6,
+"team": "radiant",
+"order": 23,
+"player": "Yatoro"
+}
+],
+"answer": {
+"hero_id": 6,
+"team": "radiant"
+}
+},
+{
+"match_id": 6225350158,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "Invictus Gaming",
+"dire_team": "Team Spirit",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 26,
+"team": "radiant",
+"order": 4,
+"player": "kaka"
+},
+{
+"hero_id": 3,
+"team": "dire",
+"order": 5,
+"player": "Miposhka"
+},
+{
+"hero_id": 129,
+"team": "dire",
+"order": 6,
+"player": "Collapse"
+},
+{
+"hero_id": 29,
+"team": "radiant",
+"order": 7,
+"player": "JT-"
+},
+{
+"hero_id": 91,
+"team": "dire",
+"order": 14,
+"player": "Mira"
+},
+{
+"hero_id": 70,
+"team": "radiant",
+"order": 15,
+"player": "flyfly"
+},
+{
+"hero_id": 102,
+"team": "radiant",
+"order": 16,
+"player": "Oli~"
+},
+{
+"hero_id": 44,
+"team": "dire",
+"order": 17,
+"player": "Yatoro"
+},
+{
+"hero_id": 126,
+"team": "radiant",
+"order": 22,
+"player": "Emo"
+},
+{
+"hero_id": 21,
+"team": "dire",
+"order": 23,
+"player": "TORONTOTOKYO"
+}
+],
+"answer": {
+"hero_id": 21,
+"team": "dire"
+}
+},
+{
+"match_id": 6225233668,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "Team Secret",
+"dire_team": "LGD Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 114,
+"team": "dire",
+"order": 4,
+"player": "Ame"
+},
+{
+"hero_id": 91,
+"team": "radiant",
+"order": 5,
+"player": "Puppey"
+},
+{
+"hero_id": 72,
+"team": "radiant",
+"order": 6,
+"player": "SPOCIUCH"
+},
+{
+"hero_id": 103,
+"team": "dire",
+"order": 7,
+"player": "XinQ"
+},
+{
+"hero_id": 21,
+"team": "radiant",
+"order": 14,
+"player": "jack"
+},
+{
+"hero_id": 104,
+"team": "dire",
+"order": 15,
+"player": "Bach"
+},
+{
+"hero_id": 3,
+"team": "dire",
+"order": 16,
+"player": "y`"
+},
+{
+"hero_id": 38,
+"team": "radiant",
+"order": 17,
+"player": "Chao P"
+},
+{
+"hero_id": 52,
+"team": "dire",
+"order": 22,
+"player": "NothingToSay"
+},
+{
+"hero_id": 70,
+"team": "radiant",
+"order": 23,
+"player": "kimchi"
+}
+],
+"answer": {
+"hero_id": 70,
+"team": "radiant"
+}
+},
+{
+"match_id": 6225151294,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "Team Secret",
+"dire_team": "LGD Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 19,
+"team": "dire",
+"order": 4,
+"player": "Ame"
+},
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 5,
+"player": "Chao P"
+},
+{
+"hero_id": 112,
+"team": "radiant",
+"order": 6,
+"player": "jack"
+},
+{
+"hero_id": 84,
+"team": "dire",
+"order": 7,
+"player": "y`"
+},
+{
+"hero_id": 128,
+"team": "radiant",
+"order": 14,
+"player": "Puppey"
+},
+{
+"hero_id": 77,
+"team": "dire",
+"order": 15,
+"player": "Bach"
+},
+{
+"hero_id": 110,
+"team": "dire",
+"order": 16,
+"player": "XinQ"
+},
+{
+"hero_id": 63,
+"team": "radiant",
+"order": 17,
+"player": "kimchi"
+},
+{
+"hero_id": 13,
+"team": "dire",
+"order": 22,
+"player": "NothingToSay"
+},
+{
+"hero_id": 49,
+"team": "radiant",
+"order": 23,
+"player": "SPOCIUCH"
+}
+],
+"answer": {
+"hero_id": 49,
+"team": "radiant"
+}
+},
+{
+"match_id": 6225051773,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "Vici Gaming",
+"dire_team": "Invictus Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 110,
+"team": "dire",
+"order": 4,
+"player": "Oli~"
+},
+{
+"hero_id": 114,
+"team": "radiant",
+"order": 5,
+"player": "Pyw"
+},
+{
+"hero_id": 128,
+"team": "radiant",
+"order": 6,
+"player": "Dy"
+},
+{
+"hero_id": 17,
+"team": "dire",
+"order": 7,
+"player": "Emo"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 14,
+"player": "oldeLeVeN"
+},
+{
+"hero_id": 69,
+"team": "dire",
+"order": 15,
+"player": "JT-"
+},
+{
+"hero_id": 26,
+"team": "dire",
+"order": 16,
+"player": "kaka"
+},
+{
+"hero_id": 10,
+"team": "radiant",
+"order": 17,
+"player": "氷狐"
+},
+{
+"hero_id": 67,
+"team": "dire",
+"order": 22,
+"player": "flyfly"
+},
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 23,
+"player": "Ori"
+}
+],
+"answer": {
+"hero_id": 52,
+"team": "radiant"
+}
+},
+{
+"match_id": 6224962333,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "Invictus Gaming",
+"dire_team": "Vici Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 19,
+"team": "dire",
+"order": 4,
+"player": "氷狐"
+},
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 5,
+"player": "JT-"
+},
+{
+"hero_id": 110,
+"team": "radiant",
+"order": 6,
+"player": "Oli~"
+},
+{
+"hero_id": 25,
+"team": "dire",
+"order": 7,
+"player": "Ori"
+},
+{
+"hero_id": 106,
+"team": "radiant",
+"order": 14,
+"player": "Emo"
+},
+{
+"hero_id": 26,
+"team": "dire",
+"order": 15,
+"player": "Pyw"
+},
+{
+"hero_id": 69,
+"team": "dire",
+"order": 16,
+"player": "oldeLeVeN"
+},
+{
+"hero_id": 42,
+"team": "radiant",
+"order": 17,
+"player": "flyfly"
+},
+{
+"hero_id": 78,
+"team": "dire",
+"order": 22,
+"player": "Dy"
+},
+{
+"hero_id": 51,
+"team": "radiant",
+"order": 23,
+"player": "kaka"
+}
+],
+"answer": {
+"hero_id": 51,
+"team": "radiant"
+}
+},
+{
+"match_id": 6224010002,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "Team Spirit",
+"dire_team": "Virtus.pro",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 19,
+"team": "radiant",
+"order": 4,
+"player": "Yatoro"
+},
+{
+"hero_id": 110,
+"team": "dire",
+"order": 5,
+"player": "‘"
+},
+{
+"hero_id": 3,
+"team": "dire",
+"order": 6,
+"player": "Save-"
+},
+{
+"hero_id": 128,
+"team": "radiant",
+"order": 7,
+"player": "Mira"
+},
+{
+"hero_id": 48,
+"team": "dire",
+"order": 14,
+"player": "Nightfall"
+},
+{
+"hero_id": 69,
+"team": "radiant",
+"order": 15,
+"player": "Collapse"
+},
+{
+"hero_id": 25,
+"team": "radiant",
+"order": 16,
+"player": "TORONTOTOKYO"
+},
+{
+"hero_id": 74,
+"team": "dire",
+"order": 17,
+"player": "gpk~"
+},
+{
+"hero_id": 75,
+"team": "radiant",
+"order": 22,
+"player": "Miposhka"
+},
+{
+"hero_id": 38,
+"team": "dire",
+"order": 23,
+"player": "DM"
+}
+],
+"answer": {
+"hero_id": 38,
+"team": "dire"
+}
+},
+{
+"match_id": 6223877657,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "Team Spirit",
+"dire_team": "Virtus.pro",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 91,
+"team": "radiant",
+"order": 4,
+"player": "Miposhka"
+},
+{
+"hero_id": 103,
+"team": "dire",
+"order": 5,
+"player": "‘"
+},
+{
+"hero_id": 3,
+"team": "dire",
+"order": 6,
+"player": "Save-"
+},
+{
+"hero_id": 29,
+"team": "radiant",
+"order": 7,
+"player": "Collapse"
+},
+{
+"hero_id": 70,
+"team": "dire",
+"order": 14,
+"player": "Nightfall"
+},
+{
+"hero_id": 27,
+"team": "radiant",
+"order": 15,
+"player": "Mira"
+},
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 16,
+"player": "TORONTOTOKYO"
+},
+{
+"hero_id": 47,
+"team": "dire",
+"order": 17,
+"player": "gpk~"
+},
+{
+"hero_id": 109,
+"team": "radiant",
+"order": 22,
+"player": "Yatoro"
+},
+{
+"hero_id": 120,
+"team": "dire",
+"order": 23,
+"player": "DM"
+}
+],
+"answer": {
+"hero_id": 120,
+"team": "dire"
+}
+},
+{
+"match_id": 6223756939,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "Virtus.pro",
+"dire_team": "Team Spirit",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 103,
+"team": "radiant",
+"order": 4,
+"player": "‘"
+},
+{
+"hero_id": 63,
+"team": "dire",
+"order": 5,
+"player": "Mira"
+},
+{
+"hero_id": 29,
+"team": "dire",
+"order": 6,
+"player": "Collapse"
+},
+{
+"hero_id": 94,
+"team": "radiant",
+"order": 7,
+"player": "Nightfall"
+},
+{
+"hero_id": 74,
+"team": "dire",
+"order": 14,
+"player": "TORONTOTOKYO"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 15,
+"player": "gpk~"
+},
+{
+"hero_id": 26,
+"team": "radiant",
+"order": 16,
+"player": "Save-"
+},
+{
+"hero_id": 3,
+"team": "dire",
+"order": 17,
+"player": "Miposhka"
+},
+{
+"hero_id": 108,
+"team": "radiant",
+"order": 22,
+"player": "DM"
+},
+{
+"hero_id": 114,
+"team": "dire",
+"order": 23,
+"player": "Yatoro"
+}
+],
+"answer": {
+"hero_id": 114,
+"team": "dire"
+}
+},
+{
+"match_id": 6223662107,
+"year": 2021,
+"league": "The International 2021",
+"radiant_team": "BLEED",
+"dire_team": "Vici Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 19,
+"team": "dire",
+"order": 4,
+"player": "氷狐"
+},
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 5,
+"player": "Kuku^"
+},
+{
+"hero_id": 29,
+"team": "radiant",
+"order": 6,
+"player": "Zzz"
+},
+{
+"hero_id": 114,
+"team": "dire",
+"order": 7,
+"player": "Pyw"
+},
+{
+"hero_id": 58,
+"team": "radiant",
+"order": 14,
+"player": "Whitemon"
+},
+{
+"hero_id": 87,
+"team": "dire",
+"order": 15,
+"player": "Dy"
+},
+{
+"hero_id": 11,
+"team": "dire",
+"order": 16,
+"player": "Ori"
+},
+{
+"hero_id": 65,
+"team": "radiant",
+"order": 17,
+"player": "Sky Walker"
+},
+{
+"hero_id": 20,
+"team": "dire",
+"order": 22,
+"player": "oldeLeVeN"
+},
+{
+"hero_id": 42,
+"team": "radiant",
+"order": 23,
+"player": "23savage"
+}
+],
+"answer": {
+"hero_id": 42,
+"team": "radiant"
+}
+},
+{
+"match_id": 6832287527,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "Tundra Esports",
+"dire_team": "Team Secret",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 136,
+"team": "dire",
+"order": 4,
+"player": "KG_Zayac"
+},
+{
+"hero_id": 19,
+"team": "radiant",
+"order": 5,
+"player": "Saksa"
+},
+{
+"hero_id": 9,
+"team": "radiant",
+"order": 6,
+"player": "Sneyking"
+},
+{
+"hero_id": 52,
+"team": "dire",
+"order": 7,
+"player": "Resolut1on"
+},
+{
+"hero_id": 120,
+"team": "radiant",
+"order": 14,
+"player": "drown"
+},
+{
+"hero_id": 75,
+"team": "dire",
+"order": 15,
+"player": "Puppey"
+},
+{
+"hero_id": 89,
+"team": "dire",
+"order": 16,
+"player": "Crystallis"
+},
+{
+"hero_id": 38,
+"team": "radiant",
+"order": 17,
+"player": "33"
+},
+{
+"hero_id": 106,
+"team": "dire",
+"order": 22,
+"player": "SPOCIUCH"
+},
+{
+"hero_id": 94,
+"team": "radiant",
+"order": 23,
+"player": "skiter"
+}
+],
+"answer": {
+"hero_id": 94,
+"team": "radiant"
+}
+},
+{
+"match_id": 6832140410,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "Team Secret",
+"dire_team": "Tundra Esports",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 136,
+"team": "dire",
+"order": 4,
+"player": "Saksa"
+},
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 5,
+"player": "Resolut1on"
+},
+{
+"hero_id": 100,
+"team": "radiant",
+"order": 6,
+"player": "KG_Zayac"
+},
+{
+"hero_id": 92,
+"team": "dire",
+"order": 7,
+"player": "33"
+},
+{
+"hero_id": 66,
+"team": "radiant",
+"order": 14,
+"player": "Puppey"
+},
+{
+"hero_id": 81,
+"team": "dire",
+"order": 15,
+"player": "skiter"
+},
+{
+"hero_id": 110,
+"team": "dire",
+"order": 16,
+"player": "Sneyking"
+},
+{
+"hero_id": 99,
+"team": "radiant",
+"order": 17,
+"player": "Crystallis"
+},
+{
+"hero_id": 113,
+"team": "dire",
+"order": 22,
+"player": "drown"
+},
+{
+"hero_id": 10,
+"team": "radiant",
+"order": 23,
+"player": "SPOCIUCH"
+}
+],
+"answer": {
+"hero_id": 10,
+"team": "radiant"
+}
+},
+{
+"match_id": 6832008209,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "Team Secret",
+"dire_team": "Tundra Esports",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 4,
+"player": "SPOCIUCH"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 5,
+"player": "drown"
+},
+{
+"hero_id": 9,
+"team": "dire",
+"order": 6,
+"player": "Sneyking"
+},
+{
+"hero_id": 19,
+"team": "radiant",
+"order": 7,
+"player": "KG_Zayac"
+},
+{
+"hero_id": 123,
+"team": "dire",
+"order": 14,
+"player": "Saksa"
+},
+{
+"hero_id": 33,
+"team": "radiant",
+"order": 15,
+"player": "Resolut1on"
+},
+{
+"hero_id": 31,
+"team": "radiant",
+"order": 16,
+"player": "Puppey"
+},
+{
+"hero_id": 89,
+"team": "dire",
+"order": 17,
+"player": "skiter"
+},
+{
+"hero_id": 14,
+"team": "radiant",
+"order": 22,
+"player": "Crystallis"
+},
+{
+"hero_id": 29,
+"team": "dire",
+"order": 23,
+"player": "33"
+}
+],
+"answer": {
+"hero_id": 29,
+"team": "dire"
+}
+},
+{
+"match_id": 6831727836,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "Team Secret",
+"dire_team": "Team Liquid",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 58,
+"team": "radiant",
+"order": 4,
+"player": "Puppey"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 5,
+"player": "Boxi"
+},
+{
+"hero_id": 25,
+"team": "dire",
+"order": 6,
+"player": "m1CKe"
+},
+{
+"hero_id": 38,
+"team": "radiant",
+"order": 7,
+"player": "Resolut1on"
+},
+{
+"hero_id": 85,
+"team": "dire",
+"order": 14,
+"player": "Insania "
+},
+{
+"hero_id": 74,
+"team": "radiant",
+"order": 15,
+"player": "SPOCIUCH"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 16,
+"player": "KG_Zayac"
+},
+{
+"hero_id": 54,
+"team": "dire",
+"order": 17,
+"player": "kimchi"
+},
+{
+"hero_id": 6,
+"team": "radiant",
+"order": 22,
+"player": "Crystallis"
+},
+{
+"hero_id": 78,
+"team": "dire",
+"order": 23,
+"player": "Chao P"
+}
+],
+"answer": {
+"hero_id": 78,
+"team": "dire"
+}
+},
+{
+"match_id": 6831640716,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "Team Secret",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 75,
+"team": "radiant",
+"order": 4,
+"player": "Puppey"
+},
+{
+"hero_id": 61,
+"team": "dire",
+"order": 5,
+"player": "Chao P"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 6,
+"player": "Boxi"
+},
+{
+"hero_id": 114,
+"team": "radiant",
+"order": 7,
+"player": "Crystallis"
+},
+{
+"hero_id": 64,
+"team": "dire",
+"order": 14,
+"player": "Insania "
+},
+{
+"hero_id": 88,
+"team": "radiant",
+"order": 15,
+"player": "KG_Zayac"
+},
+{
+"hero_id": 137,
+"team": "radiant",
+"order": 16,
+"player": "Resolut1on"
+},
+{
+"hero_id": 19,
+"team": "dire",
+"order": 17,
+"player": "m1CKe"
+},
+{
+"hero_id": 39,
+"team": "radiant",
+"order": 22,
+"player": "SPOCIUCH"
+},
+{
+"hero_id": 35,
+"team": "dire",
+"order": 23,
+"player": "kimchi"
+}
+],
+"answer": {
+"hero_id": 35,
+"team": "dire"
+}
+},
+{
+"match_id": 6831574509,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "Team Secret",
+"dire_team": "Team Liquid",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 33,
+"team": "dire",
+"order": 4,
+"player": "Chao P"
+},
+{
+"hero_id": 75,
+"team": "radiant",
+"order": 5,
+"player": "Puppey"
+},
+{
+"hero_id": 88,
+"team": "radiant",
+"order": 6,
+"player": "KG_Zayac"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 7,
+"player": "Boxi"
+},
+{
+"hero_id": 35,
+"team": "radiant",
+"order": 14,
+"player": "Crystallis"
+},
+{
+"hero_id": 54,
+"team": "dire",
+"order": 15,
+"player": "kimchi"
+},
+{
+"hero_id": 31,
+"team": "dire",
+"order": 16,
+"player": "Insania "
+},
+{
+"hero_id": 38,
+"team": "radiant",
+"order": 17,
+"player": "Resolut1on"
+},
+{
+"hero_id": 137,
+"team": "dire",
+"order": 22,
+"player": "m1CKe"
+},
+{
+"hero_id": 10,
+"team": "radiant",
+"order": 23,
+"player": "SPOCIUCH"
+}
+],
+"answer": {
+"hero_id": 10,
+"team": "radiant"
+}
+},
+{
+"match_id": 6829836531,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "Team Secret",
+"dire_team": "Tundra Esports",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 5,
+"team": "radiant",
+"order": 4,
+"player": "Puppey"
+},
+{
+"hero_id": 19,
+"team": "dire",
+"order": 5,
+"player": "Saksa"
+},
+{
+"hero_id": 9,
+"team": "dire",
+"order": 6,
+"player": "Sneyking"
+},
+{
+"hero_id": 135,
+"team": "radiant",
+"order": 7,
+"player": "Resolut1on"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 14,
+"player": "drown"
+},
+{
+"hero_id": 107,
+"team": "radiant",
+"order": 15,
+"player": "KG_Zayac"
+},
+{
+"hero_id": 22,
+"team": "radiant",
+"order": 16,
+"player": "SPOCIUCH"
+},
+{
+"hero_id": 33,
+"team": "dire",
+"order": 17,
+"player": "33"
+},
+{
+"hero_id": 72,
+"team": "radiant",
+"order": 22,
+"player": "Crystallis"
+},
+{
+"hero_id": 81,
+"team": "dire",
+"order": 23,
+"player": "skiter"
+}
+],
+"answer": {
+"hero_id": 81,
+"team": "dire"
+}
+},
+{
+"match_id": 6829692346,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "Team Secret",
+"dire_team": "Tundra Esports",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 5,
+"team": "dire",
+"order": 4,
+"player": "Sneyking"
+},
+{
+"hero_id": 75,
+"team": "radiant",
+"order": 5,
+"player": "Puppey"
+},
+{
+"hero_id": 135,
+"team": "radiant",
+"order": 6,
+"player": "Resolut1on"
+},
+{
+"hero_id": 92,
+"team": "dire",
+"order": 7,
+"player": "33"
+},
+{
+"hero_id": 88,
+"team": "radiant",
+"order": 14,
+"player": "KG_Zayac"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 15,
+"player": "Saksa"
+},
+{
+"hero_id": 137,
+"team": "dire",
+"order": 16,
+"player": "drown"
+},
+{
+"hero_id": 120,
+"team": "radiant",
+"order": 17,
+"player": "SPOCIUCH"
+},
+{
+"hero_id": 109,
+"team": "dire",
+"order": 22,
+"player": "skiter"
+},
+{
+"hero_id": 6,
+"team": "radiant",
+"order": 23,
+"player": "Crystallis"
+}
+],
+"answer": {
+"hero_id": 6,
+"team": "radiant"
+}
+},
+{
+"match_id": 6829521976,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "Team Secret",
+"dire_team": "Tundra Esports",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 100,
+"team": "radiant",
+"order": 4,
+"player": "KG_Zayac"
+},
+{
+"hero_id": 9,
+"team": "dire",
+"order": 5,
+"player": "Sneyking"
+},
+{
+"hero_id": 61,
+"team": "dire",
+"order": 6,
+"player": "33"
+},
+{
+"hero_id": 114,
+"team": "radiant",
+"order": 7,
+"player": "Crystallis"
+},
+{
+"hero_id": 19,
+"team": "dire",
+"order": 14,
+"player": "Saksa"
+},
+{
+"hero_id": 87,
+"team": "radiant",
+"order": 15,
+"player": "Puppey"
+},
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 16,
+"player": "Resolut1on"
+},
+{
+"hero_id": 89,
+"team": "dire",
+"order": 17,
+"player": "skiter"
+},
+{
+"hero_id": 106,
+"team": "radiant",
+"order": 22,
+"player": "SPOCIUCH"
+},
+{
+"hero_id": 76,
+"team": "dire",
+"order": 23,
+"player": "drown"
+}
+],
+"answer": {
+"hero_id": 76,
+"team": "dire"
+}
+},
+{
+"match_id": 6829345218,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "Team Liquid",
+"dire_team": "Team Aster",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 5,
+"team": "dire",
+"order": 4,
+"player": "皮球"
+},
+{
+"hero_id": 100,
+"team": "radiant",
+"order": 5,
+"player": "Boxi"
+},
+{
+"hero_id": 25,
+"team": "radiant",
+"order": 6,
+"player": "m1CKe"
+},
+{
+"hero_id": 137,
+"team": "dire",
+"order": 7,
+"player": "Ori"
+},
+{
+"hero_id": 85,
+"team": "radiant",
+"order": 14,
+"player": "Insania "
+},
+{
+"hero_id": 89,
+"team": "dire",
+"order": 15,
+"player": "BoBoKa"
+},
+{
+"hero_id": 38,
+"team": "dire",
+"order": 16,
+"player": "Xxs"
+},
+{
+"hero_id": 120,
+"team": "radiant",
+"order": 17,
+"player": "Chao P"
+},
+{
+"hero_id": 6,
+"team": "dire",
+"order": 22,
+"player": "Monet"
+},
+{
+"hero_id": 60,
+"team": "radiant",
+"order": 23,
+"player": "kimchi"
+}
+],
+"answer": {
+"hero_id": 60,
+"team": "radiant"
+}
+},
+{
+"match_id": 6829266295,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "Team Liquid",
+"dire_team": "Team Aster",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 136,
+"team": "dire",
+"order": 4,
+"player": "Xxs"
+},
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 5,
+"player": "Chao P"
+},
+{
+"hero_id": 100,
+"team": "radiant",
+"order": 6,
+"player": "Boxi"
+},
+{
+"hero_id": 35,
+"team": "dire",
+"order": 7,
+"player": "Monet"
+},
+{
+"hero_id": 5,
+"team": "radiant",
+"order": 14,
+"player": "Insania "
+},
+{
+"hero_id": 64,
+"team": "dire",
+"order": 15,
+"player": "BoBoKa"
+},
+{
+"hero_id": 14,
+"team": "dire",
+"order": 16,
+"player": "Ori"
+},
+{
+"hero_id": 17,
+"team": "radiant",
+"order": 17,
+"player": "m1CKe"
+},
+{
+"hero_id": 57,
+"team": "dire",
+"order": 22,
+"player": "皮球"
+},
+{
+"hero_id": 10,
+"team": "radiant",
+"order": 23,
+"player": "kimchi"
+}
+],
+"answer": {
+"hero_id": 10,
+"team": "radiant"
+}
+},
+{
+"match_id": 6829184970,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "Team Aster",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 136,
+"team": "dire",
+"order": 4,
+"player": "Boxi"
+},
+{
+"hero_id": 5,
+"team": "radiant",
+"order": 5,
+"player": "皮球"
+},
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 6,
+"player": "Ori"
+},
+{
+"hero_id": 61,
+"team": "dire",
+"order": 7,
+"player": "Chao P"
+},
+{
+"hero_id": 71,
+"team": "radiant",
+"order": 14,
+"player": "BoBoKa"
+},
+{
+"hero_id": 31,
+"team": "dire",
+"order": 15,
+"player": "Insania "
+},
+{
+"hero_id": 25,
+"team": "dire",
+"order": 16,
+"player": "m1CKe"
+},
+{
+"hero_id": 35,
+"team": "radiant",
+"order": 17,
+"player": "Monet"
+},
+{
+"hero_id": 4,
+"team": "dire",
+"order": 22,
+"player": "kimchi"
+},
+{
+"hero_id": 108,
+"team": "radiant",
+"order": 23,
+"player": "Xxs"
+}
+],
+"answer": {
+"hero_id": 108,
+"team": "radiant"
+}
+},
+{
+"match_id": 6819203954,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "Thunder Awaken",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 136,
+"team": "radiant",
+"order": 4,
+"player": "Matthew"
+},
+{
+"hero_id": 52,
+"team": "dire",
+"order": 5,
+"player": "Chao P"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 6,
+"player": "Boxi"
+},
+{
+"hero_id": 33,
+"team": "radiant",
+"order": 7,
+"player": "Sacred"
+},
+{
+"hero_id": 5,
+"team": "dire",
+"order": 14,
+"player": "Insania "
+},
+{
+"hero_id": 85,
+"team": "radiant",
+"order": 15,
+"player": "Panda"
+},
+{
+"hero_id": 14,
+"team": "radiant",
+"order": 16,
+"player": "愛"
+},
+{
+"hero_id": 54,
+"team": "dire",
+"order": 17,
+"player": "kimchi"
+},
+{
+"hero_id": 106,
+"team": "radiant",
+"order": 22,
+"player": "DarkMago♥"
+},
+{
+"hero_id": 120,
+"team": "dire",
+"order": 23,
+"player": "m1CKe"
+}
+],
+"answer": {
+"hero_id": 120,
+"team": "dire"
+}
+},
+{
+"match_id": 6819093598,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "Thunder Awaken",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 136,
+"team": "radiant",
+"order": 4,
+"player": "Matthew"
+},
+{
+"hero_id": 33,
+"team": "dire",
+"order": 5,
+"player": "Insania "
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 6,
+"player": "Boxi"
+},
+{
+"hero_id": 72,
+"team": "radiant",
+"order": 7,
+"player": "愛"
+},
+{
+"hero_id": 61,
+"team": "dire",
+"order": 14,
+"player": "Chao P"
+},
+{
+"hero_id": 87,
+"team": "radiant",
+"order": 15,
+"player": "Panda"
+},
+{
+"hero_id": 29,
+"team": "radiant",
+"order": 16,
+"player": "Sacred"
+},
+{
+"hero_id": 70,
+"team": "dire",
+"order": 17,
+"player": "kimchi"
+},
+{
+"hero_id": 106,
+"team": "radiant",
+"order": 22,
+"player": "DarkMago♥"
+},
+{
+"hero_id": 13,
+"team": "dire",
+"order": 23,
+"player": "m1CKe"
+}
+],
+"answer": {
+"hero_id": 13,
+"team": "dire"
+}
+},
+{
+"match_id": 6818958825,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "Thunder Awaken",
+"dire_team": "Team Liquid",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 19,
+"team": "dire",
+"order": 4,
+"player": "Boxi"
+},
+{
+"hero_id": 5,
+"team": "radiant",
+"order": 5,
+"player": "Panda"
+},
+{
+"hero_id": 129,
+"team": "radiant",
+"order": 6,
+"player": "DarkMago♥"
+},
+{
+"hero_id": 52,
+"team": "dire",
+"order": 7,
+"player": "m1CKe"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 14,
+"player": "Matthew"
+},
+{
+"hero_id": 54,
+"team": "dire",
+"order": 15,
+"player": "kimchi"
+},
+{
+"hero_id": 120,
+"team": "dire",
+"order": 16,
+"player": "Chao P"
+},
+{
+"hero_id": 33,
+"team": "radiant",
+"order": 17,
+"player": "Sacred"
+},
+{
+"hero_id": 31,
+"team": "dire",
+"order": 22,
+"player": "Insania "
+},
+{
+"hero_id": 4,
+"team": "radiant",
+"order": 23,
+"player": "愛"
+}
+],
+"answer": {
+"hero_id": 4,
+"team": "radiant"
+}
+},
+{
+"match_id": 6818876789,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "LGD Gaming",
+"dire_team": "Team Aster",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 18,
+"team": "dire",
+"order": 4,
+"player": "皮球"
+},
+{
+"hero_id": 33,
+"team": "radiant",
+"order": 5,
+"player": "Bach"
+},
+{
+"hero_id": 19,
+"team": "radiant",
+"order": 6,
+"player": "XinQ"
+},
+{
+"hero_id": 25,
+"team": "dire",
+"order": 7,
+"player": "Ori"
+},
+{
+"hero_id": 128,
+"team": "radiant",
+"order": 14,
+"player": "y`"
+},
+{
+"hero_id": 72,
+"team": "dire",
+"order": 15,
+"player": "Monet"
+},
+{
+"hero_id": 9,
+"team": "dire",
+"order": 16,
+"player": "BoBoKa"
+},
+{
+"hero_id": 109,
+"team": "radiant",
+"order": 17,
+"player": "Ame"
+},
+{
+"hero_id": 129,
+"team": "dire",
+"order": 22,
+"player": "Xxs"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 23,
+"player": "NothingToSay"
+}
+],
+"answer": {
+"hero_id": 23,
+"team": "radiant"
+}
+},
+{
+"match_id": 6818781180,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "LGD Gaming",
+"dire_team": "Team Aster",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 137,
+"team": "radiant",
+"order": 4,
+"player": "XinQ"
+},
+{
+"hero_id": 79,
+"team": "dire",
+"order": 5,
+"player": "皮球"
+},
+{
+"hero_id": 25,
+"team": "dire",
+"order": 6,
+"player": "Ori"
+},
+{
+"hero_id": 106,
+"team": "radiant",
+"order": 7,
+"player": "NothingToSay"
+},
+{
+"hero_id": 9,
+"team": "dire",
+"order": 14,
+"player": "BoBoKa"
+},
+{
+"hero_id": 87,
+"team": "radiant",
+"order": 15,
+"player": "y`"
+},
+{
+"hero_id": 92,
+"team": "radiant",
+"order": 16,
+"player": "Bach"
+},
+{
+"hero_id": 120,
+"team": "dire",
+"order": 17,
+"player": "Xxs"
+},
+{
+"hero_id": 32,
+"team": "radiant",
+"order": 22,
+"player": "Ame"
+},
+{
+"hero_id": 6,
+"team": "dire",
+"order": 23,
+"player": "Monet"
+}
+],
+"answer": {
+"hero_id": 6,
+"team": "dire"
+}
+},
+{
+"match_id": 6818704228,
+"year": 2022,
+"league": "The International 2022",
+"radiant_team": "Team Liquid",
+"dire_team": "OG",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 19,
+"team": "dire",
+"order": 4,
+"player": "Taiga"
+},
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 5,
+"player": "m1CKe"
+},
+{
+"hero_id": 100,
+"team": "radiant",
+"order": 6,
+"player": "Boxi"
+},
+{
+"hero_id": 59,
+"team": "dire",
+"order": 7,
+"player": "AMMAR_THE_F"
+},
+{
+"hero_id": 5,
+"team": "radiant",
+"order": 14,
+"player": "Insania "
+},
+{
+"hero_id": 128,
+"team": "dire",
+"order": 15,
+"player": "Misha"
+},
+{
+"hero_id": 106,
+"team": "dire",
+"order": 16,
+"player": "bzm"
+},
+{
+"hero_id": 4,
+"team": "radiant",
+"order": 17,
+"player": "kimchi"
+},
+{
+"hero_id": 53,
+"team": "dire",
+"order": 22,
+"player": "Yuragi"
+},
+{
+"hero_id": 61,
+"team": "radiant",
+"order": 23,
+"player": "Chao P"
+}
+],
+"answer": {
+"hero_id": 61,
+"team": "radiant"
+}
+},
+{
+"match_id": 7406531302,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "Gaimin Gladiators",
+"dire_team": "Team Spirit",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 81,
+"team": "dire",
+"order": 7,
+"player": "Yatoro"
+},
+{
+"hero_id": 68,
+"team": "radiant",
+"order": 8,
+"player": "Seleri"
+},
+{
+"hero_id": 120,
+"team": "radiant",
+"order": 12,
+"player": "Quinn"
+},
+{
+"hero_id": 121,
+"team": "dire",
+"order": 13,
+"player": "Miposhka"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 14,
+"player": "Mira"
+},
+{
+"hero_id": 78,
+"team": "radiant",
+"order": 15,
+"player": "Ace ♠"
+},
+{
+"hero_id": 138,
+"team": "radiant",
+"order": 16,
+"player": "tOfu"
+},
+{
+"hero_id": 50,
+"team": "dire",
+"order": 17,
+"player": "Larl"
+},
+{
+"hero_id": 71,
+"team": "dire",
+"order": 22,
+"player": "Collapse"
+},
+{
+"hero_id": 67,
+"team": "radiant",
+"order": 23,
+"player": "dyrachyo"
+}
+],
+"answer": {
+"hero_id": 67,
+"team": "radiant"
+}
+},
+{
+"match_id": 7406482053,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "Team Spirit",
+"dire_team": "Gaimin Gladiators",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 137,
+"team": "dire",
+"order": 7,
+"player": "Quinn"
+},
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 8,
+"player": "Collapse"
+},
+{
+"hero_id": 58,
+"team": "radiant",
+"order": 12,
+"player": "Miposhka"
+},
+{
+"hero_id": 53,
+"team": "dire",
+"order": 13,
+"player": "Seleri"
+},
+{
+"hero_id": 138,
+"team": "dire",
+"order": 14,
+"player": "tOfu"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 15,
+"player": "Yatoro"
+},
+{
+"hero_id": 121,
+"team": "radiant",
+"order": 16,
+"player": "Mira"
+},
+{
+"hero_id": 42,
+"team": "dire",
+"order": 17,
+"player": "Ace ♠"
+},
+{
+"hero_id": 10,
+"team": "dire",
+"order": 22,
+"player": "dyrachyo"
+},
+{
+"hero_id": 120,
+"team": "radiant",
+"order": 23,
+"player": "Larl"
+}
+],
+"answer": {
+"hero_id": 120,
+"team": "radiant"
+}
+},
+{
+"match_id": 7406424070,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "Gaimin Gladiators",
+"dire_team": "Team Spirit",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 63,
+"team": "dire",
+"order": 7,
+"player": "Yatoro"
+},
+{
+"hero_id": 138,
+"team": "radiant",
+"order": 8,
+"player": "tOfu"
+},
+{
+"hero_id": 120,
+"team": "radiant",
+"order": 12,
+"player": "Quinn"
+},
+{
+"hero_id": 83,
+"team": "dire",
+"order": 13,
+"player": "Miposhka"
+},
+{
+"hero_id": 13,
+"team": "dire",
+"order": 14,
+"player": "Larl"
+},
+{
+"hero_id": 80,
+"team": "radiant",
+"order": 15,
+"player": "Ace ♠"
+},
+{
+"hero_id": 75,
+"team": "radiant",
+"order": 16,
+"player": "Seleri"
+},
+{
+"hero_id": 38,
+"team": "dire",
+"order": 17,
+"player": "Collapse"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 22,
+"player": "Mira"
+},
+{
+"hero_id": 72,
+"team": "radiant",
+"order": 23,
+"player": "dyrachyo"
+}
+],
+"answer": {
+"hero_id": 72,
+"team": "radiant"
+}
+},
+{
+"match_id": 7406249246,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "Gaimin Gladiators",
+"dire_team": "LGD Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 138,
+"team": "dire",
+"order": 7,
+"player": "planet"
+},
+{
+"hero_id": 81,
+"team": "radiant",
+"order": 8,
+"player": "dyrachyo"
+},
+{
+"hero_id": 119,
+"team": "radiant",
+"order": 12,
+"player": "tOfu"
+},
+{
+"hero_id": 97,
+"team": "dire",
+"order": 13,
+"player": "niu"
+},
+{
+"hero_id": 103,
+"team": "dire",
+"order": 14,
+"player": "y`"
+},
+{
+"hero_id": 42,
+"team": "radiant",
+"order": 15,
+"player": "Ace ♠"
+},
+{
+"hero_id": 53,
+"team": "radiant",
+"order": 16,
+"player": "Seleri"
+},
+{
+"hero_id": 89,
+"team": "dire",
+"order": 17,
+"player": "shiro"
+},
+{
+"hero_id": 120,
+"team": "dire",
+"order": 22,
+"player": "NothingToSay"
+},
+{
+"hero_id": 39,
+"team": "radiant",
+"order": 23,
+"player": "Quinn"
+}
+],
+"answer": {
+"hero_id": 39,
+"team": "radiant"
+}
+},
+{
+"match_id": 7406129687,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "LGD Gaming",
+"dire_team": "Gaimin Gladiators",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 137,
+"team": "dire",
+"order": 7,
+"player": "Ace ♠"
+},
+{
+"hero_id": 110,
+"team": "radiant",
+"order": 8,
+"player": "y`"
+},
+{
+"hero_id": 96,
+"team": "radiant",
+"order": 12,
+"player": "niu"
+},
+{
+"hero_id": 121,
+"team": "dire",
+"order": 13,
+"player": "tOfu"
+},
+{
+"hero_id": 75,
+"team": "dire",
+"order": 14,
+"player": "Seleri"
+},
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 15,
+"player": "planet"
+},
+{
+"hero_id": 71,
+"team": "radiant",
+"order": 16,
+"player": "NothingToSay"
+},
+{
+"hero_id": 36,
+"team": "dire",
+"order": 17,
+"player": "Quinn"
+},
+{
+"hero_id": 73,
+"team": "dire",
+"order": 22,
+"player": "dyrachyo"
+},
+{
+"hero_id": 48,
+"team": "radiant",
+"order": 23,
+"player": "shiro"
+}
+],
+"answer": {
+"hero_id": 48,
+"team": "radiant"
+}
+},
+{
+"match_id": 7404938247,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "Gaimin Gladiators",
+"dire_team": "Azure Ray",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 45,
+"team": "dire",
+"order": 7,
+"player": "fy"
+},
+{
+"hero_id": 63,
+"team": "radiant",
+"order": 8,
+"player": "dyrachyo"
+},
+{
+"hero_id": 138,
+"team": "radiant",
+"order": 12,
+"player": "tOfu"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 13,
+"player": "天命"
+},
+{
+"hero_id": 23,
+"team": "dire",
+"order": 14,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 80,
+"team": "radiant",
+"order": 15,
+"player": "Ace ♠"
+},
+{
+"hero_id": 58,
+"team": "radiant",
+"order": 16,
+"player": "Seleri"
+},
+{
+"hero_id": 46,
+"team": "dire",
+"order": 17,
+"player": "Lou"
+},
+{
+"hero_id": 78,
+"team": "dire",
+"order": 22,
+"player": "nailong"
+},
+{
+"hero_id": 59,
+"team": "radiant",
+"order": 23,
+"player": "Quinn"
+}
+],
+"answer": {
+"hero_id": 59,
+"team": "radiant"
+}
+},
+{
+"match_id": 7404889653,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "Azure Ray",
+"dire_team": "Gaimin Gladiators",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 81,
+"team": "dire",
+"order": 7,
+"player": "dyrachyo"
+},
+{
+"hero_id": 89,
+"team": "radiant",
+"order": 8,
+"player": "Lou"
+},
+{
+"hero_id": 138,
+"team": "radiant",
+"order": 12,
+"player": "fy"
+},
+{
+"hero_id": 66,
+"team": "dire",
+"order": 13,
+"player": "Seleri"
+},
+{
+"hero_id": 45,
+"team": "dire",
+"order": 14,
+"player": "tOfu"
+},
+{
+"hero_id": 96,
+"team": "radiant",
+"order": 15,
+"player": "nailong"
+},
+{
+"hero_id": 58,
+"team": "radiant",
+"order": 16,
+"player": "天命"
+},
+{
+"hero_id": 120,
+"team": "dire",
+"order": 17,
+"player": "Quinn"
+},
+{
+"hero_id": 108,
+"team": "dire",
+"order": 22,
+"player": "Ace ♠"
+},
+{
+"hero_id": 76,
+"team": "radiant",
+"order": 23,
+"player": "天地一刀斩"
+}
+],
+"answer": {
+"hero_id": 76,
+"team": "radiant"
+}
+},
+{
+"match_id": 7404828649,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "LGD Gaming",
+"dire_team": "Team Spirit",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 81,
+"team": "dire",
+"order": 7,
+"player": "Collapse"
+},
+{
+"hero_id": 97,
+"team": "radiant",
+"order": 8,
+"player": "NothingToSay"
+},
+{
+"hero_id": 121,
+"team": "radiant",
+"order": 12,
+"player": "planet"
+},
+{
+"hero_id": 119,
+"team": "dire",
+"order": 13,
+"player": "Mira"
+},
+{
+"hero_id": 83,
+"team": "dire",
+"order": 14,
+"player": "Miposhka"
+},
+{
+"hero_id": 67,
+"team": "radiant",
+"order": 15,
+"player": "shiro"
+},
+{
+"hero_id": 30,
+"team": "radiant",
+"order": 16,
+"player": "y`"
+},
+{
+"hero_id": 23,
+"team": "dire",
+"order": 17,
+"player": "Larl"
+},
+{
+"hero_id": 10,
+"team": "dire",
+"order": 22,
+"player": "Yatoro"
+},
+{
+"hero_id": 69,
+"team": "radiant",
+"order": 23,
+"player": "niu"
+}
+],
+"answer": {
+"hero_id": 69,
+"team": "radiant"
+}
+},
+{
+"match_id": 7404763579,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "LGD Gaming",
+"dire_team": "Team Spirit",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 68,
+"team": "radiant",
+"order": 7,
+"player": "y`"
+},
+{
+"hero_id": 79,
+"team": "dire",
+"order": 8,
+"player": "Mira"
+},
+{
+"hero_id": 97,
+"team": "dire",
+"order": 12,
+"player": "Collapse"
+},
+{
+"hero_id": 121,
+"team": "radiant",
+"order": 13,
+"player": "planet"
+},
+{
+"hero_id": 81,
+"team": "radiant",
+"order": 14,
+"player": "shiro"
+},
+{
+"hero_id": 103,
+"team": "dire",
+"order": 15,
+"player": "Miposhka"
+},
+{
+"hero_id": 109,
+"team": "dire",
+"order": 16,
+"player": "Yatoro"
+},
+{
+"hero_id": 34,
+"team": "radiant",
+"order": 17,
+"player": "NothingToSay"
+},
+{
+"hero_id": 96,
+"team": "radiant",
+"order": 22,
+"player": "niu"
+},
+{
+"hero_id": 23,
+"team": "dire",
+"order": 23,
+"player": "Larl"
+}
+],
+"answer": {
+"hero_id": 23,
+"team": "dire"
+}
+},
+{
+"match_id": 7404713057,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "BetBoom Team",
+"dire_team": "Azure Ray",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 110,
+"team": "dire",
+"order": 7,
+"player": "fy"
+},
+{
+"hero_id": 138,
+"team": "radiant",
+"order": 8,
+"player": "Save-"
+},
+{
+"hero_id": 58,
+"team": "radiant",
+"order": 12,
+"player": "TORONTOTOKYO"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 13,
+"player": "天命"
+},
+{
+"hero_id": 78,
+"team": "dire",
+"order": 14,
+"player": "nailong"
+},
+{
+"hero_id": 10,
+"team": "radiant",
+"order": 15,
+"player": "Nightfall"
+},
+{
+"hero_id": 104,
+"team": "radiant",
+"order": 16,
+"player": "Pure"
+},
+{
+"hero_id": 23,
+"team": "dire",
+"order": 17,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 48,
+"team": "dire",
+"order": 22,
+"player": "Lou"
+},
+{
+"hero_id": 74,
+"team": "radiant",
+"order": 23,
+"player": "gpk~"
+}
+],
+"answer": {
+"hero_id": 74,
+"team": "radiant"
+}
+},
+{
+"match_id": 7404668056,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "BetBoom Team",
+"dire_team": "Azure Ray",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 138,
+"team": "dire",
+"order": 7,
+"player": "fy"
+},
+{
+"hero_id": 81,
+"team": "radiant",
+"order": 8,
+"player": "Pure"
+},
+{
+"hero_id": 119,
+"team": "radiant",
+"order": 12,
+"player": "Save-"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 13,
+"player": "天命"
+},
+{
+"hero_id": 135,
+"team": "dire",
+"order": 14,
+"player": "nailong"
+},
+{
+"hero_id": 110,
+"team": "radiant",
+"order": 15,
+"player": "TORONTOTOKYO"
+},
+{
+"hero_id": 41,
+"team": "radiant",
+"order": 16,
+"player": "Nightfall"
+},
+{
+"hero_id": 48,
+"team": "dire",
+"order": 17,
+"player": "Lou"
+},
+{
+"hero_id": 13,
+"team": "dire",
+"order": 22,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 49,
+"team": "radiant",
+"order": 23,
+"player": "gpk~"
+}
+],
+"answer": {
+"hero_id": 49,
+"team": "radiant"
+}
+},
+{
+"match_id": 7404577536,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "Azure Ray",
+"dire_team": "BetBoom Team",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 45,
+"team": "radiant",
+"order": 7,
+"player": "天命"
+},
+{
+"hero_id": 81,
+"team": "dire",
+"order": 8,
+"player": "Nightfall"
+},
+{
+"hero_id": 105,
+"team": "dire",
+"order": 12,
+"player": "Save-"
+},
+{
+"hero_id": 100,
+"team": "radiant",
+"order": 13,
+"player": "fy"
+},
+{
+"hero_id": 135,
+"team": "radiant",
+"order": 14,
+"player": "nailong"
+},
+{
+"hero_id": 110,
+"team": "dire",
+"order": 15,
+"player": "TORONTOTOKYO"
+},
+{
+"hero_id": 23,
+"team": "dire",
+"order": 16,
+"player": "Pure"
+},
+{
+"hero_id": 36,
+"team": "radiant",
+"order": 17,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 54,
+"team": "radiant",
+"order": 22,
+"player": "Lou"
+},
+{
+"hero_id": 46,
+"team": "dire",
+"order": 23,
+"player": "gpk~"
+}
+],
+"answer": {
+"hero_id": 46,
+"team": "dire"
+}
+},
+{
+"match_id": 7404488494,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "Gaimin Gladiators",
+"dire_team": "Team Liquid",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 45,
+"team": "dire",
+"order": 7,
+"player": "Insania "
+},
+{
+"hero_id": 138,
+"team": "radiant",
+"order": 8,
+"player": "tOfu"
+},
+{
+"hero_id": 63,
+"team": "radiant",
+"order": 12,
+"player": "dyrachyo"
+},
+{
+"hero_id": 96,
+"team": "dire",
+"order": 13,
+"player": "Chao P"
+},
+{
+"hero_id": 101,
+"team": "dire",
+"order": 14,
+"player": "Boxi"
+},
+{
+"hero_id": 42,
+"team": "radiant",
+"order": 15,
+"player": "Ace ♠"
+},
+{
+"hero_id": 53,
+"team": "radiant",
+"order": 16,
+"player": "Seleri"
+},
+{
+"hero_id": 109,
+"team": "dire",
+"order": 17,
+"player": "m1CKe"
+},
+{
+"hero_id": 13,
+"team": "dire",
+"order": 22,
+"player": "Nisha"
+},
+{
+"hero_id": 126,
+"team": "radiant",
+"order": 23,
+"player": "Quinn"
+}
+],
+"answer": {
+"hero_id": 126,
+"team": "radiant"
+}
+},
+{
+"match_id": 7404381764,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "Gaimin Gladiators",
+"dire_team": "Team Liquid",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 45,
+"team": "dire",
+"order": 7,
+"player": "Boxi"
+},
+{
+"hero_id": 138,
+"team": "radiant",
+"order": 8,
+"player": "tOfu"
+},
+{
+"hero_id": 110,
+"team": "radiant",
+"order": 12,
+"player": "Seleri"
+},
+{
+"hero_id": 58,
+"team": "dire",
+"order": 13,
+"player": "Insania "
+},
+{
+"hero_id": 48,
+"team": "dire",
+"order": 14,
+"player": "m1CKe"
+},
+{
+"hero_id": 80,
+"team": "radiant",
+"order": 15,
+"player": "Ace ♠"
+},
+{
+"hero_id": 120,
+"team": "radiant",
+"order": 16,
+"player": "Quinn"
+},
+{
+"hero_id": 23,
+"team": "dire",
+"order": 17,
+"player": "Nisha"
+},
+{
+"hero_id": 29,
+"team": "dire",
+"order": 22,
+"player": "Chao P"
+},
+{
+"hero_id": 15,
+"team": "radiant",
+"order": 23,
+"player": "dyrachyo"
+}
+],
+"answer": {
+"hero_id": 15,
+"team": "radiant"
+}
+},
+{
+"match_id": 7404249421,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "Team Liquid",
+"dire_team": "Gaimin Gladiators",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 138,
+"team": "dire",
+"order": 7,
+"player": "tOfu"
+},
+{
+"hero_id": 45,
+"team": "radiant",
+"order": 8,
+"player": "Insania "
+},
+{
+"hero_id": 63,
+"team": "radiant",
+"order": 12,
+"player": "Boxi"
+},
+{
+"hero_id": 96,
+"team": "dire",
+"order": 13,
+"player": "Ace ♠"
+},
+{
+"hero_id": 110,
+"team": "dire",
+"order": 14,
+"player": "Seleri"
+},
+{
+"hero_id": 48,
+"team": "radiant",
+"order": 15,
+"player": "m1CKe"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 16,
+"player": "Chao P"
+},
+{
+"hero_id": 36,
+"team": "dire",
+"order": 17,
+"player": "Quinn"
+},
+{
+"hero_id": 4,
+"team": "dire",
+"order": 22,
+"player": "dyrachyo"
+},
+{
+"hero_id": 74,
+"team": "radiant",
+"order": 23,
+"player": "Nisha"
+}
+],
+"answer": {
+"hero_id": 74,
+"team": "radiant"
+}
+},
+{
+"match_id": 7403117150,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "Azure Ray",
+"dire_team": "LGD Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 78,
+"team": "dire",
+"order": 7,
+"player": "niu"
+},
+{
+"hero_id": 63,
+"team": "radiant",
+"order": 8,
+"player": "Lou"
+},
+{
+"hero_id": 121,
+"team": "radiant",
+"order": 12,
+"player": "天命"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 13,
+"player": "planet"
+},
+{
+"hero_id": 67,
+"team": "dire",
+"order": 14,
+"player": "shiro"
+},
+{
+"hero_id": 100,
+"team": "radiant",
+"order": 15,
+"player": "fy"
+},
+{
+"hero_id": 135,
+"team": "radiant",
+"order": 16,
+"player": "nailong"
+},
+{
+"hero_id": 13,
+"team": "dire",
+"order": 17,
+"player": "NothingToSay"
+},
+{
+"hero_id": 30,
+"team": "dire",
+"order": 22,
+"player": "y`"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 23,
+"player": "天地一刀斩"
+}
+],
+"answer": {
+"hero_id": 7,
+"team": "radiant"
+}
+},
+{
+"match_id": 7403057517,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "Azure Ray",
+"dire_team": "LGD Gaming",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 99,
+"team": "radiant",
+"order": 7,
+"player": "nailong"
+},
+{
+"hero_id": 138,
+"team": "dire",
+"order": 8,
+"player": "shiro"
+},
+{
+"hero_id": 97,
+"team": "dire",
+"order": 12,
+"player": "NothingToSay"
+},
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 13,
+"player": "fy"
+},
+{
+"hero_id": 51,
+"team": "radiant",
+"order": 14,
+"player": "天命"
+},
+{
+"hero_id": 119,
+"team": "dire",
+"order": 15,
+"player": "planet"
+},
+{
+"hero_id": 20,
+"team": "dire",
+"order": 16,
+"player": "y`"
+},
+{
+"hero_id": 63,
+"team": "radiant",
+"order": 17,
+"player": "Lou"
+},
+{
+"hero_id": 128,
+"team": "radiant",
+"order": 22,
+"player": "天地一刀斩"
+},
+{
+"hero_id": 60,
+"team": "dire",
+"order": 23,
+"player": "niu"
+}
+],
+"answer": {
+"hero_id": 60,
+"team": "dire"
+}
+},
+{
+"match_id": 7402993316,
+"year": 2023,
+"league": "The International 2023",
+"radiant_team": "Team Spirit",
+"dire_team": "Team Liquid",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 78,
+"team": "dire",
+"order": 7,
+"player": "Chao P"
+},
+{
+"hero_id": 121,
+"team": "radiant",
+"order": 8,
+"player": "Miposhka"
+},
+{
+"hero_id": 63,
+"team": "radiant",
+"order": 12,
+"player": "Yatoro"
+},
+{
+"hero_id": 119,
+"team": "dire",
+"order": 13,
+"player": "Boxi"
+},
+{
+"hero_id": 87,
+"team": "dire",
+"order": 14,
+"player": "Insania "
+},
+{
+"hero_id": 74,
+"team": "radiant",
+"order": 15,
+"player": "Mira"
+},
+{
+"hero_id": 19,
+"team": "radiant",
+"order": 16,
+"player": "Larl"
+},
+{
+"hero_id": 32,
+"team": "dire",
+"order": 17,
+"player": "Nisha"
+},
+{
+"hero_id": 67,
+"team": "dire",
+"order": 22,
+"player": "m1CKe"
+},
+{
+"hero_id": 60,
+"team": "radiant",
+"order": 23,
+"player": "Collapse"
+}
+],
+"answer": {
+"hero_id": 60,
+"team": "radiant"
+}
+},
+{
+"match_id": 7944311818,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Gaimin Gladiators",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 53,
+"team": "dire",
+"order": 7,
+"player": "m1CKe"
+},
+{
+"hero_id": 21,
+"team": "radiant",
+"order": 8,
+"player": "dyrachyo"
+},
+{
+"hero_id": 136,
+"team": "radiant",
+"order": 12,
+"player": "Seleri"
+},
+{
+"hero_id": 92,
+"team": "dire",
+"order": 13,
+"player": "33"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 14,
+"player": "Insania "
+},
+{
+"hero_id": 108,
+"team": "radiant",
+"order": 15,
+"player": "Ace ♠"
+},
+{
+"hero_id": 9,
+"team": "radiant",
+"order": 16,
+"player": "tOfu"
+},
+{
+"hero_id": 13,
+"team": "dire",
+"order": 17,
+"player": "Nisha"
+},
+{
+"hero_id": 119,
+"team": "dire",
+"order": 22,
+"player": "Boxi"
+},
+{
+"hero_id": 120,
+"team": "radiant",
+"order": 23,
+"player": "Quinn"
+}
+],
+"answer": {
+"hero_id": 120,
+"team": "radiant"
+}
+},
+{
+"match_id": 7944174632,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Team Liquid",
+"dire_team": "Gaimin Gladiators",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 89,
+"team": "dire",
+"order": 7,
+"player": "tOfu"
+},
+{
+"hero_id": 53,
+"team": "radiant",
+"order": 8,
+"player": "m1CKe"
+},
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 12,
+"player": "Insania "
+},
+{
+"hero_id": 96,
+"team": "dire",
+"order": 13,
+"player": "Ace ♠"
+},
+{
+"hero_id": 58,
+"team": "dire",
+"order": 14,
+"player": "Seleri"
+},
+{
+"hero_id": 100,
+"team": "radiant",
+"order": 15,
+"player": "Boxi"
+},
+{
+"hero_id": 99,
+"team": "radiant",
+"order": 16,
+"player": "33"
+},
+{
+"hero_id": 13,
+"team": "dire",
+"order": 17,
+"player": "Quinn"
+},
+{
+"hero_id": 49,
+"team": "dire",
+"order": 22,
+"player": "dyrachyo"
+},
+{
+"hero_id": 19,
+"team": "radiant",
+"order": 23,
+"player": "Nisha"
+}
+],
+"answer": {
+"hero_id": 19,
+"team": "radiant"
+}
+},
+{
+"match_id": 7944065089,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Gaimin Gladiators",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 53,
+"team": "dire",
+"order": 7,
+"player": "m1CKe"
+},
+{
+"hero_id": 108,
+"team": "radiant",
+"order": 8,
+"player": "Ace ♠"
+},
+{
+"hero_id": 66,
+"team": "radiant",
+"order": 12,
+"player": "Seleri"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 13,
+"player": "Boxi"
+},
+{
+"hero_id": 92,
+"team": "dire",
+"order": 14,
+"player": "33"
+},
+{
+"hero_id": 81,
+"team": "radiant",
+"order": 15,
+"player": "dyrachyo"
+},
+{
+"hero_id": 65,
+"team": "radiant",
+"order": 16,
+"player": "tOfu"
+},
+{
+"hero_id": 13,
+"team": "dire",
+"order": 17,
+"player": "Nisha"
+},
+{
+"hero_id": 79,
+"team": "dire",
+"order": 22,
+"player": "Insania "
+},
+{
+"hero_id": 32,
+"team": "radiant",
+"order": 23,
+"player": "Quinn"
+}
+],
+"answer": {
+"hero_id": 32,
+"team": "radiant"
+}
+},
+{
+"match_id": 7943810234,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Gaimin Gladiators",
+"dire_team": "Tundra Esports",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 16,
+"team": "dire",
+"order": 7,
+"player": "Topson"
+},
+{
+"hero_id": 108,
+"team": "radiant",
+"order": 8,
+"player": "Ace ♠"
+},
+{
+"hero_id": 58,
+"team": "radiant",
+"order": 12,
+"player": "Seleri"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 13,
+"player": "Saksa"
+},
+{
+"hero_id": 79,
+"team": "dire",
+"order": 14,
+"player": "Whitemon"
+},
+{
+"hero_id": 73,
+"team": "radiant",
+"order": 15,
+"player": "dyrachyo"
+},
+{
+"hero_id": 65,
+"team": "radiant",
+"order": 16,
+"player": "tOfu"
+},
+{
+"hero_id": 69,
+"team": "dire",
+"order": 17,
+"player": "RAMZES666"
+},
+{
+"hero_id": 93,
+"team": "dire",
+"order": 22,
+"player": "Pure"
+},
+{
+"hero_id": 39,
+"team": "radiant",
+"order": 23,
+"player": "Quinn"
+}
+],
+"answer": {
+"hero_id": 39,
+"team": "radiant"
+}
+},
+{
+"match_id": 7943704335,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Tundra Esports",
+"dire_team": "Gaimin Gladiators",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 80,
+"team": "dire",
+"order": 7,
+"player": "dyrachyo"
+},
+{
+"hero_id": 21,
+"team": "radiant",
+"order": 8,
+"player": "Pure"
+},
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 12,
+"player": "Whitemon"
+},
+{
+"hero_id": 136,
+"team": "dire",
+"order": 13,
+"player": "Seleri"
+},
+{
+"hero_id": 9,
+"team": "dire",
+"order": 14,
+"player": "tOfu"
+},
+{
+"hero_id": 129,
+"team": "radiant",
+"order": 15,
+"player": "RAMZES666"
+},
+{
+"hero_id": 128,
+"team": "radiant",
+"order": 16,
+"player": "Saksa"
+},
+{
+"hero_id": 108,
+"team": "dire",
+"order": 17,
+"player": "Ace ♠"
+},
+{
+"hero_id": 120,
+"team": "dire",
+"order": 22,
+"player": "Quinn"
+},
+{
+"hero_id": 65,
+"team": "radiant",
+"order": 23,
+"player": "Topson"
+}
+],
+"answer": {
+"hero_id": 65,
+"team": "radiant"
+}
+},
+{
+"match_id": 7943623713,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Gaimin Gladiators",
+"dire_team": "Tundra Esports",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 16,
+"team": "dire",
+"order": 7,
+"player": "Topson"
+},
+{
+"hero_id": 21,
+"team": "radiant",
+"order": 8,
+"player": "dyrachyo"
+},
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 12,
+"player": "tOfu"
+},
+{
+"hero_id": 58,
+"team": "dire",
+"order": 13,
+"player": "Whitemon"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 14,
+"player": "Saksa"
+},
+{
+"hero_id": 96,
+"team": "radiant",
+"order": 15,
+"player": "Ace ♠"
+},
+{
+"hero_id": 66,
+"team": "radiant",
+"order": 16,
+"player": "Seleri"
+},
+{
+"hero_id": 49,
+"team": "dire",
+"order": 17,
+"player": "Pure"
+},
+{
+"hero_id": 129,
+"team": "dire",
+"order": 22,
+"player": "RAMZES666"
+},
+{
+"hero_id": 47,
+"team": "radiant",
+"order": 23,
+"player": "Quinn"
+}
+],
+"answer": {
+"hero_id": 47,
+"team": "radiant"
+}
+},
+{
+"match_id": 7942767036,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Team Falcons",
+"dire_team": "Tundra Esports",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 35,
+"team": "dire",
+"order": 7,
+"player": "Topson"
+},
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 8,
+"player": "Cr1t-"
+},
+{
+"hero_id": 96,
+"team": "radiant",
+"order": 12,
+"player": "AMMAR_THE_F"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 13,
+"player": "Saksa"
+},
+{
+"hero_id": 58,
+"team": "dire",
+"order": 14,
+"player": "Whitemon"
+},
+{
+"hero_id": 98,
+"team": "radiant",
+"order": 15,
+"player": "Malr1ne"
+},
+{
+"hero_id": 65,
+"team": "radiant",
+"order": 16,
+"player": "Sneyking"
+},
+{
+"hero_id": 69,
+"team": "dire",
+"order": 17,
+"player": "RAMZES666"
+},
+{
+"hero_id": 73,
+"team": "dire",
+"order": 22,
+"player": "Pure"
+},
+{
+"hero_id": 56,
+"team": "radiant",
+"order": 23,
+"player": "skiter"
+}
+],
+"answer": {
+"hero_id": 56,
+"team": "radiant"
+}
+},
+{
+"match_id": 7942638105,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Tundra Esports",
+"dire_team": "Team Falcons",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 49,
+"team": "dire",
+"order": 7,
+"player": "skiter"
+},
+{
+"hero_id": 80,
+"team": "radiant",
+"order": 8,
+"player": "Pure"
+},
+{
+"hero_id": 58,
+"team": "radiant",
+"order": 12,
+"player": "Whitemon"
+},
+{
+"hero_id": 123,
+"team": "dire",
+"order": 13,
+"player": "Cr1t-"
+},
+{
+"hero_id": 99,
+"team": "dire",
+"order": 14,
+"player": "Sneyking"
+},
+{
+"hero_id": 128,
+"team": "radiant",
+"order": 15,
+"player": "Saksa"
+},
+{
+"hero_id": 129,
+"team": "radiant",
+"order": 16,
+"player": "RAMZES666"
+},
+{
+"hero_id": 108,
+"team": "dire",
+"order": 17,
+"player": "AMMAR_THE_F"
+},
+{
+"hero_id": 114,
+"team": "dire",
+"order": 22,
+"player": "Malr1ne"
+},
+{
+"hero_id": 47,
+"team": "radiant",
+"order": 23,
+"player": "Topson"
+}
+],
+"answer": {
+"hero_id": 47,
+"team": "radiant"
+}
+},
+{
+"match_id": 7942490677,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Gaimin Gladiators",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 21,
+"team": "dire",
+"order": 7,
+"player": "m1CKe"
+},
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 8,
+"player": "Seleri"
+},
+{
+"hero_id": 49,
+"team": "radiant",
+"order": 12,
+"player": "Quinn"
+},
+{
+"hero_id": 92,
+"team": "dire",
+"order": 13,
+"player": "33"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 14,
+"player": "Boxi"
+},
+{
+"hero_id": 9,
+"team": "radiant",
+"order": 15,
+"player": "tOfu"
+},
+{
+"hero_id": 137,
+"team": "radiant",
+"order": 16,
+"player": "Ace ♠"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 17,
+"player": "Insania "
+},
+{
+"hero_id": 13,
+"team": "dire",
+"order": 22,
+"player": "Nisha"
+},
+{
+"hero_id": 138,
+"team": "radiant",
+"order": 23,
+"player": "dyrachyo"
+}
+],
+"answer": {
+"hero_id": 138,
+"team": "radiant"
+}
+},
+{
+"match_id": 7942358571,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Team Liquid",
+"dire_team": "Gaimin Gladiators",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 69,
+"team": "radiant",
+"order": 7,
+"player": "33"
+},
+{
+"hero_id": 9,
+"team": "dire",
+"order": 8,
+"player": "tOfu"
+},
+{
+"hero_id": 56,
+"team": "dire",
+"order": 12,
+"player": "dyrachyo"
+},
+{
+"hero_id": 119,
+"team": "radiant",
+"order": 13,
+"player": "Boxi"
+},
+{
+"hero_id": 83,
+"team": "radiant",
+"order": 14,
+"player": "Insania "
+},
+{
+"hero_id": 66,
+"team": "dire",
+"order": 15,
+"player": "Seleri"
+},
+{
+"hero_id": 108,
+"team": "dire",
+"order": 16,
+"player": "Ace ♠"
+},
+{
+"hero_id": 21,
+"team": "radiant",
+"order": 17,
+"player": "m1CKe"
+},
+{
+"hero_id": 39,
+"team": "radiant",
+"order": 22,
+"player": "Nisha"
+},
+{
+"hero_id": 49,
+"team": "dire",
+"order": 23,
+"player": "Quinn"
+}
+],
+"answer": {
+"hero_id": 49,
+"team": "dire"
+}
+},
+{
+"match_id": 7942208056,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Xtreme Gaming",
+"dire_team": "Tundra Esports",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 16,
+"team": "dire",
+"order": 7,
+"player": "RAMZES666"
+},
+{
+"hero_id": 114,
+"team": "radiant",
+"order": 8,
+"player": "Ame"
+},
+{
+"hero_id": 64,
+"team": "radiant",
+"order": 12,
+"player": "Dy"
+},
+{
+"hero_id": 58,
+"team": "dire",
+"order": 13,
+"player": "Saksa"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 14,
+"player": "Whitemon"
+},
+{
+"hero_id": 88,
+"team": "radiant",
+"order": 15,
+"player": "XinQ"
+},
+{
+"hero_id": 108,
+"team": "radiant",
+"order": 16,
+"player": "Xxs"
+},
+{
+"hero_id": 80,
+"team": "dire",
+"order": 17,
+"player": "Pure"
+},
+{
+"hero_id": 86,
+"team": "dire",
+"order": 22,
+"player": "Topson"
+},
+{
+"hero_id": 47,
+"team": "radiant",
+"order": 23,
+"player": "Xm"
+}
+],
+"answer": {
+"hero_id": 47,
+"team": "radiant"
+}
+},
+{
+"match_id": 7942136774,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Tundra Esports",
+"dire_team": "Xtreme Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 100,
+"team": "dire",
+"order": 7,
+"player": "XinQ"
+},
+{
+"hero_id": 35,
+"team": "radiant",
+"order": 8,
+"player": "Topson"
+},
+{
+"hero_id": 129,
+"team": "radiant",
+"order": 12,
+"player": "RAMZES666"
+},
+{
+"hero_id": 11,
+"team": "dire",
+"order": 13,
+"player": "Xm"
+},
+{
+"hero_id": 64,
+"team": "dire",
+"order": 14,
+"player": "Dy"
+},
+{
+"hero_id": 51,
+"team": "radiant",
+"order": 15,
+"player": "Whitemon"
+},
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 16,
+"player": "Saksa"
+},
+{
+"hero_id": 41,
+"team": "dire",
+"order": 17,
+"player": "Ame"
+},
+{
+"hero_id": 77,
+"team": "dire",
+"order": 22,
+"player": "Xxs"
+},
+{
+"hero_id": 80,
+"team": "radiant",
+"order": 23,
+"player": "Pure"
+}
+],
+"answer": {
+"hero_id": 80,
+"team": "radiant"
+}
+},
+{
+"match_id": 7942030630,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Team Falcons",
+"dire_team": "Cloud9",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 16,
+"team": "dire",
+"order": 7,
+"player": "DM"
+},
+{
+"hero_id": 49,
+"team": "radiant",
+"order": 8,
+"player": "skiter"
+},
+{
+"hero_id": 128,
+"team": "radiant",
+"order": 12,
+"player": "Cr1t-"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 13,
+"player": "Fishman"
+},
+{
+"hero_id": 112,
+"team": "dire",
+"order": 14,
+"player": "Kataomi`"
+},
+{
+"hero_id": 129,
+"team": "radiant",
+"order": 15,
+"player": "AMMAR_THE_F"
+},
+{
+"hero_id": 58,
+"team": "radiant",
+"order": 16,
+"player": "Sneyking"
+},
+{
+"hero_id": 48,
+"team": "dire",
+"order": 17,
+"player": "医者watson`"
+},
+{
+"hero_id": 107,
+"team": "dire",
+"order": 22,
+"player": "No[o]ne-"
+},
+{
+"hero_id": 98,
+"team": "radiant",
+"order": 23,
+"player": "Malr1ne"
+}
+],
+"answer": {
+"hero_id": 98,
+"team": "radiant"
+}
+},
+{
+"match_id": 7941965902,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Cloud9",
+"dire_team": "Team Falcons",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 9,
+"team": "dire",
+"order": 7,
+"player": "Sneyking"
+},
+{
+"hero_id": 53,
+"team": "radiant",
+"order": 8,
+"player": "No[o]ne-"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 12,
+"player": "DM"
+},
+{
+"hero_id": 49,
+"team": "dire",
+"order": 13,
+"player": "skiter"
+},
+{
+"hero_id": 123,
+"team": "dire",
+"order": 14,
+"player": "Cr1t-"
+},
+{
+"hero_id": 86,
+"team": "radiant",
+"order": 15,
+"player": "Kataomi`"
+},
+{
+"hero_id": 3,
+"team": "radiant",
+"order": 16,
+"player": "Fishman"
+},
+{
+"hero_id": 114,
+"team": "dire",
+"order": 17,
+"player": "Malr1ne"
+},
+{
+"hero_id": 61,
+"team": "dire",
+"order": 22,
+"player": "AMMAR_THE_F"
+},
+{
+"hero_id": 109,
+"team": "radiant",
+"order": 23,
+"player": "医者watson`"
+}
+],
+"answer": {
+"hero_id": 109,
+"team": "radiant"
+}
+},
+{
+"match_id": 7941236956,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Tundra Esports",
+"dire_team": "Gaimin Gladiators",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 7,
+"player": "Saksa"
+},
+{
+"hero_id": 16,
+"team": "dire",
+"order": 8,
+"player": "Quinn"
+},
+{
+"hero_id": 33,
+"team": "dire",
+"order": 12,
+"player": "Seleri"
+},
+{
+"hero_id": 100,
+"team": "radiant",
+"order": 13,
+"player": "Whitemon"
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 14,
+"player": "RAMZES666"
+},
+{
+"hero_id": 73,
+"team": "dire",
+"order": 15,
+"player": "dyrachyo"
+},
+{
+"hero_id": 128,
+"team": "dire",
+"order": 16,
+"player": "tOfu"
+},
+{
+"hero_id": 13,
+"team": "radiant",
+"order": 17,
+"player": "Topson"
+},
+{
+"hero_id": 6,
+"team": "radiant",
+"order": 22,
+"player": "Pure"
+},
+{
+"hero_id": 108,
+"team": "dire",
+"order": 23,
+"player": "Ace ♠"
+}
+],
+"answer": {
+"hero_id": 108,
+"team": "dire"
+}
+},
+{
+"match_id": 7941137970,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Gaimin Gladiators",
+"dire_team": "Tundra Esports",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 9,
+"team": "radiant",
+"order": 7,
+"player": "tOfu"
+},
+{
+"hero_id": 129,
+"team": "dire",
+"order": 8,
+"player": "RAMZES666"
+},
+{
+"hero_id": 58,
+"team": "dire",
+"order": 12,
+"player": "Saksa"
+},
+{
+"hero_id": 80,
+"team": "radiant",
+"order": 13,
+"player": "dyrachyo"
+},
+{
+"hero_id": 66,
+"team": "radiant",
+"order": 14,
+"player": "Seleri"
+},
+{
+"hero_id": 48,
+"team": "dire",
+"order": 15,
+"player": "Pure"
+},
+{
+"hero_id": 103,
+"team": "dire",
+"order": 16,
+"player": "Whitemon"
+},
+{
+"hero_id": 61,
+"team": "radiant",
+"order": 17,
+"player": "Ace ♠"
+},
+{
+"hero_id": 17,
+"team": "radiant",
+"order": 22,
+"player": "Quinn"
+},
+{
+"hero_id": 73,
+"team": "dire",
+"order": 23,
+"player": "Topson"
+}
+],
+"answer": {
+"hero_id": 73,
+"team": "dire"
+}
+},
+{
+"match_id": 7940981142,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Cloud9",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 89,
+"team": "dire",
+"order": 7,
+"player": "Insania "
+},
+{
+"hero_id": 23,
+"team": "radiant",
+"order": 8,
+"player": "DM"
+},
+{
+"hero_id": 51,
+"team": "radiant",
+"order": 12,
+"player": "Fishman"
+},
+{
+"hero_id": 100,
+"team": "dire",
+"order": 13,
+"player": "Boxi"
+},
+{
+"hero_id": 69,
+"team": "dire",
+"order": 14,
+"player": "33"
+},
+{
+"hero_id": 112,
+"team": "radiant",
+"order": 15,
+"player": "Kataomi`"
+},
+{
+"hero_id": 25,
+"team": "radiant",
+"order": 16,
+"player": "医者watson`"
+},
+{
+"hero_id": 13,
+"team": "dire",
+"order": 17,
+"player": "Nisha"
+},
+{
+"hero_id": 15,
+"team": "dire",
+"order": 22,
+"player": "m1CKe"
+},
+{
+"hero_id": 35,
+"team": "radiant",
+"order": 23,
+"player": "No[o]ne-"
+}
+],
+"answer": {
+"hero_id": 35,
+"team": "radiant"
+}
+},
+{
+"match_id": 7940884177,
+"year": 2024,
+"league": "The International 2024",
+"radiant_team": "Cloud9",
+"dire_team": "Team Liquid",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 16,
+"team": "dire",
+"order": 7,
+"player": "33"
+},
+{
+"hero_id": 114,
+"team": "radiant",
+"order": 8,
+"player": "医者watson`"
+},
+{
+"hero_id": 9,
+"team": "radiant",
+"order": 12,
+"player": "Kataomi`"
+},
+{
+"hero_id": 79,
+"team": "dire",
+"order": 13,
+"player": "Boxi"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 14,
+"player": "Insania "
+},
+{
+"hero_id": 3,
+"team": "radiant",
+"order": 15,
+"player": "Fishman"
+},
+{
+"hero_id": 108,
+"team": "radiant",
+"order": 16,
+"player": "DM"
+},
+{
+"hero_id": 21,
+"team": "dire",
+"order": 17,
+"player": "m1CKe"
+},
+{
+"hero_id": 35,
+"team": "dire",
+"order": 22,
+"player": "Nisha"
+},
+{
+"hero_id": 22,
+"team": "radiant",
+"order": 23,
+"player": "No[o]ne-"
+}
+],
+"answer": {
+"hero_id": 22,
+"team": "radiant"
+}
+},
+{
+"match_id": 8461956309,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "Xtreme Gaming",
+"dire_team": "Team Falcons",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 89,
+"team": "dire",
+"order": 7,
+"player": "Sneyking"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 8,
+"player": "Xxs"
+},
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 12,
+"player": "XinQ"
+},
+{
+"hero_id": 120,
+"team": "dire",
+"order": 13,
+"player": "Malr1ne"
+},
+{
+"hero_id": 87,
+"team": "dire",
+"order": 14,
+"player": "Cr1t-"
+},
+{
+"hero_id": 11,
+"team": "radiant",
+"order": 15,
+"player": "Xm"
+},
+{
+"hero_id": 45,
+"team": "radiant",
+"order": 16,
+"player": "xNova"
+},
+{
+"hero_id": 94,
+"team": "dire",
+"order": 17,
+"player": "skiter"
+},
+{
+"hero_id": 97,
+"team": "dire",
+"order": 22,
+"player": "AMMAR_THE_F"
+},
+{
+"hero_id": 8,
+"team": "radiant",
+"order": 23,
+"player": "Ame"
+}
+],
+"answer": {
+"hero_id": 8,
+"team": "radiant"
+}
+},
+{
+"match_id": 8461854486,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "Team Falcons",
+"dire_team": "Xtreme Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 79,
+"team": "dire",
+"order": 7,
+"player": "XinQ"
+},
+{
+"hero_id": 16,
+"team": "radiant",
+"order": 8,
+"player": "Malr1ne"
+},
+{
+"hero_id": 123,
+"team": "radiant",
+"order": 12,
+"player": "Cr1t-"
+},
+{
+"hero_id": 52,
+"team": "dire",
+"order": 13,
+"player": "Xm"
+},
+{
+"hero_id": 103,
+"team": "dire",
+"order": 14,
+"player": "xNova"
+},
+{
+"hero_id": 72,
+"team": "radiant",
+"order": 15,
+"player": "skiter"
+},
+{
+"hero_id": 100,
+"team": "radiant",
+"order": 16,
+"player": "Sneyking"
+},
+{
+"hero_id": 18,
+"team": "dire",
+"order": 17,
+"player": "Ame"
+},
+{
+"hero_id": 97,
+"team": "dire",
+"order": 22,
+"player": "Xxs"
+},
+{
+"hero_id": 70,
+"team": "radiant",
+"order": 23,
+"player": "AMMAR_THE_F"
+}
+],
+"answer": {
+"hero_id": 70,
+"team": "radiant"
+}
+},
+{
+"match_id": 8461735141,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "Xtreme Gaming",
+"dire_team": "Team Falcons",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 79,
+"team": "radiant",
+"order": 7,
+"player": "XinQ"
+},
+{
+"hero_id": 120,
+"team": "dire",
+"order": 8,
+"player": "AMMAR_THE_F"
+},
+{
+"hero_id": 45,
+"team": "dire",
+"order": 12,
+"player": "Sneyking"
+},
+{
+"hero_id": 3,
+"team": "radiant",
+"order": 13,
+"player": "xNova"
+},
+{
+"hero_id": 11,
+"team": "radiant",
+"order": 14,
+"player": "Xm"
+},
+{
+"hero_id": 38,
+"team": "dire",
+"order": 15,
+"player": "Malr1ne"
+},
+{
+"hero_id": 131,
+"team": "dire",
+"order": 16,
+"player": "Cr1t-"
+},
+{
+"hero_id": 28,
+"team": "radiant",
+"order": 17,
+"player": "Xxs"
+},
+{
+"hero_id": 18,
+"team": "radiant",
+"order": 22,
+"player": "Ame"
+},
+{
+"hero_id": 72,
+"team": "dire",
+"order": 23,
+"player": "skiter"
+}
+],
+"answer": {
+"hero_id": 72,
+"team": "dire"
+}
+},
+{
+"match_id": 8461613337,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "Team Falcons",
+"dire_team": "Xtreme Gaming",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 38,
+"team": "dire",
+"order": 7,
+"player": "Xxs"
+},
+{
+"hero_id": 58,
+"team": "radiant",
+"order": 8,
+"player": "Sneyking"
+},
+{
+"hero_id": 99,
+"team": "radiant",
+"order": 12,
+"player": "AMMAR_THE_F"
+},
+{
+"hero_id": 123,
+"team": "dire",
+"order": 13,
+"player": "XinQ"
+},
+{
+"hero_id": 103,
+"team": "dire",
+"order": 14,
+"player": "xNova"
+},
+{
+"hero_id": 137,
+"team": "radiant",
+"order": 15,
+"player": "Malr1ne"
+},
+{
+"hero_id": 131,
+"team": "radiant",
+"order": 16,
+"player": "Cr1t-"
+},
+{
+"hero_id": 13,
+"team": "dire",
+"order": 17,
+"player": "Xm"
+},
+{
+"hero_id": 56,
+"team": "dire",
+"order": 22,
+"player": "Ame"
+},
+{
+"hero_id": 102,
+"team": "radiant",
+"order": 23,
+"player": "skiter"
+}
+],
+"answer": {
+"hero_id": 102,
+"team": "radiant"
+}
+},
+{
+"match_id": 8461476910,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "Xtreme Gaming",
+"dire_team": "Team Falcons",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 129,
+"team": "radiant",
+"order": 7,
+"player": "Xxs"
+},
+{
+"hero_id": 120,
+"team": "dire",
+"order": 8,
+"player": "AMMAR_THE_F"
+},
+{
+"hero_id": 128,
+"team": "dire",
+"order": 12,
+"player": "Cr1t-"
+},
+{
+"hero_id": 123,
+"team": "radiant",
+"order": 13,
+"player": "XinQ"
+},
+{
+"hero_id": 103,
+"team": "radiant",
+"order": 14,
+"player": "xNova"
+},
+{
+"hero_id": 58,
+"team": "dire",
+"order": 15,
+"player": "Sneyking"
+},
+{
+"hero_id": 18,
+"team": "dire",
+"order": 16,
+"player": "skiter"
+},
+{
+"hero_id": 70,
+"team": "radiant",
+"order": 17,
+"player": "Ame"
+},
+{
+"hero_id": 39,
+"team": "radiant",
+"order": 22,
+"player": "Xm"
+},
+{
+"hero_id": 106,
+"team": "dire",
+"order": 23,
+"player": "Malr1ne"
+}
+],
+"answer": {
+"hero_id": 106,
+"team": "dire"
+}
+},
+{
+"match_id": 8461254706,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "Xtreme Gaming",
+"dire_team": "PVISION",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 38,
+"team": "dire",
+"order": 7,
+"player": "No[o]ne-"
+},
+{
+"hero_id": 96,
+"team": "radiant",
+"order": 8,
+"player": "Xxs"
+},
+{
+"hero_id": 128,
+"team": "radiant",
+"order": 12,
+"player": "XinQ"
+},
+{
+"hero_id": 66,
+"team": "dire",
+"order": 13,
+"player": "Dukalis"
+},
+{
+"hero_id": 123,
+"team": "dire",
+"order": 14,
+"player": "9Class"
+},
+{
+"hero_id": 13,
+"team": "radiant",
+"order": 15,
+"player": "Xm"
+},
+{
+"hero_id": 37,
+"team": "radiant",
+"order": 16,
+"player": "xNova"
+},
+{
+"hero_id": 46,
+"team": "dire",
+"order": 17,
+"player": "Satanic"
+},
+{
+"hero_id": 99,
+"team": "dire",
+"order": 22,
+"player": "DM"
+},
+{
+"hero_id": 94,
+"team": "radiant",
+"order": 23,
+"player": "Ame"
+}
+],
+"answer": {
+"hero_id": 94,
+"team": "radiant"
+}
+},
+{
+"match_id": 8461153370,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "Xtreme Gaming",
+"dire_team": "PVISION",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 38,
+"team": "dire",
+"order": 7,
+"player": "DM"
+},
+{
+"hero_id": 128,
+"team": "radiant",
+"order": 8,
+"player": "XinQ"
+},
+{
+"hero_id": 96,
+"team": "radiant",
+"order": 12,
+"player": "Xxs"
+},
+{
+"hero_id": 111,
+"team": "dire",
+"order": 13,
+"player": "Dukalis"
+},
+{
+"hero_id": 73,
+"team": "dire",
+"order": 14,
+"player": "9Class"
+},
+{
+"hero_id": 35,
+"team": "radiant",
+"order": 15,
+"player": "Xm"
+},
+{
+"hero_id": 3,
+"team": "radiant",
+"order": 16,
+"player": "xNova"
+},
+{
+"hero_id": 17,
+"team": "dire",
+"order": 17,
+"player": "No[o]ne-"
+},
+{
+"hero_id": 1,
+"team": "dire",
+"order": 22,
+"player": "Satanic"
+},
+{
+"hero_id": 109,
+"team": "radiant",
+"order": 23,
+"player": "Ame"
+}
+],
+"answer": {
+"hero_id": 109,
+"team": "radiant"
+}
+},
+{
+"match_id": 8461076257,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "Xtreme Gaming",
+"dire_team": "PVISION",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 11,
+"team": "radiant",
+"order": 7,
+"player": "Xm"
+},
+{
+"hero_id": 74,
+"team": "dire",
+"order": 8,
+"player": "No[o]ne-"
+},
+{
+"hero_id": 103,
+"team": "dire",
+"order": 12,
+"player": "Dukalis"
+},
+{
+"hero_id": 37,
+"team": "radiant",
+"order": 13,
+"player": "xNova"
+},
+{
+"hero_id": 88,
+"team": "radiant",
+"order": 14,
+"player": "XinQ"
+},
+{
+"hero_id": 33,
+"team": "dire",
+"order": 15,
+"player": "DM"
+},
+{
+"hero_id": 126,
+"team": "dire",
+"order": 16,
+"player": "9Class"
+},
+{
+"hero_id": 135,
+"team": "radiant",
+"order": 17,
+"player": "Xxs"
+},
+{
+"hero_id": 12,
+"team": "radiant",
+"order": 22,
+"player": "Ame"
+},
+{
+"hero_id": 54,
+"team": "dire",
+"order": 23,
+"player": "Satanic"
+}
+],
+"answer": {
+"hero_id": 54,
+"team": "dire"
+}
+},
+{
+"match_id": 8460471023,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "Xtreme Gaming",
+"dire_team": "BB Team",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 114,
+"team": "dire",
+"order": 7,
+"player": "gpk~"
+},
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 8,
+"player": "Xm"
+},
+{
+"hero_id": 103,
+"team": "radiant",
+"order": 12,
+"player": "xNova"
+},
+{
+"hero_id": 87,
+"team": "dire",
+"order": 13,
+"player": "Kataomi`"
+},
+{
+"hero_id": 123,
+"team": "dire",
+"order": 14,
+"player": "Save-"
+},
+{
+"hero_id": 19,
+"team": "radiant",
+"order": 15,
+"player": "XinQ"
+},
+{
+"hero_id": 65,
+"team": "radiant",
+"order": 16,
+"player": "Xxs"
+},
+{
+"hero_id": 96,
+"team": "dire",
+"order": 17,
+"player": "MieRo"
+},
+{
+"hero_id": 41,
+"team": "dire",
+"order": 22,
+"player": "Pure"
+},
+{
+"hero_id": 18,
+"team": "radiant",
+"order": 23,
+"player": "Ame"
+}
+],
+"answer": {
+"hero_id": 18,
+"team": "radiant"
+}
+},
+{
+"match_id": 8460339590,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "Xtreme Gaming",
+"dire_team": "BB Team",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 7,
+"player": "Xxs"
+},
+{
+"hero_id": 46,
+"team": "dire",
+"order": 8,
+"player": "Pure"
+},
+{
+"hero_id": 123,
+"team": "dire",
+"order": 12,
+"player": "Save-"
+},
+{
+"hero_id": 3,
+"team": "radiant",
+"order": 13,
+"player": "xNova"
+},
+{
+"hero_id": 128,
+"team": "radiant",
+"order": 14,
+"player": "XinQ"
+},
+{
+"hero_id": 17,
+"team": "dire",
+"order": 15,
+"player": "gpk~"
+},
+{
+"hero_id": 111,
+"team": "dire",
+"order": 16,
+"player": "Kataomi`"
+},
+{
+"hero_id": 1,
+"team": "radiant",
+"order": 17,
+"player": "Ame"
+},
+{
+"hero_id": 43,
+"team": "radiant",
+"order": 22,
+"player": "Xm"
+},
+{
+"hero_id": 16,
+"team": "dire",
+"order": 23,
+"player": "MieRo"
+}
+],
+"answer": {
+"hero_id": 16,
+"team": "dire"
+}
+},
+{
+"match_id": 8460164236,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "PVISION",
+"dire_team": "Team Falcons",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 16,
+"team": "dire",
+"order": 7,
+"player": "Malr1ne"
+},
+{
+"hero_id": 111,
+"team": "radiant",
+"order": 8,
+"player": "Dukalis"
+},
+{
+"hero_id": 51,
+"team": "radiant",
+"order": 12,
+"player": "9Class"
+},
+{
+"hero_id": 128,
+"team": "dire",
+"order": 13,
+"player": "Cr1t-"
+},
+{
+"hero_id": 58,
+"team": "dire",
+"order": 14,
+"player": "Sneyking"
+},
+{
+"hero_id": 110,
+"team": "radiant",
+"order": 15,
+"player": "DM"
+},
+{
+"hero_id": 17,
+"team": "radiant",
+"order": 16,
+"player": "No[o]ne-"
+},
+{
+"hero_id": 120,
+"team": "dire",
+"order": 17,
+"player": "AMMAR_THE_F"
+},
+{
+"hero_id": 72,
+"team": "dire",
+"order": 22,
+"player": "skiter"
+},
+{
+"hero_id": 8,
+"team": "radiant",
+"order": 23,
+"player": "Satanic"
+}
+],
+"answer": {
+"hero_id": 8,
+"team": "radiant"
+}
+},
+{
+"match_id": 8460035179,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "PVISION",
+"dire_team": "Team Falcons",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 38,
+"team": "radiant",
+"order": 7,
+"player": "No[o]ne-"
+},
+{
+"hero_id": 120,
+"team": "dire",
+"order": 8,
+"player": "Malr1ne"
+},
+{
+"hero_id": 66,
+"team": "dire",
+"order": 12,
+"player": "Sneyking"
+},
+{
+"hero_id": 96,
+"team": "radiant",
+"order": 13,
+"player": "9Class"
+},
+{
+"hero_id": 128,
+"team": "radiant",
+"order": 14,
+"player": "Dukalis"
+},
+{
+"hero_id": 49,
+"team": "dire",
+"order": 15,
+"player": "skiter"
+},
+{
+"hero_id": 123,
+"team": "dire",
+"order": 16,
+"player": "Cr1t-"
+},
+{
+"hero_id": 33,
+"team": "radiant",
+"order": 17,
+"player": "DM"
+},
+{
+"hero_id": 109,
+"team": "radiant",
+"order": 22,
+"player": "Satanic"
+},
+{
+"hero_id": 108,
+"team": "dire",
+"order": 23,
+"player": "AMMAR_THE_F"
+}
+],
+"answer": {
+"hero_id": 108,
+"team": "dire"
+}
+},
+{
+"match_id": 8459915275,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "Team Falcons",
+"dire_team": "PVISION",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 114,
+"team": "dire",
+"order": 7,
+"player": "9Class"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 8,
+"player": "Malr1ne"
+},
+{
+"hero_id": 128,
+"team": "radiant",
+"order": 12,
+"player": "Cr1t-"
+},
+{
+"hero_id": 39,
+"team": "dire",
+"order": 13,
+"player": "No[o]ne-"
+},
+{
+"hero_id": 111,
+"team": "dire",
+"order": 14,
+"player": "Dukalis"
+},
+{
+"hero_id": 66,
+"team": "radiant",
+"order": 15,
+"player": "Sneyking"
+},
+{
+"hero_id": 69,
+"team": "radiant",
+"order": 16,
+"player": "AMMAR_THE_F"
+},
+{
+"hero_id": 33,
+"team": "dire",
+"order": 17,
+"player": "DM"
+},
+{
+"hero_id": 1,
+"team": "dire",
+"order": 22,
+"player": "Satanic"
+},
+{
+"hero_id": 95,
+"team": "radiant",
+"order": 23,
+"player": "skiter"
+}
+],
+"answer": {
+"hero_id": 95,
+"team": "radiant"
+}
+},
+{
+"match_id": 8459739606,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "HEROIC",
+"dire_team": "BB Team",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 39,
+"team": "dire",
+"order": 7,
+"player": "gpk~"
+},
+{
+"hero_id": 46,
+"team": "radiant",
+"order": 8,
+"player": "Yuma"
+},
+{
+"hero_id": 3,
+"team": "radiant",
+"order": 12,
+"player": "Scofield"
+},
+{
+"hero_id": 87,
+"team": "dire",
+"order": 13,
+"player": "Kataomi`"
+},
+{
+"hero_id": 123,
+"team": "dire",
+"order": 14,
+"player": "Save-"
+},
+{
+"hero_id": 33,
+"team": "radiant",
+"order": 15,
+"player": "KingJungles"
+},
+{
+"hero_id": 135,
+"team": "radiant",
+"order": 16,
+"player": "Wisper"
+},
+{
+"hero_id": 72,
+"team": "dire",
+"order": 17,
+"player": "Pure"
+},
+{
+"hero_id": 16,
+"team": "dire",
+"order": 22,
+"player": "MieRo"
+},
+{
+"hero_id": 49,
+"team": "radiant",
+"order": 23,
+"player": "4nalog丶01"
+}
+],
+"answer": {
+"hero_id": 49,
+"team": "radiant"
+}
+},
+{
+"match_id": 8459601896,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "HEROIC",
+"dire_team": "BB Team",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 53,
+"team": "dire",
+"order": 7,
+"player": "Pure"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 8,
+"player": "Wisper"
+},
+{
+"hero_id": 51,
+"team": "radiant",
+"order": 12,
+"player": "Scofield"
+},
+{
+"hero_id": 98,
+"team": "dire",
+"order": 13,
+"player": "gpk~"
+},
+{
+"hero_id": 3,
+"team": "dire",
+"order": 14,
+"player": "Kataomi`"
+},
+{
+"hero_id": 46,
+"team": "radiant",
+"order": 15,
+"player": "Yuma"
+},
+{
+"hero_id": 75,
+"team": "radiant",
+"order": 16,
+"player": "KingJungles"
+},
+{
+"hero_id": 55,
+"team": "dire",
+"order": 17,
+"player": "MieRo"
+},
+{
+"hero_id": 119,
+"team": "dire",
+"order": 22,
+"player": "Save-"
+},
+{
+"hero_id": 52,
+"team": "radiant",
+"order": 23,
+"player": "4nalog丶01"
+}
+],
+"answer": {
+"hero_id": 52,
+"team": "radiant"
+}
+},
+{
+"match_id": 8459506710,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "HEROIC",
+"dire_team": "BB Team",
+"radiant_win": false,
+"picks": [
+{
+"hero_id": 136,
+"team": "radiant",
+"order": 7,
+"player": "Yuma"
+},
+{
+"hero_id": 77,
+"team": "dire",
+"order": 8,
+"player": "MieRo"
+},
+{
+"hero_id": 123,
+"team": "dire",
+"order": 12,
+"player": "Save-"
+},
+{
+"hero_id": 66,
+"team": "radiant",
+"order": 13,
+"player": "KingJungles"
+},
+{
+"hero_id": 39,
+"team": "radiant",
+"order": 14,
+"player": "Scofield"
+},
+{
+"hero_id": 126,
+"team": "dire",
+"order": 15,
+"player": "gpk~"
+},
+{
+"hero_id": 87,
+"team": "dire",
+"order": 16,
+"player": "Kataomi`"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 17,
+"player": "4nalog丶01"
+},
+{
+"hero_id": 99,
+"team": "radiant",
+"order": 22,
+"player": "Wisper"
+},
+{
+"hero_id": 1,
+"team": "dire",
+"order": 23,
+"player": "Pure"
+}
+],
+"answer": {
+"hero_id": 1,
+"team": "dire"
+}
+},
+{
+"match_id": 8459402480,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "Xtreme Gaming",
+"dire_team": "Nigma Galaxy",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 38,
+"team": "dire",
+"order": 7,
+"player": "No!ob™"
+},
+{
+"hero_id": 7,
+"team": "radiant",
+"order": 8,
+"player": "Xxs"
+},
+{
+"hero_id": 37,
+"team": "radiant",
+"order": 12,
+"player": "xNova"
+},
+{
+"hero_id": 110,
+"team": "dire",
+"order": 13,
+"player": "GH"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 14,
+"player": "OmaR"
+},
+{
+"hero_id": 13,
+"team": "radiant",
+"order": 15,
+"player": "Xm"
+},
+{
+"hero_id": 128,
+"team": "radiant",
+"order": 16,
+"player": "XinQ"
+},
+{
+"hero_id": 94,
+"team": "dire",
+"order": 17,
+"player": "Ghost"
+},
+{
+"hero_id": 11,
+"team": "dire",
+"order": 22,
+"player": "SumaiL-"
+},
+{
+"hero_id": 70,
+"team": "radiant",
+"order": 23,
+"player": "Ame"
+}
+],
+"answer": {
+"hero_id": 70,
+"team": "radiant"
+}
+},
+{
+"match_id": 8459315753,
+"year": 2025,
+"league": "The International 2025",
+"radiant_team": "Xtreme Gaming",
+"dire_team": "Nigma Galaxy",
+"radiant_win": true,
+"picks": [
+{
+"hero_id": 129,
+"team": "radiant",
+"order": 7,
+"player": "Xxs"
+},
+{
+"hero_id": 74,
+"team": "dire",
+"order": 8,
+"player": "SumaiL-"
+},
+{
+"hero_id": 51,
+"team": "dire",
+"order": 12,
+"player": "OmaR"
+},
+{
+"hero_id": 128,
+"team": "radiant",
+"order": 13,
+"player": "XinQ"
+},
+{
+"hero_id": 103,
+"team": "radiant",
+"order": 14,
+"player": "xNova"
+},
+{
+"hero_id": 95,
+"team": "dire",
+"order": 15,
+"player": "Ghost"
+},
+{
+"hero_id": 45,
+"team": "dire",
+"order": 16,
+"player": "GH"
+},
+{
+"hero_id": 35,
+"team": "radiant",
+"order": 17,
+"player": "Xm"
+},
+{
+"hero_id": 81,
+"team": "radiant",
+"order": 22,
+"player": "Ame"
+},
+{
+"hero_id": 108,
+"team": "dire",
+"order": 23,
+"player": "No!ob™"
+}
+],
+"answer": {
+"hero_id": 108,
+"team": "dire"
+}
+}
+]

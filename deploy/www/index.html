@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Guess the Last Pick · Dota 2</title>
+  <link rel="stylesheet" href="style.css?v=20260629a">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand-wrap">
+      <div class="brand">GUESS THE <span>LAST PICK</span></div>
+      <div class="brand-tag" data-i18n="tag"></div>
+    </div>
+
+    <nav class="modes" id="modeNav">
+      <button class="mode-btn active" data-mode="casual" data-i18n="nav.casual"></button>
+      <button class="mode-btn" data-mode="ranked" data-i18n="nav.ranked"></button>
+      <button class="mode-btn" data-mode="builds" data-i18n="nav.builds"></button>
+      <button class="mode-btn" data-mode="vsai" data-i18n="nav.vsai"></button>
+      <button class="mode-btn" data-mode="mp" data-i18n="nav.mp"></button>
+      <button class="mode-btn" data-mode="lb" data-i18n="nav.lb"></button>
+    </nav>
+
+    <div class="topright">
+      <div class="lang" id="langToggle">
+        <button data-lang="ru">RU</button><button data-lang="en">EN</button>
+      </div>
+      <div class="auth" id="authWidget"></div>
+    </div>
+  </header>
+
+  <!-- ============================ CASUAL ============================ -->
+  <main id="view-casual" class="view game">
+    <section class="subcontrols">
+      <label class="filter" data-i18n="filter.patch"></label>
+      <select id="patchFilter"></select>
+      <label class="filter" data-i18n="filter.tour"></label>
+      <select id="tourFilter"></select>
+      <button id="newGameBtn" class="btn btn-primary" data-i18n="btn.newgame"></button>
+    </section>
+
+    <section class="matchinfo">
+      <div id="tournament" class="tournament">—</div>
+      <div id="seriesMeta" class="series-meta"></div>
+    </section>
+
+    <section class="hints">
+      <button id="hint1Btn" class="btn btn-hint" data-i18n="hint1"></button>
+      <button id="hint2Btn" class="btn btn-hint" data-i18n="hint2"></button>
+      <div id="result" class="result"></div>
+    </section>
+
+    <div class="board-slot" id="slot-casual"></div>
+
+    <section id="outcome" class="outcome hidden">
+      <span id="outcomeWinner" class="outcome-winner"></span>
+      <span id="outcomeScore" class="outcome-score"></span>
+      <span id="outcomeDuration" class="outcome-duration"></span>
+      <a id="dotabuffLink" class="btn btn-dotabuff" target="_blank" rel="noopener" data-i18n="outcome.dotabuff"></a>
+    </section>
+
+    <div class="reason-slot" id="reason-slot-casual"></div>
+  </main>
+
+  <!-- ============================ RANKED ============================ -->
+  <section id="view-ranked" class="view game hidden">
+    <div id="rankedGate" class="gate hidden">
+      <p data-i18n="auth.needLogin"></p>
+      <button class="btn btn-primary" data-i18n="auth.login" onclick="openAuth()"></button>
+    </div>
+
+    <div id="rankedIntro" class="panel-card hidden">
+      <h2 data-i18n="ranked.intro.title"></h2>
+      <p class="muted" data-i18n="ranked.intro.desc"></p>
+      <button id="rankedStartBtn" class="btn btn-primary" data-i18n="ranked.start"></button>
+    </div>
+
+    <div id="rankedPlay" class="hidden">
+      <div class="run-bar">
+        <span id="rankedRound" class="run-round"></span>
+        <div class="run-progress"><div id="rankedProgress" class="run-fill"></div></div>
+        <span id="rankedScore" class="run-score"></span>
+      </div>
+      <div id="rankedFeedback" class="feedback"></div>
+      <div class="board-slot" id="slot-ranked"></div>
+
+      <div id="rankedReveal" class="ranked-reveal hidden">
+        <div id="rrVerdict" class="rr-verdict"></div>
+        <div id="rrTournament" class="tournament"></div>
+        <div id="rrSeries" class="series-meta"></div>
+        <div id="rrOutcome" class="outcome rr-outcome">
+          <span id="rrWinner" class="outcome-winner"></span>
+          <span id="rrScore" class="outcome-score"></span>
+          <span id="rrDuration" class="outcome-duration"></span>
+          <a id="rrDotabuff" class="btn btn-dotabuff" target="_blank" rel="noopener" data-i18n="outcome.dotabuff"></a>
+        </div>
+        <div class="reason-slot" id="reason-slot-ranked"></div>
+        <button id="rrContinue" class="btn btn-primary rr-continue"></button>
+      </div>
+    </div>
+
+    <div id="rankedResult" class="panel-card result-card hidden">
+      <h2 data-i18n="ranked.resultTitle"></h2>
+      <div class="result-medal" id="rankedMedal"></div>
+      <div class="result-stats">
+        <div><span class="rs-label" data-i18n="ranked.finalScore"></span><span id="rsScore" class="rs-val"></span></div>
+        <div><span class="rs-label" data-i18n="ranked.ratingNow"></span><span id="rsRating" class="rs-val"></span></div>
+        <div><span class="rs-label" data-i18n="ranked.correctCount"></span><span id="rsCorrect" class="rs-val"></span></div>
+      </div>
+      <div id="rsDelta" class="rs-delta"></div>
+      <div class="result-actions">
+        <button id="rankedAgainBtn" class="btn btn-primary" data-i18n="ranked.again"></button>
+        <button class="btn" data-i18n="ranked.toLb" onclick="switchMode('lb')"></button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================ GUESS THE BUILD ============================ -->
+  <section id="view-builds" class="view game hidden">
+    <section class="subcontrols">
+      <button id="buildNewBtn" class="btn btn-primary" data-i18n="builds.new"></button>
+    </section>
+    <div class="build-card">
+      <div class="build-q" data-i18n="builds.q"></div>
+      <div id="buildStats" class="build-stats"></div>
+      <div class="build-items" id="buildItems"></div>
+      <div id="buildFeedback" class="result"></div>
+    </div>
+    <div id="buildReveal" class="ranked-reveal hidden">
+      <div id="bRvVerdict" class="rr-verdict"></div>
+      <div id="bRvHero" class="b-rv-hero"></div>
+      <div id="bRvWho" class="muted"></div>
+      <div id="bRvTournament" class="tournament"></div>
+      <div id="bRvSeries" class="series-meta"></div>
+      <a id="bRvDotabuff" class="btn btn-dotabuff" target="_blank" rel="noopener" data-i18n="outcome.dotabuff"></a>
+      <button id="bRvContinue" class="btn btn-primary rr-continue" data-i18n="builds.next"></button>
+    </div>
+    <div class="board-slot" id="slot-builds"></div>
+  </section>
+
+  <!-- ============================ VS AI ============================ -->
+  <section id="view-vsai" class="view game hidden">
+    <div id="vsaiSetup" class="panel-card">
+      <h2 data-i18n="vsai.title"></h2>
+      <p class="muted" data-i18n="vsai.desc"></p>
+      <div class="diff-row" id="vsaiDiffRow">
+        <button class="diff-btn" data-diff="easy"><span class="diff-name" data-i18n="vsai.easy"></span><span class="diff-sub" data-i18n="vsai.easy.sub"></span></button>
+        <button class="diff-btn active" data-diff="medium"><span class="diff-name" data-i18n="vsai.medium"></span><span class="diff-sub" data-i18n="vsai.medium.sub"></span></button>
+        <button class="diff-btn" data-diff="hard"><span class="diff-name" data-i18n="vsai.hard"></span><span class="diff-sub" data-i18n="vsai.hard.sub"></span></button>
+      </div>
+      <button id="vsaiStartBtn" class="btn btn-primary" data-i18n="vsai.start"></button>
+    </div>
+
+    <div id="vsaiDraft" class="hidden">
+      <div class="run-bar">
+        <span id="vsaiTurn" class="run-round"></span>
+        <span id="vsaiDiffTag" class="run-score"></span>
+      </div>
+      <div class="board-slot" id="slot-vsai"></div>
+      <button id="vsaiToPos" class="btn btn-primary rr-continue hidden" data-i18n="vsai.toPositions"></button>
+    </div>
+
+    <div id="vsaiPositions" class="panel-card hidden">
+      <h2 data-i18n="vsai.posTitle"></h2>
+      <p class="muted" data-i18n="vsai.posDesc"></p>
+      <div id="vsaiPosList" class="pos-list"></div>
+      <button id="vsaiAnalyzeBtn" class="btn btn-primary" data-i18n="vsai.analyze"></button>
+    </div>
+
+    <div id="vsaiResult" class="panel-card hidden">
+      <div id="vsaiVerdict" class="verdict"></div>
+      <div class="cmp-head">
+        <span class="cmp-side mine" data-i18n="vsai.you"></span>
+        <span class="cmp-axis"></span>
+        <span class="cmp-side ai" data-i18n="vsai.ai"></span>
+      </div>
+      <div id="vsaiCompare" class="cmp"></div>
+      <div id="vsaiCoach" class="coach"></div>
+      <div class="result-actions">
+        <button id="vsaiAgainBtn" class="btn btn-primary" data-i18n="vsai.again"></button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================ MULTIPLAYER ============================ -->
+  <section id="view-mp" class="view game hidden">
+    <div id="mpGate" class="gate hidden">
+      <p data-i18n="auth.needLogin"></p>
+      <button class="btn btn-primary" data-i18n="auth.login" onclick="openAuth()"></button>
+    </div>
+
+    <div id="mpSetup" class="panel-card hidden">
+      <h2 data-i18n="mp.title"></h2>
+      <div class="diff-row" id="mpModeRow">
+        <button class="diff-btn active" data-mpmode="guess"><span class="diff-name" data-i18n="mp.modeGuess"></span><span class="diff-sub" data-i18n="mp.modeGuessSub"></span></button>
+        <button class="diff-btn" data-mpmode="draft"><span class="diff-name" data-i18n="mp.modeDraft"></span><span class="diff-sub" data-i18n="mp.modeDraftSub"></span></button>
+      </div>
+      <div class="mp-setup-row">
+        <button id="mpCreateBtn" class="btn btn-primary" data-i18n="mp.create"></button>
+        <span class="mp-or">/</span>
+        <input id="mpCodeInput" class="code-input" maxlength="5" data-i18n-ph="mp.codePh" autocomplete="off">
+        <button id="mpJoinBtn" class="btn" data-i18n="mp.join"></button>
+      </div>
+      <div id="mpSetupErr" class="feedback"></div>
+    </div>
+
+    <div id="mpDraft" class="hidden">
+      <div class="run-bar"><span id="mpDraftTurn" class="run-round"></span></div>
+      <div class="board-slot" id="slot-mp-draft"></div>
+      <div id="mpDraftPos" class="panel-card hidden">
+        <h2 data-i18n="vsai.posTitle"></h2>
+        <p class="muted" data-i18n="vsai.posDesc"></p>
+        <div id="mpDraftPosList" class="pos-list"></div>
+        <button id="mpDraftPosBtn" class="btn btn-primary" data-i18n="mp.posDone"></button>
+        <div id="mpDraftPosWait" class="muted"></div>
+      </div>
+      <div id="mpDraftResult" class="panel-card hidden">
+        <div id="mpDraftVerdict" class="verdict"></div>
+        <div id="mpDraftCompare" class="cmp"></div>
+        <div id="mpDraftCoach" class="coach"></div>
+        <div class="result-actions">
+          <button id="mpDraftAgain" class="btn btn-primary" data-i18n="mp.rematch"></button>
+        </div>
+      </div>
+    </div>
+
+    <div id="mpLobby" class="panel-card hidden">
+      <div class="lobby-code-row">
+        <span data-i18n="mp.lobbyCode"></span>
+        <span id="mpCodeShow" class="lobby-code"></span>
+      </div>
+      <div class="muted" data-i18n="mp.share"></div>
+      <h3 data-i18n="mp.players"></h3>
+      <div id="mpPlayers" class="lobby-players"></div>
+      <div class="result-actions">
+        <button id="mpStartBtn" class="btn btn-primary hidden" data-i18n="mp.startMatch"></button>
+        <button id="mpLeaveBtn" class="btn" data-i18n="mp.leave"></button>
+      </div>
+      <div id="mpLobbyMsg" class="feedback"></div>
+    </div>
+
+    <div id="mpPlay" class="hidden">
+      <div class="run-bar">
+        <span id="mpRound" class="run-round"></span>
+        <div class="run-progress"><div id="mpProgress" class="run-fill"></div></div>
+        <span id="mpScore" class="run-score"></span>
+      </div>
+      <div id="mpOppBar" class="opp-bar"></div>
+      <div id="mpFeedback" class="feedback"></div>
+      <div class="board-slot" id="slot-mp"></div>
+
+      <div id="mpReveal" class="ranked-reveal hidden">
+        <div id="mpRvVerdict" class="rr-verdict"></div>
+        <div id="mpRvTournament" class="tournament"></div>
+        <div id="mpRvSeries" class="series-meta"></div>
+        <div id="mpRvOutcome" class="outcome rr-outcome">
+          <span id="mpRvWinner" class="outcome-winner"></span>
+          <span id="mpRvScore" class="outcome-score"></span>
+          <span id="mpRvDuration" class="outcome-duration"></span>
+          <a id="mpRvDotabuff" class="btn btn-dotabuff" target="_blank" rel="noopener" data-i18n="outcome.dotabuff"></a>
+        </div>
+        <div class="reason-slot" id="reason-slot-mp"></div>
+        <button id="mpRvContinue" class="btn btn-primary rr-continue"></button>
+        <div id="mpRvWait" class="muted"></div>
+      </div>
+    </div>
+
+    <div id="mpResult" class="panel-card result-card hidden">
+      <h2 id="mpResultTitle"></h2>
+      <div id="mpResultBody" class="mp-result-body"></div>
+      <div class="result-actions">
+        <button id="mpRematchBtn" class="btn btn-primary" data-i18n="mp.rematch"></button>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================ LEADERBOARD ============================ -->
+  <section id="view-lb" class="view game hidden">
+    <div class="panel-card">
+      <h2 data-i18n="lb.title"></h2>
+      <div class="diff-row" id="lbTabs">
+        <button class="diff-btn active" data-lb="ranked"><span class="diff-name" data-i18n="lb.tabRanked"></span></button>
+        <button class="diff-btn" data-lb="builds"><span class="diff-name" data-i18n="lb.tabBuilds"></span></button>
+      </div>
+      <table class="lb-table">
+        <thead id="lbHead"></thead>
+        <tbody id="lbBody"></tbody>
+      </table>
+      <div id="lbEmpty" class="muted hidden" data-i18n="lb.empty"></div>
+    </div>
+  </section>
+
+  <!-- ============================ SHARED BOARD ============================ -->
+  <div id="board" class="board">
+    <section class="drafts">
+      <div class="draft draft-radiant">
+        <div class="draft-head">
+          <span class="side-badge radiant">Radiant</span>
+          <span id="radiantName" class="team-name hidden-name">???</span>
+        </div>
+        <div id="radiantPicks" class="picks"></div>
+        <div class="bans-block"><div class="bans-label">Bans</div><div id="radiantBans" class="bans"></div></div>
+      </div>
+      <div class="vs">VS</div>
+      <div class="draft draft-dire">
+        <div class="draft-head">
+          <span class="side-badge dire">Dire</span>
+          <span id="direName" class="team-name hidden-name">???</span>
+        </div>
+        <div id="direPicks" class="picks"></div>
+        <div class="bans-block"><div class="bans-label">Bans</div><div id="direBans" class="bans"></div></div>
+      </div>
+    </section>
+    <section class="picker">
+      <div class="picker-head">
+        <h2 id="pickerTitle"></h2>
+        <input id="search" type="text" data-i18n-ph="search.ph" autocomplete="off">
+      </div>
+      <div id="heroGrid" class="hero-grid"></div>
+    </section>
+  </div>
+
+  <!-- ===================== SHARED REASONING PANEL (moved into slots) ===================== -->
+  <section id="reasoning" class="reasoning hidden">
+    <div class="reasoning-head">
+      <h2 data-i18n="reason.title">Why this pick?</h2>
+      <span id="archeBadge" class="arche-badge"></span>
+      <span id="confBadge" class="conf-badge"></span>
+    </div>
+    <div id="openRole" class="open-role"></div>
+    <div class="reasoning-grid">
+      <div class="rblock"><h3 data-i18n="reason.needs"></h3><div id="needList" class="chips"></div></div>
+      <div class="rblock"><h3 data-i18n="reason.cands"></h3><ol id="candList" class="cand-list"></ol><div id="rankNote" class="rank-note"></div></div>
+      <div class="rblock"><h3 id="whyHead" data-i18n="reason.why"></h3><div id="whyBody" class="why-body"></div></div>
+    </div>
+    <div id="conceptBox" class="concept-box"></div>
+    <div class="reasoning-foot" data-i18n="reason.foot"></div>
+  </section>
+
+  <!-- ============================ AUTH MODAL ============================ -->
+  <div id="authModal" class="modal hidden">
+    <div class="modal-box">
+      <button class="modal-close" onclick="closeAuth()">×</button>
+      <div class="auth-tabs">
+        <button id="authTabLogin" class="auth-tab active" data-i18n="auth.login"></button>
+        <button id="authTabReg" class="auth-tab" data-i18n="auth.register"></button>
+      </div>
+      <input id="authUser" class="auth-input" data-i18n-ph="auth.username" autocomplete="username">
+      <input id="authPass" class="auth-input" type="password" data-i18n-ph="auth.password" autocomplete="current-password">
+      <div id="authErr" class="feedback"></div>
+      <button id="authSubmit" class="btn btn-primary auth-submit"></button>
+    </div>
+  </div>
+
+  <div id="loader" class="loader" data-i18n="loading"></div>
+
+  <script src="i18n.js?v=20260629a"></script>
+  <script src="api.js?v=20260629a"></script>
+  <script src="engine.js?v=20260629a"></script>
+  <script src="app.js?v=20260629a"></script>
+</body>
+</html>

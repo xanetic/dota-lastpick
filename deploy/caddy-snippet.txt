@@ -1,0 +1,23 @@
+	}
+	# Guess the Last Pick — статичная мини-игра (Dota 2)
+	redir /guessthelastpick /guessthelastpick/ permanent
+	# бэкенд игры (ранкед/аккаунты/мультиплеер) на 127.0.0.1:8422.
+	# strip_prefix убирает /guessthelastpick, чтобы бэкенд видел /api/... (и WS /api/mp/ws).
+	handle /guessthelastpick/api/* {
+		uri strip_prefix /guessthelastpick
+		reverse_proxy 127.0.0.1:8422
+	}
+	handle_path /guessthelastpick/* {
+		root * /var/www/guessthelastpick
+		encode zstd gzip
+		# HTML всегда перезапрашивается (иначе браузер кэширует index.html и не видит
+		# обновлённые ?v= ассеты); сами ассеты версионируются ?v= и кэшируются.
+		@html path / *.html
+		header @html Cache-Control "no-cache"
+		file_server
+	}
+	# всё остальное — сайт
+	handle {
+		encode zstd gzip
+		reverse_proxy 127.0.0.1:8000
+	}

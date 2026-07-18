@@ -1,0 +1,18 @@
+[Unit]
+Description=Guess the Last Pick API (ranked/accounts/multiplayer)
+After=network.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/root/dota-lastpick
+ExecStart=/root/dota-lastpick/venv/bin/python -m uvicorn server.app:app --host 127.0.0.1 --port 8422
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+TimeoutStopSec=20
+
+[Install]
+WantedBy=multi-user.target
